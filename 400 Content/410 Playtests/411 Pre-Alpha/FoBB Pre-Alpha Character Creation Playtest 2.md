@@ -1990,7 +1990,7 @@ You attempt to come up with a brand new color. Make an *extreme Creativity* test
 # ***Section 3: The Glossaries***
 ## Glossary 1: Action Tags
 
-![[Tags List#^61d8b4]]
+![[Tags List#^d97664|clean nlk]]
 ## Glossary 2: Perks 
 ![[Perks List|clean nlk]]
 ## Glossary 3: Crafting Materials 
