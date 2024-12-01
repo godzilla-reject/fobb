@@ -1,0 +1,21 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "livePreview": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "300 Staging",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "source",
+  "defaultViewMode": "preview",
+  "trashOption": "local",
+  "attachmentFolderPath": "000 Assets",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

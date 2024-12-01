@@ -1,0 +1,8 @@
+- **Bloodied**
+- **Defenseless**
+- **Drained**
+- **Hidden**
+- **Offenseless**
+- **Unconscious**
+- **Unprepared**
+- **Winded**

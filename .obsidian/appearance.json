@@ -1,0 +1,12 @@
+{
+  "accentColor": "#9340ba",
+  "theme": "obsidian",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "pf2-compendium",
+    "MCL Wide Views",
+    "MCL Multi Column",
+    "MCL Gallery Cards"
+  ]
+}

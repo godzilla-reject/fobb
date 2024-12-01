@@ -1,0 +1,48 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-sort-and-permute-lines:sort-alphabetically",
+      "icon": "lucide-letter-text",
+      "name": "Sort & Permute lines: Sort alphabetically",
+      "mode": "any"
+    },
+    {
+      "id": "better-export-pdf:export-current-file-to-pdf",
+      "icon": "lucide-book",
+      "name": "Better Export PDF: Export current file to PDF",
+      "mode": "any"
+    },
+    {
+      "id": "digitalgarden:publish-note",
+      "icon": "lucide-arrow-up",
+      "name": "Digital Garden: Publish Single Note",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

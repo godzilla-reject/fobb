@@ -1,0 +1,8 @@
+- Bomba References 
+	- https://www.youtube.com/watch?v=4nFyLdsyIgk
+		- Paseo: Opening Salute
+		- Piquetes: Basic Steps
+			- Marullo "Two-Step": a two-step motion that creates a wave-like pattern.
+			- Abanico Doble "Quick Step": a foot shuffle that drives you forward. 
+			- Carrera Para Atras: Rapid foot shuffle
+		- El Cierre: Closing Statement

@@ -1,0 +1,21 @@
+- ***Physicality***: Primary Trait; governs physical prowess.
+	- **Strength**: Secondary Trait; a measure of one's gross motor control.
+		- *Power*: Tertiary Trait; a measure of one's raw bodily power.
+		- *Fortitude*: Tertiary Trait; a measure of one's bodily fortitude.
+	- **Agility**: Secondary Trait; a measure of one's fine motor control.
+		- *Dexterity*: Tertiary Trait; a measure of one's grace and manual coordination.
+		- *Speed*: Tertiary Trait; a measure of one's speed and reaction time.
+- ***Mentality***: Primary Trait; governs mental prowess.
+	- **Will**: Secondary Trait; a measure of mental strength.
+		- *Observation*: Tertiary Trait; a measure of one's perceptions, both passive and active.
+		- *Resolve*: Tertiary Trait; a measure of one's raw willpower.
+	- **Intellect**: Secondary Trait; a measure of mental dexterity.
+		- *Crafting*: Tertiary Trait; a measure of one's ability to create practical things.
+		- *Memory*: Tertiary Trait; a measure of how robust one's recall is.
+- ***Spirituality***: Primary Trait; governs magical ability.
+	- **Connection**: Secondary Trait; a measure of how well one converses with others.
+		- *Appeal*: Tertiary Trait; a measure of how one entertains and convinces others.
+		- *Portrayal*: Tertiary Trait; a measure of how one carries themselves
+	- **Soul**: Secondary Trait; a measure of how well one is aware of themself.
+		- *Tenacity*: Tertiary Trait; a measure of how powerful one's personality is.
+		- *Creativity*: Tertiary Trait; a measure of how well one can create abstract things.
