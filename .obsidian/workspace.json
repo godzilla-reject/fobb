@@ -16,21 +16,46 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Species Placeholder",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"000 Assets/Species Placeholder.png\"},\"icon\":\"lucide-image\",\"title\":\"Species Placeholder\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "School Placeholder",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"000 Assets/School Placeholder.png\"},\"icon\":\"lucide-image\",\"title\":\"School Placeholder\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Job Placeholder",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"000 Assets/Job Placeholder.png\"},\"icon\":\"lucide-image\",\"title\":\"Job Placeholder\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "FoBB Pre-Alpha Character Creation Playtest 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"FoBB Pre-Alpha Character Creation Playtest 2\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Home Dashboard",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"100 Utilities/Home Dashboard.canvas\",\"viewState\":{\"x\":-80,\"y\":-230,\"zoom\":-0.03522247346020309}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Home Dashboard\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "100 Utilities/Home Dashboard.canvas",
-                "viewState": {
-                  "x": -80,
-                  "y": -230,
-                  "zoom": -0.03522247346020309
-                }
+                "file": "000 Assets/Weapon Placeholder.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home Dashboard"
+              "icon": "lucide-image",
+              "title": "Weapon Placeholder"
             }
           }
         ]
@@ -339,14 +364,17 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "000 Assets/Species Placeholder.png",
+    "000 Assets/School Placeholder.png",
+    "000 Assets/Job Placeholder.png",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
+    "100 Utilities/Home Dashboard.canvas",
     "100 Utilities/110 Reference Notes/111 Lists/Perks List.md",
     "100 Utilities/110 Reference Notes/111 Lists/Tags List.md",
     "100 Utilities/110 Reference Notes/111 Lists/Crafting Materials List.md",
     "300 Staging/Conditions List.md",
     "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
     "400 Content/Fable of the Behemoth Breakers CRB.md",
-    "100 Utilities/Home Dashboard.canvas",
     "README.md",
     "Backup Repo/README.md",
     "Backup Repo",
@@ -373,10 +401,7 @@
     "300 Staging/paper.md",
     "300 Staging/Traits List.md",
     "400 Content/410 Playtests",
-    "000 Assets/School Placeholder.png",
-    "000 Assets/Job Placeholder.png",
     "000 Assets/Weapon Placeholder.png",
-    "000 Assets/Species Placeholder.png",
     "000 Assets/Pasted image 20241109034325.png",
     "200 Templates/220 Inserter Templates/222 Action Templates",
     "200 Templates/220 Inserter Templates/221 Callout Templates"
