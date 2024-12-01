@@ -60,14 +60,21 @@
 				- Dodge: 
 				- Block:
 		- Roulette-Rang: A six-sided boomerang that randomizes its damage types and elemental affinities. The user can burn mana to "lock in" a damage type, increasing both weapon damage and blocking potency against that damage type.
-		- Dancer Fans: a pair of bladed fans that can assist dodging by moving massive amounts of air, while also interlocking to block damage. 
 			- Mechanics
-				- Galeforce: Avoiding damage and alternating defense types generates Gale charges. Gale charges can be consumed to guarantee perfect defenses, or activate certain abilities.
 			- Stats 
 				- Damage Die:
 				- Damage Type:
 				- Dodge: 
 				- Block:
+		- Dancer Fans: a pair of bladed fans that can assist dodging by moving massive amounts of air, while also interlocking to block damage. 
+			- Mechanics
+				- Dancing Gales: Avoiding damage and alternating defense types generates Gale charges. Gale charges can be consumed to guarantee perfect defenses, or activate certain abilities. Max Gale Charges: 3
+				- Galeforce: As long the user has 1 Gale Charge, any physical damage the Dancer Fans deal is instead air damage. As long as the user has max Gale charges, their defenses are increased by 1 step.
+			- Stats 
+				- Damage Die: 1d6
+				- Damage Type: cutting
+				- Dodge: d8
+				- Block: d6
 - Equipment
 	- Starter Arms and Armors: Two sets of each, the "bone" and "metal" equivalent.
 		- Armor
