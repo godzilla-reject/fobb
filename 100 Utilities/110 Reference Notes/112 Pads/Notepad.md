@@ -22,7 +22,7 @@
 				- Riot Configuration: 
 				- Shot Types: 
 		- Roulette-Rang: A six-sided boomerang that randomizes its damage types and elemental affinities. The user can burn mana to "lock in" a damage type, increasing both weapon damage and blocking potency against that damage type.
-		- 
+		- Dancer Fans: a pair of bladed fans that can assi
 - Equipment
 	- Starter Arms and Armors: Two sets of each, the "bone" and "metal" equivalent.
 		- Armor
