@@ -6,3 +6,13 @@
 - **Unconscious**
 - **Unprepared**
 - **Winded**
+---
+- List  ^82c4f3
+	- **Bloodied**
+	- **Defenseless**
+	- **Drained**
+	- **Hidden**
+	- **Offenseless**
+	- **Unconscious**
+	- **Unprepared**
+	- **Winded**

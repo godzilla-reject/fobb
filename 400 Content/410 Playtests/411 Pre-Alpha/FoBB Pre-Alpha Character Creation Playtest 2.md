@@ -1992,11 +1992,11 @@ You attempt to come up with a brand new color. Make an *extreme Creativity* test
 
 ![[Tags List#^d97664|clean nlk]]
 ## Glossary 2: Perks 
-![[Perks List|clean nlk]]
+![[Perks List#^0f2b12|clean nlk]]
 ## Glossary 3: Crafting Materials 
-![[Crafting Materials List|clean nlk]]
+![[Crafting Materials List#^d8fc3b|clean nlk]]
 ## Glossary 4: Conditions List 
-![[Conditions List|clean nlk]]
+![[Conditions List#^82c4f3|clean nlk]]
 # Conclusion
 I'd like to thank you for your time, and I sincerely hope you had fun. If you didn't, then I apologize!
 Make sure you tell me why; that's how I improve the game! 
