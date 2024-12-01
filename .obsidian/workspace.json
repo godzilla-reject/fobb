@@ -4,48 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "e9da153303f25c09",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c9198a5d1860d654",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Conditions List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"300 Staging/Conditions List.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Conditions List\"}",
-                  "eState": "{}"
-                },
-                {
                   "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Fable of the Behemoth Breakers CRB",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"400 Content/Fable of the Behemoth Breakers CRB.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Fable of the Behemoth Breakers CRB\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Home Dashboard",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"100 Utilities/Home Dashboard.canvas\",\"viewState\":{\"x\":-80,\"y\":-334.3942517408207,\"zoom\":-0.03522247346020309}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Home Dashboard\"}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
-                "mode": "source",
-                "source": true
+                "file": "100 Utilities/Home Dashboard.canvas",
+                "viewState": {
+                  "x": -80,
+                  "y": -230,
+                  "zoom": -0.03522247346020309
+                }
               },
-              "icon": "lucide-file",
-              "title": "FoBB Pre-Alpha Character Creation Playtest 2"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home Dashboard"
             }
           }
         ]
@@ -131,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "49465ef008682250",
@@ -350,15 +334,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9198a5d1860d654",
+  "active": "e7a7b303c61786dc",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "100 Utilities/110 Reference Notes/111 Lists/Perks List.md",
     "100 Utilities/110 Reference Notes/111 Lists/Tags List.md",
     "100 Utilities/110 Reference Notes/111 Lists/Crafting Materials List.md",
-    "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "300 Staging/Conditions List.md",
     "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
     "400 Content/Fable of the Behemoth Breakers CRB.md",
