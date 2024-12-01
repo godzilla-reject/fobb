@@ -5,6 +5,7 @@ dg-publish: true
 # Introduction
 >[!quote|author] Garrison Commander Alessia
 >WARNING, ALL BREAKERS: ***Behemoth Emergence Imminent.***
+
 Welcome to the second pre-alpha playtest for *Fable of the Behemoth Breakers*, a Monster-Hunting Tabletop Roleplaying Game. In this world, you are a _Breaker_, a warrior trained in powerful magic and massive weaponry to engage in combat with Behemoths, creatures that routinely emerge from the Uberwald to attempt to destroy mortal settlements.
 
 Breakers are organized into Companies, and it is these Companies that strike out into the Uberwald to claim territory and begin new settlements. Much like last time, you won't be making your Company this playtest, but that *is* the planned focus of Playtest 3!
