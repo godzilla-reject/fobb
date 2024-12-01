@@ -1968,11 +1968,15 @@ Now that you've made your character, its time to make your *first ever* trait te
 
 A reminder: if you didn't read Part 1 of Section 1, I recommend going back and reading it now. It explains how these tests work *in the way that the CRB will*, which is why I am not reproducing those rules here. Also, make sure you're taking notes on the way the game feels while making these tests. Game-feel feedback is super important.
 ## Primary Attribute Tests 
-These two tests are 
+These two tests are testing *Primary Attribute* traits.
 ### #1  Simple 
+You attempt to catch a large boulder as it flies towards your ally. Make an *average* ***Physicality*** test. 
 ### #2 Complex
+You struggle against a Behemoth's psionic attack. Make a *hard* ***Mentality*** test with a +3 item bonus. 
 ## Secondary Attribute Tests 
+These two tests are testing *Secondary Attribute* traits.
 ### #1  Simple 
+You attempt to connect to a long-extinct Behemoth spirit. Make an *average*
 ### #2 Complex
 ## Skill Tests 
 ### #1  Simple 
