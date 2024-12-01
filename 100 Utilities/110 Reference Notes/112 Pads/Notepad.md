@@ -7,7 +7,7 @@
 	- Agile-Class Weaponry
 		- Yo-Yo Wheel: a massive wheel, bound to a cord and handle that allows the user to open up the wheel, exposing massive blades.
 			- Mechanic: 
-			- Roto-Engine- Landing a successful attack in Blunt form excites the wheel, increasing rotational force. Landing another attack, this time in Bladed form, preserves momentum. Continued alternating attacks allows for this increased damage to be preserved. 
+				- Roto-Engine- Landing a successful attack in Blunt form excites the wheel, increasing rotational force. Landing another attack, this time in Bladed form, preserves momentum. Continued alternating attacks allows for this increased damage to be preserved. 
 		- Bow-Blades: A pair of large, curved blades that can open up, then combine, into a powerful, yet short-ranged bow.
 			- Mechanic: 
 				- String Resonance- Attacks in blade form build resonance, which can be vented by firing arrows in bow form. Higher resonance=more arrow damage, and at max resonance, firing the bow consumes no mana.
@@ -250,18 +250,7 @@
 	- Secondary and Tertiary Weapons 
 		- 1 from each Weight Class
 		- Alternatively, you can unlock a "super move" instead of a new weapon.
-- Playtest 2 Content 
-	- Full Character Creation
-	- Trait Tests 
-		- 2x Primary Attribute tests.
-			1. A simple test. 
-			2. A complex test with 1 type of modifier.
-		- 2x Secondary Attribute tests.
-			1. A simple test. 
-			2. A complex test with 2 types of modifiers.
-		- 2x Skill tests.
-			1. A simple test. 
-			2. A complex test with 3 types of modifiers.
+
 # Difficulty 
 
 | Difficulty Level | Target Number |

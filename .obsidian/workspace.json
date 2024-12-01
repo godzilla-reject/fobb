@@ -32,8 +32,32 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home Dashboard"
             }
+          },
+          {
+            "id": "727a1b40b5e125b8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Notepad"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -333,17 +357,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "727a1b40b5e125b8",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "100 Utilities/Home Dashboard.canvas",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "100 Utilities/110 Reference Notes/111 Lists/Conditions List.md",
     "New Text Document.txt",
     "300 Staging/test note.md",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Character Creation Playtest 1.md",
-    "100 Utilities/Home Dashboard.canvas",
     "000 Assets/Weapon Placeholder.png",
     "000 Assets/Species Placeholder.png",
     "000 Assets/School Placeholder.png",
