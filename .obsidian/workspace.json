@@ -16,21 +16,30 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Fable of the Behemoth Breakers CRB",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"400 Content/Fable of the Behemoth Breakers CRB.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Fable of the Behemoth Breakers CRB\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Home Dashboard",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"100 Utilities/Home Dashboard.canvas\",\"viewState\":{\"x\":-80,\"y\":-334.3942517408207,\"zoom\":-0.03522247346020309}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Home Dashboard\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "100 Utilities/Home Dashboard.canvas",
-                "viewState": {
-                  "x": -80,
-                  "y": -334.3942517408207,
-                  "zoom": -0.03522247346020309
-                }
+                "file": "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home Dashboard"
+              "icon": "lucide-file",
+              "title": "FoBB Pre-Alpha Character Creation Playtest 2"
             }
           }
         ]
@@ -339,10 +348,10 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "README.md",
     "400 Content/Fable of the Behemoth Breakers CRB.md",
-    "Backup Repo/README.md",
     "100 Utilities/Home Dashboard.canvas",
+    "README.md",
+    "Backup Repo/README.md",
     "Backup Repo",
     "New folder",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
@@ -378,7 +387,6 @@
     "000 Assets/Weapon Placeholder.png",
     "000 Assets/Species Placeholder.png",
     "000 Assets/Pasted image 20241109034325.png",
-    "400 Content/Fable of the Behemoth Breakers Playtest 1 Packet.md",
     "200 Templates/220 Inserter Templates/222 Action Templates",
     "200 Templates/220 Inserter Templates/221 Callout Templates"
   ]

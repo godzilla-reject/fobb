@@ -2,11 +2,6 @@
 dg-home: true
 dg-publish: true
 ---
-
-```table-of-contents
-title: # Table of Contents
-maxLevel: 3
-```
 # Introduction
 >[!quote|author] Garrison Commander Alessia
 >WARNING, ALL BREAKERS: ***Behemoth Emergence Imminent.***
