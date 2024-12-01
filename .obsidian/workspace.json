@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ec1795d77c2d3656",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "85ba248c64c2f6bc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Species Placeholder",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"000 Assets/Species Placeholder.png\"},\"icon\":\"lucide-image\",\"title\":\"Species Placeholder\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "School Placeholder",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"000 Assets/School Placeholder.png\"},\"icon\":\"lucide-image\",\"title\":\"School Placeholder\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Job Placeholder",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"000 Assets/Job Placeholder.png\"},\"icon\":\"lucide-image\",\"title\":\"Job Placeholder\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "FoBB Pre-Alpha Character Creation Playtest 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"FoBB Pre-Alpha Character Creation Playtest 2\"}",
                   "eState": "{}"
                 },
                 {
@@ -50,12 +26,14 @@
               ]
             },
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "000 Assets/Weapon Placeholder.png"
+                "file": "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Weapon Placeholder"
+              "icon": "lucide-file",
+              "title": "FoBB Pre-Alpha Character Creation Playtest 2"
             }
           }
         ]
@@ -359,16 +337,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "85ba248c64c2f6bc",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "100 Utilities/Home Dashboard.canvas",
+    "000 Assets/Weapon Placeholder.png",
     "000 Assets/Species Placeholder.png",
     "000 Assets/School Placeholder.png",
     "000 Assets/Job Placeholder.png",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
-    "100 Utilities/Home Dashboard.canvas",
     "100 Utilities/110 Reference Notes/111 Lists/Perks List.md",
     "100 Utilities/110 Reference Notes/111 Lists/Tags List.md",
     "100 Utilities/110 Reference Notes/111 Lists/Crafting Materials List.md",
@@ -401,7 +380,6 @@
     "300 Staging/paper.md",
     "300 Staging/Traits List.md",
     "400 Content/410 Playtests",
-    "000 Assets/Weapon Placeholder.png",
     "000 Assets/Pasted image 20241109034325.png",
     "200 Templates/220 Inserter Templates/222 Action Templates",
     "200 Templates/220 Inserter Templates/221 Callout Templates"
