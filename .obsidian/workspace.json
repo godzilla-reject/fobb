@@ -47,8 +47,50 @@
               "icon": "lucide-file",
               "title": "Tags List"
             }
+          },
+          {
+            "id": "bc33c000b0f06375",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Tags List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"100 Utilities/110 Reference Notes/111 Lists/Tags List.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Tags List\"}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fable of the Behemoth Breakers CRB",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"400 Content/Fable of the Behemoth Breakers CRB.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Fable of the Behemoth Breakers CRB\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Home Dashboard",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"100 Utilities/Home Dashboard.canvas\",\"viewState\":{\"x\":-80,\"y\":-334.3942517408207,\"zoom\":-0.03522247346020309}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Home Dashboard\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "FoBB Pre-Alpha Character Creation Playtest 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -350,11 +392,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ef1bdc2404aab8f",
+  "active": "bc33c000b0f06375",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "100 Utilities/110 Reference Notes/111 Lists/Tags List.md",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
     "400 Content/Fable of the Behemoth Breakers CRB.md",
@@ -367,7 +410,6 @@
     "400 Content/410 Playtests/411 Pre-Alpha",
     "300 Staging/Conditions List.md",
     "100 Utilities/110 Reference Notes/111 Lists/List of Lists.md",
-    "100 Utilities/110 Reference Notes/111 Lists/Tags List.md",
     "100 Utilities/110 Reference Notes/111 Lists/To-Do List.md",
     "100 Utilities/110 Reference Notes/111 Lists/Crafting Materials List.md",
     "100 Utilities/110 Reference Notes/References.md",

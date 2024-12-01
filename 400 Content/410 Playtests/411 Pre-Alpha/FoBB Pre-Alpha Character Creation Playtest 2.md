@@ -1989,7 +1989,8 @@ You attempt to come up with a brand new color. Make an *extreme Creativity* test
 - What is the final modifier for this test? 
 # ***Section 3: The Glossaries***
 ## Glossary 1: Action Tags
-![[Tags List|clean nlk no-title no-h1]]
+
+![[Tags List#^61d8b4]]
 ## Glossary 2: Perks 
 ![[Perks List|clean nlk]]
 ## Glossary 3: Crafting Materials 
