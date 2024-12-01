@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "FoBB Pre-Alpha Character Creation Playtest 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"FoBB Pre-Alpha Character Creation Playtest 2\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "FoBB Character Creation Playtest 1",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"400 Content/410 Playtests/411 Pre-Alpha/FoBB Character Creation Playtest 1.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"FoBB Character Creation Playtest 1\"}",
@@ -34,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
+                "file": "300 Staging/Conditions List.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "FoBB Pre-Alpha Character Creation Playtest 2"
+              "title": "Conditions List"
             }
           }
         ]
@@ -343,14 +349,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a6e37cf74e473f1f",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "New Text Document.txt",
     "300 Staging/test note.md",
-    "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Character Creation Playtest 1.md",
     "100 Utilities/Home Dashboard.canvas",
     "000 Assets/Weapon Placeholder.png",
@@ -388,7 +394,6 @@
     "300 Staging/paper.md",
     "400 Content/410 Playtests",
     "000 Assets/Pasted image 20241109034325.png",
-    "200 Templates/220 Inserter Templates/222 Action Templates",
-    "200 Templates/220 Inserter Templates/221 Callout Templates"
+    "200 Templates/220 Inserter Templates/222 Action Templates"
   ]
 }
