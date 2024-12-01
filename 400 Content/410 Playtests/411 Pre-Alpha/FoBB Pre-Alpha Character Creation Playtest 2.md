@@ -1979,12 +1979,16 @@ These two tests are testing *Secondary Attribute* traits.
 You attempt to connect to a long-extinct Behemoth spirit. Make an *average* **Connection** test.
 ### #2 Complex
 A rival Breaker attempts to best you in a game of wits. Make a *very easy* **Intellect** test with a +2 item bonus and a -2 circumstance penalty.
+- What is the final TN for this test?
 ## Skill Tests 
 These two tests are testing *Skill* traits.
 ### #1  Simple 
 You attempt to outpace a Behemoth. Make an *easy Speed* test.
 ### #2 Complex
-You attempt to come up with a brand new color. Make an *extreme Creativity* test with a 
+You attempt to come up with a brand new color. Make an *extreme Creativity* test with a +4 item bonus, +2 item bonus, -3 item penalty, +1 circumstance bonus, and a -5 status penalty.
+- What is the final TN for this test? 
+- What is the final item bonus for this test? 
+- What is the final modifier for this test? 
 # ***Section 3: The Glossaries***
 ## Glossary 1: Action Tags
 ![[Tags List|clean nlk]]
