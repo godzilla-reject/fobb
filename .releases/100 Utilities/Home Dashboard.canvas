@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "4362973a38937d5f",
+      "type": "file",
+      "file": "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
+      "styleAttributes": {},
+      "x": -180,
+      "y": -720,
+      "width": 860,
+      "height": 980
+    },
+    {
+      "id": "2f48b50f933976a6",
+      "type": "file",
+      "file": "100 Utilities/110 Reference Notes/111 Lists/To-Do List.md",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -720,
+      "width": 460,
+      "height": 980
+    },
+    {
+      "id": "2c8276bed27dc077",
+      "type": "file",
+      "file": "100 Utilities/110 Reference Notes/111 Lists/List of Lists.md",
+      "styleAttributes": {},
+      "x": -840,
+      "y": -720,
+      "width": 200,
+      "height": 490
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

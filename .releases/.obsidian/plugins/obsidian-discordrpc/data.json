@@ -1,0 +1,10 @@
+{
+  "showVaultName": true,
+  "showCurrentFileName": false,
+  "showPopups": true,
+  "customVaultName": "Fable of the Behemoth Breakers: A Monster-Hunting TTRPG",
+  "showFileExtension": false,
+  "useLoadedTime": true,
+  "connectOnStart": true,
+  "autoHideStatusBar": true
+}
