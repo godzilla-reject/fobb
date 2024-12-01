@@ -62,12 +62,13 @@
 		- Roulette-Rang: A six-sided boomerang that randomizes its damage types and elemental affinities. The user can burn mana to "lock in" a damage type, increasing both weapon damage and blocking potency against that damage type.
 			- Mechanics
 				- Spin the Roulette: Whenever you attack, you roll 1d6, then consult the chart below. That attack splits its total damage between the weapon's base damage type and the result evenly. 
-				- Rig the Odds: When you use Spin the Roulette, you may spend 4 mana to fully imbue your weapon with the rolled element. If you do, all damage the weapon deals is that type, you deal an extra die 
+				- Rig the Odds: When you use Spin the Roulette, you may spend 4 mana to fully imbue your weapon with the rolled element. If you do, all damage the weapon deals is that type, you deal an extra die of weapon damage, and if you would defend against an attack that deals that damage type, increase the die size of that defense by 1. This bonus lasts for 1d6 rounds.
+				- The House Always Wins: When you use Rig the Odds and roll a 1 for its duration, you can't Rig the Odds again for 1d6 rounds.
 			- Stats 
-				- Damage Die:
-				- Damage Type:
-				- Dodge: 
-				- Block:
+				- Damage Die: d8
+				- Damage Type: shredding
+				- Dodge: d4
+				- Block: d8
 		- Dancer Fans: a pair of bladed fans that can assist dodging by moving massive amounts of air, while also interlocking to block damage. 
 			- Mechanics
 				- Dancing Gales: Avoiding damage and alternating defense types generates Gale charges. Gale charges can be consumed to guarantee perfect defenses, or activate certain abilities. Max Gale Charges: 3
