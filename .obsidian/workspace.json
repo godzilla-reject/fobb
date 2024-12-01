@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3efde9d9ada1ee50",
+        "id": "e9da153303f25c09",
         "type": "tabs",
         "children": [
           {
-            "id": "b6d7a53f2760316a",
+            "id": "0ef1bdc2404aab8f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,24 +16,21 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Fable of the Behemoth Breakers CRB",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"400 Content/Fable of the Behemoth Breakers CRB.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Fable of the Behemoth Breakers CRB\"}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
+                "file": "100 Utilities/Home Dashboard.canvas",
+                "viewState": {
+                  "x": -80,
+                  "y": -230,
+                  "zoom": -0.03522247346020309
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home Dashboard"
             }
           }
         ]
@@ -337,13 +334,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6d7a53f2760316a",
+  "active": "0ef1bdc2404aab8f",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "400 Content/Fable of the Behemoth Breakers CRB.md",
     "README.md",
+    "400 Content/Fable of the Behemoth Breakers CRB.md",
     "Backup Repo/README.md",
     "100 Utilities/Home Dashboard.canvas",
     "Backup Repo",
