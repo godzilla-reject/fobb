@@ -31,7 +31,7 @@ After you have your materials in order, you're ready to begin. Below are the ins
 1. Fill out Section 1 of the Feedback Form.
 2. Complete Character Creation, under Section 1. It's got a step-by-step guide, so don't worry. This'll take the longest, by far. Make sure you read each part before moving onto the next; the content is presented in the order you'll need to learn it!
 3. Complete Section 2 of the Feedback Form.
-4. Complete the test rolls set forth in ***Testing the Test***.
+4. Complete the test rolls set forth in ***Testing the Test***. Make sure you are recording your results and the answers to the questions each test asks!
 5. Fill out Sections 3 and 4 of the Feedback Form.
 # ***Section 1: Character Creation***
 # Part 1: Rules Of Play
