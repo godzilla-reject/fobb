@@ -52,13 +52,19 @@
 		- Change-Revolver: a large revolver-style rifle that can be reconfigured between a long-range, high-powered sniper form and a short-range, high fire-rate form.
 			- Mechanics
 				- Sniper Configuration:
+					- Kinetic Dampener: Attacks in Sniper Configuration 
+					- Stats 
+						- Damage Die: d14
+						- Damage Type: impaling
+						- Dodge: d10
+						- Block: -
 				- Riot Configuration: 
+					- Stats 
+						- Damage Die: d6
+						- Damage Type: piercing
+						- Dodge: -
+						- Block: d10
 				- Shot Types: 
-			- Stats 
-				- Damage Die:
-				- Damage Type:
-				- Dodge: 
-				- Block:
 		- Roulette-Rang: A six-sided boomerang that randomizes its damage types and elemental affinities. The user can burn mana to "lock in" a damage type, increasing both weapon damage and blocking potency against that damage type.
 			- Mechanics
 				- Spin the Roulette: Whenever you attack, you roll 1d6, then consult the chart below. That attack splits its total damage between the weapon's base damage type and the result evenly. 
