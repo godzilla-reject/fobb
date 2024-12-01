@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "FoBB Pre-Alpha Character Creation Playtest 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"FoBB Pre-Alpha Character Creation Playtest 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1991,\"ch\":34},\"to\":{\"line\":1991,\"ch\":34}},\"scroll\":29.637590402837688}"
+                },
+                {
                   "title": "Fable of the Behemoth Breakers CRB",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"400 Content/Fable of the Behemoth Breakers CRB.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Fable of the Behemoth Breakers CRB\"}",
@@ -34,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
-                "mode": "preview",
+                "file": "100 Utilities/110 Reference Notes/111 Lists/Tags List.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "FoBB Pre-Alpha Character Creation Playtest 2"
+              "title": "Tags List"
             }
           }
         ]
@@ -349,8 +355,8 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
+    "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
     "400 Content/Fable of the Behemoth Breakers CRB.md",
     "100 Utilities/Home Dashboard.canvas",
     "README.md",
