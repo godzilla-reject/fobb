@@ -3,7 +3,7 @@
 	- Heavy-Class Weaponry
 		- War Needle
 		- Thunder Mallet 
-		- Coffin-blade
+		- Coffin Blade
 	- Agile-Class Weaponry
 		- Yo-Yo Wheel: a massive wheel, bound to a cord and handle that allows the user to open up the wheel, exposing massive blades.
 			- Mechanic: 
