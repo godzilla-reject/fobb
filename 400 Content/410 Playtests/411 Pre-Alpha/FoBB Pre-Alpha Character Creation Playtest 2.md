@@ -1964,7 +1964,9 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 		- 3x Neophyte Crystals 
 		- 3x Herbal Boosters
 # ***Section 2: Testing The Test***
+Now that you've made your character, its time to make your *first ever* trait test in *Fable of the Behemoth Breakers*! For each of the sections, you'll make two different tests; the first is "simple" and shows common-use cases, while the second is a more "complex" test that shows less common use-cases. 
 
+A reminder: if you didn't read Part 1 of Section 1, I recommend going back and reading it now. It explains how these tests work *in the way that the *
 # ***Section 3: The Glossaries***
 ## Glossary 1: Action Tags
 ![[Tags List|clean nlk]]
