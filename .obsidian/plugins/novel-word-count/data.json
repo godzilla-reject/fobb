@@ -240,14 +240,18 @@
       "embedCount": 21,
       "aliases": null,
       "createdDate": 1733009606778,
-      "modifiedDate": 1733050125143,
-      "sizeInBytes": 102710,
+      "modifiedDate": 1733050616241,
+      "sizeInBytes": 102748,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 47.34,
         "wordCount": 14202,
         "characterCount": 102549,
         "nonWhitespaceCharacterCount": 83969
+      },
+      "frontmatter": {
+        "dg-home": true,
+        "dg-publish": true
       }
     },
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Character Creation Playtest 1.md": {
@@ -905,35 +909,6 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "300 Staging/test note.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1733050127319,
-      "modifiedDate": 1733050133952,
-      "sizeInBytes": 39,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "dg-home": true,
-        "dg-publish": true
       }
     }
   }

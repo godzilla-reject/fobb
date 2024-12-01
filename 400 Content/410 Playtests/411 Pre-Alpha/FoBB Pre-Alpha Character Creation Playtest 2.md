@@ -1,4 +1,7 @@
-
+---
+dg-home: true
+dg-publish: true
+---
 # Introduction
 >[!quote|author] Garrison Commander Alessia
 >WARNING, ALL BREAKERS: ***Behemoth Emergence Imminent.***

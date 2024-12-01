@@ -35,38 +35,14 @@
               "type": "markdown",
               "state": {
                 "file": "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "FoBB Pre-Alpha Character Creation Playtest 2"
             }
-          },
-          {
-            "id": "64de75f49eb07c60",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 Staging/test note.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "test note"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -367,13 +343,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64de75f49eb07c60",
+  "active": "e7a7b303c61786dc",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "300 Staging/test note.md",
+    "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Character Creation Playtest 1.md",
     "100 Utilities/Home Dashboard.canvas",
     "000 Assets/Weapon Placeholder.png",
