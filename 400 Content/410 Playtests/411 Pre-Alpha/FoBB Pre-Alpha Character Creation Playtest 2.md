@@ -23,7 +23,7 @@ In order to play this playtest, you'll need a few things, which are listed here:
 	- A digital dice roller. While less fun, digital dice make playing the game much easier.
 - Basic reading comprehension. 
 - [The Official Behemoth Breaker](https://docs.google.com/spreadsheets/d/1n2CYNY7mnI1LOLS1rMADno1L36xFq9Jyu9224PD4lhM/edit?usp=sharing) character sheet. It does most of the math for you, just to save us all some time.
-- [Your Feedback Form]
+- [Your Feedback Form](https://forms.gle/JCkiN5bPQHvCxcnh6)
 - Some scratch paper or a notepad document to take notes as you do the playtest.
 - About 30-45 minutes of free time.
 # Instructions
