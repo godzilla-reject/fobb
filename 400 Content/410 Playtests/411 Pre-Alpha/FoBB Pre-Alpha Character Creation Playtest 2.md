@@ -1976,11 +1976,15 @@ You struggle against a Behemoth's psionic attack. Make a *hard* ***Mentality*** 
 ## Secondary Attribute Tests 
 These two tests are testing *Secondary Attribute* traits.
 ### #1  Simple 
-You attempt to connect to a long-extinct Behemoth spirit. Make an *average*
+You attempt to connect to a long-extinct Behemoth spirit. Make an *average* **Connection** test.
 ### #2 Complex
+A rival Breaker attempts to best you in a game of wits. Make a *very easy* **Intellect** test with a +2 item bonus and a -2 circumstance penalty.
 ## Skill Tests 
+These two tests are testing *Skill* traits.
 ### #1  Simple 
+You attempt to outpace a Behemoth. Make an *easy Speed* test.
 ### #2 Complex
+You attempt to come up with a brand new color. Make an *extreme Creativity* test with a 
 # ***Section 3: The Glossaries***
 ## Glossary 1: Action Tags
 ![[Tags List|clean nlk]]
