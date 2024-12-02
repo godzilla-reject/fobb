@@ -35,11 +35,11 @@
 			- Mechanic: 
 				- Manastring Threads: Successful attacks in blade form generate Manastring Threads. You can have up to 6 Threads at a time, and you gain certain benefits at 3 Threads and 6 Threads.
 					- 3 Threads
-						- Attacks against Manaweft Behemoths gain a +1 damage die size bonus.
+						- Attacks against Manaweft Behemoths gain a +1 damage die amount bonus.
 				- Bow Form 
-					- Mana-Weaving Arrows: 
+					- Mana-Weaving Arrows: Weapon *strike* actions in this form gain he "Mana 3" tag. Additionally, hitting a target with three successful weapon attacks (while in this form) in the same turn inflicts the Manaweft condition.
 				- Blade Form
-					- Mana-Threading Blades: Successful attacks while in Blade Form generate a single Manastring Thread. 
+					- Mana-Threading Blades: Successful weapon attacks while in Blade Form generate a single Manastring Thread, or two Threads if the target is Manaweft.
 			- Stats 
 				- Damage Die:
 				- Damage Type:
