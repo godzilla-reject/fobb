@@ -35,32 +35,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "cb6a761318764cbd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -361,13 +337,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb6a761318764cbd",
+  "active": "e7a7b303c61786dc",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "README.md",
     "conflict-files-obsidian-git.md",
+    "README.md",
     "bfg-1.14.0.jar",
     "fobb.git/packed-refs",
     "fobb.git/objects/pack/pack-984bb6f9c6d11f27f2c0e5f50e38292a1a427f3e.idx",
