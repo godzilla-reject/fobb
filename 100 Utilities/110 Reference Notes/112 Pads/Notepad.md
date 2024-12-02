@@ -51,7 +51,7 @@
 	- Balance-Class Weaponry
 		- Change-Revolver: a large revolver-style rifle that can be reconfigured between a long-range, high-powered sniper form and a short-range, high fire-rate form.
 			- Mechanics
-				- Chamber Heat: For every 2 attacks that deal 
+				- Chamber Heat: For every 2 attacks that deal damage in Riot Configuration, one of the weapon's 6 chambers heats up. When making attacks in Sniper Configuration, you can vent the heat 
 				- Sniper Configuration:
 					- Overloader Kinetic Dampener: Attacks in Sniper Configuration cannot deal more than 4 dice of damage.
 					- Magikinetic Hostility Averter: You cannot Dodge while in Sniper Configuration.
