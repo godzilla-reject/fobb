@@ -33,6 +33,7 @@
 				- Block:
 		- Bow-Blades: A pair of large, curved blades that can open up, then combine, into a powerful, yet short-ranged bow.
 			- Mechanic: 
+				- Mana Arrows: 
 				- String Resonance- Attacks in blade form build resonance, which can be vented by firing arrows in bow form. Higher resonance=more arrow damage, and at max resonance, firing the bow consumes no mana.
 			- Stats 
 				- Damage Die:
@@ -41,7 +42,7 @@
 				- Block:
 		- Blade-Harp: A long, flat blade which acts as a sounding board for strings that run across the length of the blade. As the user swings, air rushes through the weapon, acting like an Aeolian harp. These tones are controlled by triggers on the hilt.
 			- Mechanics 
-				- Harp Notes: Any Blade-Harp attack plays one of three notes: high, mid, and low. When these tones are played in a certain order, the blade 
+				- Harp Notes: Any Blade-Harp attack plays one of three notes: high, mid, and low. When these tones are played in a certain order, the blade resonates with magical energy, producing a blade song.
 				- Bladesong-"Inner Fire": After playing the correct sequence of notes, the user bolsters their Dodge defense and increases their attack speed. Also increases Weapon Damage for each buff currently active on allies. 
 				- Bladesong-"Breaker's Aria": After playing the correct sequence of notes, the user grants a buff to their allies for a small duration. 
 			- Stats 
