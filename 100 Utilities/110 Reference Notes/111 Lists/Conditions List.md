@@ -9,6 +9,7 @@
 ---
 - List  ^82c4f3
 	- **Bloodied**
+		- A character is inflicted with this condito
 	- **Defenseless**
 	- **Drained**
 	- **Hidden**
