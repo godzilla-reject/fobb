@@ -2,26 +2,89 @@
 - Weapon Ideas
 	- Heavy-Class Weaponry
 		- War Needle
+			- Mechanics
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
 		- Thunder Mallet 
-		- Coffin-blade
+			- Mechanics
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
+		- Coffin Blade
+			- Mechanics
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
 	- Agile-Class Weaponry
 		- Yo-Yo Wheel: a massive wheel, bound to a cord and handle that allows the user to open up the wheel, exposing massive blades.
 			- Mechanic: 
-			- Roto-Engine- Landing a successful attack in Blunt form excites the wheel, increasing rotational force. Landing another attack, this time in Bladed form, preserves momentum. Continued alternating attacks allows for this increased damage to be preserved. 
+				- Roto-Engine- Landing a successful attack in Blunt form excites the wheel, increasing rotational force. Landing another attack, this time in Bladed form, preserves momentum. Continued alternating attacks allows for this increased damage to be preserved. 
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
 		- Bow-Blades: A pair of large, curved blades that can open up, then combine, into a powerful, yet short-ranged bow.
 			- Mechanic: 
 				- String Resonance- Attacks in blade form build resonance, which can be vented by firing arrows in bow form. Higher resonance=more arrow damage, and at max resonance, firing the bow consumes no mana.
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
 		- Blade-Harp: A long, flat blade which acts as a sounding board for strings that run across the length of the blade. As the user swings, air rushes through the weapon, acting like an Aeolian harp. These tones are controlled by triggers on the hilt.
 			- Mechanics 
 				- Bladesong-"Inner Fire": After playing the correct sequence of notes, the user bolsters their Dodge defense and increases their attack speed. Also increases Weapon Damage for each buff currently active on allies. 
 				- Bladesong-"Breaker's Aria": After playing the correct sequence of notes, the user grants a buff to their allies for a small duration. 
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
 	- Balance-Class Weaponry
 		- Change-Revolver: a large revolver-style rifle that can be reconfigured between a long-range, high-powered sniper form and a short-range, high fire-rate form.
 			- Mechanics
 				- Sniper Configuration:
+					- Kinetic Dampener: Attacks in Sniper Configuration cannot deal more than 4 dice of damage.
+					- Magikinetic Hostility Averter: You cannot Dodge while in Sniper Configuration.
+					- Stats 
+						- Damage Die: d14
+						- Damage Type: impaling
+						- Dodge: -
+						- Block: d10
 				- Riot Configuration: 
+					- Stats 
+						- Damage Die: d6
+						- Damage Type: piercing
+						- Dodge: d6
+						- Block: d8
 				- Shot Types: 
 		- Roulette-Rang: A six-sided boomerang that randomizes its damage types and elemental affinities. The user can burn mana to "lock in" a damage type, increasing both weapon damage and blocking potency against that damage type.
+			- Mechanics
+				- Spin the Roulette: Whenever you attack, you roll 1d6, then consult the chart below. That attack splits its total damage between the weapon's base damage type and the result evenly. 
+				- Rig the Odds: When you use Spin the Roulette, you may spend 4 mana to fully imbue your weapon with the rolled element. If you do, all damage the weapon deals is that type, you deal an extra die of weapon damage, and if you would defend against an attack that deals that damage type, increase the die size of that defense by 1. This bonus lasts for 1d6 rounds.
+				- The House Always Wins: When you use Rig the Odds and roll a 1 for its duration, you can't Rig the Odds again for 1d6 rounds.
+			- Stats 
+				- Damage Die: d8
+				- Damage Type: shredding
+				- Dodge: d4
+				- Block: d8
+		- Dancer Fans: a pair of bladed fans that can assist dodging by moving massive amounts of air, while also interlocking to block damage. 
+			- Mechanics
+				- Dancing Gales: Avoiding damage and alternating defense types generates Gale charges. Gale charges can be consumed to guarantee perfect defenses, or activate certain abilities. Max Gale Charges: 3
+				- Galeforce: As long the user has 1 Gale Charge, any physical damage the Dancer Fans deal is instead air damage. As long as the user has max Gale charges, their defenses are increased by 1 step.
+			- Stats 
+				- Damage Die: 1d6
+				- Damage Type: cutting
+				- Dodge: d6 
+				- Block: d4
 - Equipment
 	- Starter Arms and Armors: Two sets of each, the "bone" and "metal" equivalent.
 		- Armor
@@ -250,18 +313,7 @@
 	- Secondary and Tertiary Weapons 
 		- 1 from each Weight Class
 		- Alternatively, you can unlock a "super move" instead of a new weapon.
-- Playtest 2 Content 
-	- Full Character Creation
-	- Trait Tests 
-		- 2x Primary Attribute tests.
-			1. A simple test. 
-			2. A complex test with 1 type of modifier.
-		- 2x Secondary Attribute tests.
-			1. A simple test. 
-			2. A complex test with 2 types of modifiers.
-		- 2x Skill tests.
-			1. A simple test. 
-			2. A complex test with 3 types of modifiers.
+
 # Difficulty 
 
 | Difficulty Level | Target Number |
