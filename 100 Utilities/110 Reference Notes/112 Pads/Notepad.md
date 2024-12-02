@@ -33,8 +33,13 @@
 				- Block:
 		- Bow-Blades: A pair of large, curved blades that can open up, then combine, into a powerful, yet short-ranged bow.
 			- Mechanic: 
-				- Mana Arrows: 
-				- String Resonance- Attacks in blade form build resonance, which can be vented by firing arrows in bow form. Higher resonance=more arrow damage, and at max resonance, firing the bow consumes no mana.
+				- 
+				- Bow Form 
+					- Manawrought Arrows: 
+				- Blade Form
+					- Manaweft 
+					- Manastring Resonance: Attacks in
+					- String Resonance- Attacks in blade form build resonance, which can be vented by firing arrows in bow form. Higher resonance=more arrow damage, and at max resonance, firing the bow consumes no mana.
 			- Stats 
 				- Damage Die:
 				- Damage Type:
