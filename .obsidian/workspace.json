@@ -35,8 +35,32 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "cb6a761318764cbd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -337,11 +361,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cb6a761318764cbd",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "bfg-1.14.0.jar",
     "fobb.git/packed-refs",
     "fobb.git/objects/pack/pack-984bb6f9c6d11f27f2c0e5f50e38292a1a427f3e.idx",
@@ -352,9 +378,7 @@
     "fobb.git/objects/pack/tmp_idx_tLb0uZ",
     "fobb.git/objects/pack/tmp_pack_vfWRbW",
     "fobb.git/refs/heads",
-    "fobb.git/refs/tags",
     "100 Utilities/Home Dashboard.canvas",
-    "README.md",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
     "100 Utilities/110 Reference Notes/111 Lists/Conditions List.md",
