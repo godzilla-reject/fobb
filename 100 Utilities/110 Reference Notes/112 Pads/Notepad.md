@@ -60,6 +60,7 @@
 						- Dodge: -
 						- Block: d10
 				- Riot Configuration: 
+					- 
 					- Stats 
 						- Damage Die: d6
 						- Damage Type: piercing
