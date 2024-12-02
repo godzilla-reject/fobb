@@ -52,7 +52,7 @@
 		- Change-Revolver: a large revolver-style rifle that can be reconfigured between a long-range, high-powered sniper form and a short-range, high fire-rate form.
 			- Mechanics
 				- Sniper Configuration:
-					- Kinetic Dampener: Attacks in Sniper Configuration cannot deal more than 4 dice of damage.
+					- Overloader Kinetic Dampener: Attacks in Sniper Configuration cannot deal more than 4 dice of damage.
 					- Magikinetic Hostility Averter: You cannot Dodge while in Sniper Configuration.
 					- Stats 
 						- Damage Die: d14
@@ -60,11 +60,12 @@
 						- Dodge: -
 						- Block: d10
 				- Riot Configuration: 
+					- Rapid-Fire Kinetic Dampener: Attacks in Riot Configuration have a damage die size limit of d8.
 					- 
 					- Stats 
 						- Damage Die: d6
 						- Damage Type: piercing
-						- Dodge: d6
+						- Dodge: d4
 						- Block: d8
 				- Shot Types: 
 		- Roulette-Rang: A six-sided boomerang that randomizes its damage types and elemental affinities. The user can burn mana to "lock in" a damage type, increasing both weapon damage and blocking potency against that damage type.
