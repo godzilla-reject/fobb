@@ -42,18 +42,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Notepad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"100 Utilities/110 Reference Notes/112 Pads/Notepad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Notepad\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":13},\"to\":{\"line\":62,\"ch\":13}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
+                "file": "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Notepad"
+              "title": "FoBB Pre-Alpha Character Creation Playtest 2"
             }
           }
         ],
@@ -362,6 +368,7 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
     "100 Utilities/Home Dashboard.canvas",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "100 Utilities/110 Reference Notes/111 Lists/Conditions List.md",
@@ -375,7 +382,6 @@
     "100 Utilities/110 Reference Notes/111 Lists/Perks List.md",
     "100 Utilities/110 Reference Notes/111 Lists/Tags List.md",
     "100 Utilities/110 Reference Notes/111 Lists/Crafting Materials List.md",
-    "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
     "400 Content/Fable of the Behemoth Breakers CRB.md",
     "README.md",
     "Backup Repo/README.md",
