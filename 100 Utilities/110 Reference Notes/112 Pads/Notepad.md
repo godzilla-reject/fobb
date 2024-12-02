@@ -33,13 +33,13 @@
 				- Block:
 		- Bow-Blades: A pair of large, curved blades that can open up, then combine, into a powerful, yet short-ranged bow.
 			- Mechanic: 
-				- Manastring Threads: Successful attacks in blade form generate Manastring Threads. You can have up to 6 Threads at a time, and you gain certain 
+				- Manastring Threads: Successful attacks in blade form generate Manastring Threads. You can have up to 6 Threads at a time, and you gain certain benefits at 3 Threads and 6 Threads.
+					- 3 Threads
+						- Attacks against Manaweft Behemoths gain a +1 damage die size bonus.
 				- Bow Form 
-					- Manaweft Arrows: 
+					- Mana-Weaving Arrows: 
 				- Blade Form
-					- Manaweft Blades
-					- 
-					- String Resonance- Attacks in blade form build resonance, which can be vented by firing arrows in bow form. Higher resonance=more arrow damage, and at max resonance, firing the bow consumes no mana.
+					- Mana-Threading Blades: Successful attacks while in Blade Form generate a single Manastring Thread. 
 			- Stats 
 				- Damage Die:
 				- Damage Type:
