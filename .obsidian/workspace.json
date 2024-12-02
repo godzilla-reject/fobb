@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "FoBB Pre-Alpha Character Creation Playtest 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"FoBB Pre-Alpha Character Creation Playtest 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":129},\"to\":{\"line\":15,\"ch\":129}}}"
+                },
+                {
                   "title": "Notepad",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"100 Utilities/110 Reference Notes/112 Pads/Notepad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Notepad\"}",
@@ -28,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "FoBB Pre-Alpha Character Creation Playtest 2"
+              "title": "README"
             }
           }
         ]
@@ -342,9 +348,9 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
     "100 Utilities/Home Dashboard.canvas",
-    "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "100 Utilities/110 Reference Notes/111 Lists/Conditions List.md",
     "New Text Document.txt",
     "300 Staging/test note.md",
