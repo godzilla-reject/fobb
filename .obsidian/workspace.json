@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "100 Utilities/Home Dashboard.canvas",
-                "viewState": {
-                  "x": -80,
-                  "y": -230,
-                  "zoom": -0.03522247346020309
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home Dashboard"
-            }
-          },
-          {
             "id": "727a1b40b5e125b8",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -62,8 +36,7 @@
               "title": "FoBB Pre-Alpha Character Creation Playtest 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -360,7 +333,8 @@
       "markdown-importer:Open format converter": false,
       "obsidian42-brat:BRAT": false,
       "calendarium:Open Calendarium": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "727a1b40b5e125b8",
