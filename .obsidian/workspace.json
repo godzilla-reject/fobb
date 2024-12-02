@@ -16,21 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Home Dashboard",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"100 Utilities/Home Dashboard.canvas\",\"viewState\":{\"x\":379.1102698728612,\"y\":-224.38745975857,\"zoom\":-0.03522247346020309}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Home Dashboard\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "100 Utilities/Home Dashboard.canvas",
-                "viewState": {
-                  "x": 379.1102698728612,
-                  "y": -224.38745975857,
-                  "zoom": -0.03522247346020309
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home Dashboard"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -339,10 +342,10 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "100 Utilities/Home Dashboard.canvas",
     "README.md",
     "400 Content/410 Playtests/411 Pre-Alpha/FoBB Pre-Alpha Character Creation Playtest 2.md",
     "100 Utilities/110 Reference Notes/112 Pads/Notepad.md",
-    "100 Utilities/Home Dashboard.canvas",
     "100 Utilities/110 Reference Notes/111 Lists/Conditions List.md",
     "New Text Document.txt",
     "300 Staging/test note.md",
