@@ -51,6 +51,7 @@
 	- Balance-Class Weaponry
 		- Change-Revolver: a large revolver-style rifle that can be reconfigured between a long-range, high-powered sniper form and a short-range, high fire-rate form.
 			- Mechanics
+				- Chamber Heat: For every 2 attacks that deal 
 				- Sniper Configuration:
 					- Overloader Kinetic Dampener: Attacks in Sniper Configuration cannot deal more than 4 dice of damage.
 					- Magikinetic Hostility Averter: You cannot Dodge while in Sniper Configuration.
@@ -61,13 +62,15 @@
 						- Block: d10
 				- Riot Configuration: 
 					- Rapid-Fire Kinetic Dampener: Attacks in Riot Configuration have a damage die size limit of d8.
-					- 
+					- Magikinetic Hostility Attractor: Attacks in Riot Configuration generate additional Threat.
 					- Stats 
 						- Damage Die: d6
 						- Damage Type: piercing
 						- Dodge: d4
 						- Block: d8
 				- Shot Types: 
+					- Elemental 
+					- Support
 		- Roulette-Rang: A six-sided boomerang that randomizes its damage types and elemental affinities. The user can burn mana to "lock in" a damage type, increasing both weapon damage and blocking potency against that damage type.
 			- Mechanics
 				- Spin the Roulette: Whenever you attack, you roll 1d6, then consult the chart below. That attack splits its total damage between the weapon's base damage type and the result evenly. 
