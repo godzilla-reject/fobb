@@ -41,6 +41,7 @@
 				- Block:
 		- Blade-Harp: A long, flat blade which acts as a sounding board for strings that run across the length of the blade. As the user swings, air rushes through the weapon, acting like an Aeolian harp. These tones are controlled by triggers on the hilt.
 			- Mechanics 
+				- Harp Notes: Blade-Harps 
 				- Bladesong-"Inner Fire": After playing the correct sequence of notes, the user bolsters their Dodge defense and increases their attack speed. Also increases Weapon Damage for each buff currently active on allies. 
 				- Bladesong-"Breaker's Aria": After playing the correct sequence of notes, the user grants a buff to their allies for a small duration. 
 			- Stats 
