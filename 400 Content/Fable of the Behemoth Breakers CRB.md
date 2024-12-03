@@ -428,7 +428,7 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >>- **Icewalker**
 >>You ignore all negative effects of cold environments.
 >>- **Long-Legged**
->>Increase your Ground Move by +10 feet.
+>>Increase your Ground Move by +2 spaces.
 >
 >> [!blank]
 >>#### Tomb-Guard
