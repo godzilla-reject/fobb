@@ -44,10 +44,11 @@
 				- Blade Form
 					- Mana-Threading Blades: Successful weapon attacks while in Blade Form generate a single Manastring Thread, or two Threads if the target is Manaweft.
 			- Stats 
-				- Damage Die:
+				- Damage Die: 
 				- Damage Type:
+				- Range: 6 spaces 
 				- Dodge: 
-				- Block:
+				- Block: -
 		- Blade-Harp: A long, flat blade which acts as a sounding board for strings that run across the length of the blade. As the user swings, air rushes through the weapon, acting like an Aeolian harp. These tones are controlled by triggers on the hilt.
 			- Mechanics 
 				- Harp Notes: Any Blade-Harp attack plays one of three notes: high, mid, and low. When these tones are played in a certain order, the blade resonates with magical energy, producing a blade song.
