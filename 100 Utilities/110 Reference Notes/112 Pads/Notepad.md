@@ -48,7 +48,7 @@
 			- Stats 
 				- Damage Die: d6
 				- Range: 6 spaces 
-				- Dodge: 
+				- Dodge: d10
 				- Block: -
 		- Blade-Harp: A long, flat blade which acts as a sounding board for strings that run across the length of the blade. As the user swings, air rushes through the weapon, acting like an Aeolian harp. These tones are controlled by triggers on the hilt.
 			- Mechanics 
