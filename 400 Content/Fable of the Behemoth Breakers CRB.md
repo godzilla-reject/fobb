@@ -99,7 +99,7 @@ At their most basic, attribute and skill traits are just modifiers. They are mod
 
 There are other kinds of modifiers, though, and they all have *types*. *Trait* is a kind of modifier, alongside *circumstance*, *item*, and *status.*
 
-Trait modifiers (which will always be positive) are due to a specific trait being applied to that test. 
+Trait modifiers (which will always be positive) are due to a specific trait's value being applied to that test as a modifier. 
 
 Circumstance modifiers are incurred due to environment and conditions.
 
@@ -379,14 +379,14 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >> > *Language: Kinspeak*
 >> 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     3        |    2       |       1       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     3        |    2       |       1       |
 >>%%Both must add up to 6!%%
 >>
-| Base Health | Base Stamina | Base Mana | Size |
-|:-----------:|:------------:|:---------:| :----: |
-|      2      |      2       |     2     |   1   |
+>> | Base Health | Base Stamina | Base Mana | Size |
+>> |:-----------:|:------------:|:---------:| :----: |
+>> |      2      |      2       |     2     |   1   |
 >>
 >>
 >> ---
@@ -413,14 +413,14 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >> > *Language: Galdentongue*
 >> 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     3        |    2       |       1       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     3        |    2       |       1       |
 >>%%Both must add up to 6!%%
 >>
-| Base Health | Base Stamina | Base Mana | Size |
-|:-----------:|:------------:|:---------:|:----:|
-|      1      |      4       |     1     |  1    |
+>> | Base Health | Base Stamina | Base Mana | Size |
+>> |:-----------:|:------------:|:---------:|:----:|
+>> |      1      |      4       |     1     |  1    |
 >>
 >>
 >> ---
@@ -428,7 +428,7 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >>- **Icewalker**
 >>You ignore all negative effects of cold environments.
 >>- **Long-Legged**
->>Increase your Ground Move by +2 spaces.
+>>Increase your Ground Move by +10 feet.
 >
 >> [!blank]
 >>#### Tomb-Guard
@@ -447,14 +447,14 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >> > *Language: Encode*
 >> 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     3       |    3       |       0       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     3       |    3       |       0       |
 >>%%Both must add up to 6!%%
 >>
-| Base Health | Base Stamina | Base Mana | Size |
-|:-----------:|:------------:|:---------:|:----:|
-|      3      |      0       |     3     |   1   |
+>> | Base Health | Base Stamina | Base Mana | Size |
+>> |:-----------:|:------------:|:---------:|:----:|
+>> |      3      |      0       |     3     |   1   |
 >>
 >>
 >> ---
@@ -466,7 +466,7 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >
 >> [!blank]
 >>#### Warrior 
->>- **A Warrior Construct **
+>>- **A Warrior Construct**
 >>Choose a physical Skill trait. You make all tests of that Skill with favor.
 >> #### Thinker
 >>- **A Thinking Machine**
@@ -482,9 +482,9 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >> > You are charged with the lonesome, deplorable task with making everyone you see smile. This, while difficult and lonely, is one of the most rewarding tasks one can undertake in the Company. In order to keep your Company entertained, you can employ any method you (and the table) deem appropriate, as long as it makes the People happy.
 >> 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     2       |    0       |       4      |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     2       |    0       |       4      |
 >>%%Must add up to 6!%%
 >> ---
 >>##### Novice Job Abilities
@@ -520,9 +520,9 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >> > As the the top brain in your Company's Research Division, knowledge is your number one priority. You maintain a knowledge base provided by the League that allows your Breakers and fellow researchers to review past hunts, as well as Behemoth ecology. As Head Researcher, it is your job to expand this knowledge base and turn the raw information gathered by your Breakers into meaningful contributions to finalized Research Reports.
 >> 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|    0        |    4       |       2       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |    0        |    4       |       2       |
 >>%%Must add up to 6!%%
 >> ---
 >>##### Novice Job Abilities
@@ -559,9 +559,9 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >> > You are the helmsman of the fire. The auteur of coals. The sultan of the hammer.  Some other fourth thing. Regardless of whatever campy, off-vogue title you use, you are the head of your Company's armory and weapons division. This means you oversee production, but also research and development! If *you* can't make something, its hard to expect your crew to do so. 
 >> 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     4        |    2       |       0       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     4        |    2       |       0       |
 >>%%Must add up to 6!%%
 >> ---
 >>##### Novice Job Abilities
@@ -600,9 +600,9 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >> > In your past, you held the line against the Behemoths, but nowadays you prefer to let the youngsters take the reins. However, in recent times, you've been called back to the action! Its been a while, though; shaking off the rust ain't easy.
 >> 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     1        |    1       |       1       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     1        |    1       |       1       |
 >>%%Must add up to 6!%%
 >> ---
 >>##### Novice Job Abilities
@@ -644,9 +644,9 @@ The first of the three Charters, the Ruby Drums are united under one idea: *"Mig
 >> ##### School of the Raging Berserker
 >>> Embodying primal rage, thunderous passion and violent fury, Berserkers merciless hunt down Behemoths by straddling the line between lucidity and complete consumption. As the Behemoth wounds the Berserker, their anger grows, and as their anger grows, their strength does as well. It is here, in this space between life and death, that true anger can be found; the anger against the thought of dying. 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     4        |    0       |       2       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     4        |    0       |       2       |
 >> ---
 >> %% The three attribute traits ***must*** add up to 6.%%
 >> ###### Core Features
@@ -698,9 +698,9 @@ The first of the three Charters, the Ruby Drums are united under one idea: *"Mig
 >> ##### School of the Valiant Crusader
 >> > Born from old religious sects, warrior monks, and pious scholars, Crusaders utilize the power of devotion, passion, and piety to smite Behemoths and reinforce their allies. 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     3        |    1       |       2       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     3        |    1       |       2       |
 >> ---
 >> %% The three attribute traits ***must*** add up to 6.%%
 >> ###### Core Features
@@ -755,9 +755,9 @@ The second of the three Charters, the Emerald Strings are the most united of the
 >> ##### School of the Peerless Shadow
 >> > Finding their origins in an ancient guild of thieves, Shadows perpetually live in the darkness. From this darkness, they find the right place to deliver a singular, powerful blow. 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     3        |    3       |       0       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     3        |    3       |       0       |
 >> ---
 >> %% The three attribute traits ***must*** add up to 6.%%
 >> ###### Core Features
@@ -810,9 +810,9 @@ The second of the three Charters, the Emerald Strings are the most united of the
 >> ##### School of the Eagle-Eyed Musketeer
 >> > Musketeers do not *only* fire rifles. Some of them wield bows, tomes, or pistols. Regardless of how they do it though, they are alike in that they can line up a perfect, devastating shot. 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     2     |    3       |       1       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     2     |    3       |       1       |
 >> ---
 >> %% The three attribute traits ***must*** add up to 6.%%
 >> ###### Core Features
@@ -867,9 +867,9 @@ The third of the three Charters, as well as the most esoteric, the Schools of th
 >> ##### School of the Patient Caller
 >> > Cut from a cloth threaded by druids of old, Callers summon forth powerful spirits in order to heal and restore allies. They are unique in that they are the only dedicated support School.
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     0       |    0       |       6       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     0       |    0       |       6       |
 >> ---
 >> %% The three attribute traits ***must*** add up to 6.%%
 >> ###### Core Features
@@ -926,9 +926,9 @@ The third of the three Charters, as well as the most esoteric, the Schools of th
 >> ##### School of the Tenacious Invoker
 >> > Hailing from wizards, mages, and warlocks of yore, the Invokers specialize in one thing and one thing only: raw magical power. They can pull elemental magic from the Aether and wield it against Behemoths.
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     0        |    3       |       3       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     0        |    3       |       3       |
 >> ---
 >> %% The three attribute traits ***must*** add up to 6.%%
 >> ###### Core Features
@@ -1009,20 +1009,20 @@ These are the biggest of the Breaker Weapons, and for what they lack in maneuver
 >> > A massive, cleaving scythe that utilizes a mana-driven momentum sink in order to greatly increase the swinging force of the weapon. This momentum sink can also be purged at will, allowing for the user to change directions mid-swing or even pivot into a blocking stance.                                   
 >> 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     4        |    0       |       2       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     4        |    0       |       2       |
 >>%%Must add up to 6!%%
 >> ---
 >>
-| Damage | Dodge | Block |
-|:------:|:-----:|:-----:|
-|  1d10 cut   |  -  |  1d8  |
+>> | Damage | Dodge | Block |
+>> |:------:|:-----:|:-----:|
+>> |  1d10 cut   |  -  |  1d8  |
 >>
 >> %%
-| Damage | Range  | Dodge | Block |
-|:------:|:------:|:-----:|:-----:|
-|  1d4   | 30 ft. |  1d4  |  1d4  |
+>> | Damage | Range  | Dodge | Block |
+>> |:------:|:------:|:-----:|:-----:|
+>> |  1d4   | 30 ft. |  1d4  |  1d4  |
 >> %%
 >>
 >> ---
@@ -1138,20 +1138,20 @@ Breakers cannot **Block** while equipped with a Agile-Class weapon, but in retur
 >> > A pair of large percussion-driver pistols that utilize Behemoth Hide thumperdrums to increase power and penetration when fired rhythmically. Named for the style of dancing that the inventor of the weapon also invented.
 >> 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     0        |    4       |       2       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     0        |    4       |       2       |
 >>%%Must add up to 6!%%
 >> ---
 >>%%
-| Damage | Dodge | Block |
-|:------:|:-----:|:-----:|
-|  1d4   |  1d4  |  1d4  |
+>> | Damage | Dodge | Block |
+>> |:------:|:-----:|:-----:|
+>> |  1d4   |  1d4  |  1d4  |
 >>%%
 >>
-| Damage | Range  | Dodge | Block |
-|:------:|:------:|:-----:|:-----:|
-|  1d6 pi   | 8 spaces |  1d10  |  -  |
+>> | Damage | Range  | Dodge | Block |
+>> |:------:|:------:|:-----:|:-----:|
+>> |  1d6 pi   | 8 spaces |  1d10  |  -  |
 >>
 >>
 >> ---
@@ -1265,20 +1265,20 @@ Unlike the other two classes of weaponry, the Balance-Class arsenal allows a Bre
 >>> A set of large leather and metal gauntlets, which cover up to one's elbow, that sport massive spikes or razor-sharp claws for offense. The gauntlets also boast sizable interlocking plates that can be used for blocking.  Finally, these swift weapons have mana-burner boosters in the hands that can be used to accelerate the user out of the way of attacks or at a Behemoth for incredible damage. 
 >> 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     2        |    2       |       2       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     2        |    2       |       2       |
 >>%%Must add up to 6!%%
 >> ---
 >>
-| Damage | Dodge | Block |
-|:------:|:-----:|:-----:|
-|  1d8 ma   |  1d6  |  1d6  |
+>> | Damage | Dodge | Block |
+>> |:------:|:-----:|:-----:|
+>> |  1d8 ma   |  1d6  |  1d6  |
 >>
 >> %%
-| Damage | Range  | Dodge | Block |
-|:------:|:------:|:-----:|:-----:|
-|  1d4   | 30 ft. |  1d4  |  1d4  |
+>> | Damage | Range  | Dodge | Block |
+>> |:------:|:------:|:-----:|:-----:|
+>> |  1d4   | 30 ft. |  1d4  |  1d4  |
 >> %%
 >> ---
 >> ###### Core Mechanics
@@ -1966,29 +1966,6 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 		- 6x Herbal Tinctures
 		- 3x Neophyte Crystals 
 		- 3x Herbal Boosters
-## Creating The Company 
-### Filling The Roles 
-### Designing The Banner 
-### Naming The Company
-## The Company 
-In *Behemoth Breakers*, Breakers never act alone. They are always part of a greater group, which consists of people who can provide what they need to be successful during the hunt. These groups are called *Companies,* and it is these Companies that venture out into the Uberwald to hunt Behemoths and usurp territory from the wilds. 
-### Company Jobs
-Each company varies in how many people it actually has, but each Company requires *eight* primary jobs to be filled in order to function. These roles are listed here, and further expanded upon later.
- 1. Head Researcher
- 2. Master Smithy
- 3. Quartermaster
- 4. Master Chef
- 5. Lead Apothecary
- 6. Entertainments Master 
- 7. Garrison Commander
- 8. Prime Commissioner 
-## Progression
-### Tiers of Play
-- Commoner
-- Novice Breaker
-- Journeyman Breaker
-- Adept Breaker
-- Professional Breaker
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
 As already explained, Breakers have an amount of tHP thats divided between sHP and mHP. As long as these values remain at their maximum, nothing is wrong. However, when those values changes, issues arise. 
