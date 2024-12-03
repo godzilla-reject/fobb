@@ -26,7 +26,7 @@
 		- Yo-Yo Wheel: a massive wheel, bound to a cord and handle that allows the user to open up the wheel, exposing massive blades.
 			- Mechanic: 
 				- Yo-Yo Cord: You can choose to give any Yo-Yo Wheel attack Reach 1, 2 or 3. If you do, it also gains the Stamina X, where X is 2 times the qualifier for the given Reach tag (if the action already has Stamina, they are cumulative.) 
-				- Rotokinetic Engine: Successful *strike* actions with the *reach* tag excite the magikinetic rotational engine within the wheel, increasing its rotational force. This generates 
+				- Rotokinetic Engine: Successful *strike* actions with the *reach* tag excite the magikinetic rotational engine within the wheel, generating Momentum.  Momentum can be expended for Yo-Yo Wheel actions. 
 				- Roto-Engine- Landing a successful attack in Blunt form excites the wheel, increasing rotational force. Landing another attack, this time in Bladed form, preserves momentum. Continued alternating attacks allows for this increased damage to be preserved. 
 			- Stats 
 				- Damage Die:
