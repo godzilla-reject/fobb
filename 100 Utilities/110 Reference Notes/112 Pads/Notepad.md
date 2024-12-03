@@ -25,6 +25,7 @@
 	- Agile-Class Weaponry
 		- Yo-Yo Wheel: a massive wheel, bound to a cord and handle that allows the user to open up the wheel, exposing massive blades.
 			- Mechanic: 
+				- Rotokinetic Engine: Successful attacks excite the wheel, which increases its rotational force.
 				- Roto-Engine- Landing a successful attack in Blunt form excites the wheel, increasing rotational force. Landing another attack, this time in Bladed form, preserves momentum. Continued alternating attacks allows for this increased damage to be preserved. 
 			- Stats 
 				- Damage Die:
