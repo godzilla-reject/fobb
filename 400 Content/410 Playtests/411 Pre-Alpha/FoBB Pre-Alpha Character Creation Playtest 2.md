@@ -94,7 +94,7 @@ At their most basic, attribute and skill traits are just modifiers. They are mod
 
 There are other kinds of modifiers, though, and they all have *types*. *Trait* is a kind of modifier, alongside *circumstance*, *item*, and *status.*
 
-Trait modifiers (which will always be positive) are due to a specific trait being applied to that test. 
+Trait modifiers (which will always be positive) are due to a specific trait's value being applied to that test as a modifier. 
 
 Circumstance modifiers are incurred due to environment and conditions.
 
