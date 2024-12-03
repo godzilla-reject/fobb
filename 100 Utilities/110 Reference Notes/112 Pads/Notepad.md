@@ -42,6 +42,7 @@
 				- Bow Form 
 					- Mana-Weaving Arrows: Weapon *strike* actions in this form gain the "Mana 3" tag. Additionally, hitting a target with three successful weapon attacks (while in this form) in the same turn inflicts the Manaweft condition.
 					- Damage Type: Piercing
+					- Shot Types: Elemental
 				- Blade Form
 					- Mana-Threading Blades: Successful weapon attacks while in Blade Form generate a single Manastring Thread, or two Threads if the target is Manaweft.
 					- Damage Type: Cutting
