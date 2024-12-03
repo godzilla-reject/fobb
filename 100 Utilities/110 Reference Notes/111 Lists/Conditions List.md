@@ -5,6 +5,7 @@
 - **Offenseless**
 - **Unconscious**
 - **Winded**
+- **Manaweft**
 ---
 - List  ^82c4f3
 	- **Bloodied**
