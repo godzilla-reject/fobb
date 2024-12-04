@@ -2221,6 +2221,7 @@ You travel at half your normal rate. At the beginning of the next engagement, yo
 ###### 
 ##### Tracker 
 ##### General Exploration Activities 
+These are rol
 ###### Defend 
 ###### Hustle
 ###### Gather Fish
