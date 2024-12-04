@@ -14,7 +14,7 @@
 	- **Defenseless**
 		- Characters with this condition cannot make active defenses.
 	- **Drained**
-		- A character is inflicted with this condition when they are under half of their total Mana.
+		- A character is inflicted with this condition when they are under half of their total Mana. Characters with this condition cannot use *Concentrate* actions.
 	- **Hidden**
 		- A character who cannot be seen by any other character has this condition.
 	- **Manaweft**
@@ -26,4 +26,4 @@
 	- **Unconscious**
 		- A character with this condition is prone, defenseless and offenseless.
 	- **Winded**
-		- A character is inflicted with this condition when they are below half of their total Stamina.
+		- A character is inflicted with this condition when they are below half of their total Stamina. Characters with this condition cannot use *Concentrate* actions.

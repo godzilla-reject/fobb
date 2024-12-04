@@ -4,12 +4,14 @@
 - **Charged**
 - **Combo**
 - **Combo-Breaker**
+- **Concentrate**
 - **Defense**
 - **Dodge**
 - **Downtime**
 - **Drawing**
 - **Explore**
 - **Flourish**
+- **Intensive**
 - **Limited**
 - **Mana**
 - **Move**
@@ -34,11 +36,13 @@
 	- **Charged** This tag always has a qualifier. Actions with this tag can have a number of *additional* actions spent on them in order to gain bonus effects, which are listed in the actions *Charged* section.  
 	- **Combo** Actions with this tag are typically done in sequence. After performing a *Combo* action, your *Combo Count* increases by 1. It further increments by 1 for each *Combo* action you take, and resets to 0 when you take an action without this tag.
 	- **Combo-Breaker** This tag always has a qualifier. Actions with this tag cannot be used unless you have a *Combo Count* equal to or higher than the qualifier. 
+	- **Concentrate** Actions with this tag cannot be used if you have the drained condition.
 	- **Dodge** This tag always has a qualifier. This tag shows up on every single action that involves Dodging, and provides how that action changes the Dodge Die size of the weapon in its qualifier. For example, an action with "Dodge -2" is an action that lowers (-) Dodge Die size by two (2) steps, meanwhile "Dodge +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered an *Active Defense*. *This is a type tag.*
 	- **Downtime** Actions with this tag can only be used while you are **In Downtime.**
 	- **Drawing** Actions with this tag allow the user to draw the weapon they plan on using the action with as part of it, forgoing the need to **Sheathe**.
 	- **Explore** Actions with this tag can only be used while you are **Exploring**.
 	- **Flourish** Actions with this tag can only be performed once per turn. 
+	- **Intensive** Actions with this tag cannot be used if you are winded.
 	- **Limited** This tag always has a qualifier. Actions with this tag can only be used a number of times per engagement. The number of uses is given in the qualifier.
 	- **Mana** This tag always has a qualifier. Actions with this tag cost mana to use, and that cost is given in the qualifier for this tag. 
 	- **Move** This tag always has a qualifier. Actions with this trait allow the user to move as part of the action, up to a number of spaces given in the qualifier. *This is a type tag.*

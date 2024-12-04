@@ -22,7 +22,7 @@
 	- **Evasion Potency** *Level Cap: 5* Increase your Base Dodge die size by 1 step for each level of this Perk.
 	- **Guard Potency** *Level Cap: 5* Increase your Base Block die size by 1 step for each level of this Perk.
 	- **Iron Wall** *Level Cap: 2* Whenever you *completely* **Block** an attack, you gain a status bonus to your Resistances equal to 4 times your level in this Perk until the end of your next turn.
-	- **Mana Boost** *Level Cap: 3* Increase your Base Mana by your level in this Perk.
+	- **Mana Boost** *Level Cap: 3* Increase your Base Mana by your level in this Perk. At level 3 of this Perk, you can still use *Concentrate* actions when drained.
 	- **Sly Dodger** *Level Cap: 1* Whenever you *completely* **Dodge** an attack, your next attack deals another die of damage.
-	- **Stamina Boost** 
-	- **Vitality Boost**
+	- **Stamina Boost** *Level Cap: 3* Increase your Base Stamina by your level in this Perk. At level 3 of this Perk, you can still use *Intensive* actions when winded.
+	- **Vitality Boost** *Level Cap: 3* Increase your Base Health by your level in this Perk. At level 3 of this Perk, double all healing you receive when bloodied.
