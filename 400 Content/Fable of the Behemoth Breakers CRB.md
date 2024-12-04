@@ -2224,9 +2224,7 @@ At the beginning of the next engagement, the target Behemoth is surprised X, whe
 ##### Improvise
 *Exploration, Plan*
 Instead of a well-thought-out plan, you choose to wing it when the fighting starts. Make a *hard Resolve* test. You can only take this activity if there are no other *Plan* actions being taken in a given area. 
-***Critical Success:***
-***Success:*** Nothing.
-***Failure:*** Nothing.
+***Critical Success:*** At the beginning of the next engagement, the target Behemoth is surprised 1.
 ***Critical Failure:*** At the beginning of the next engagement, roll a d6. Your hunting party has the corresponding condition for the first round:
 - 1-2: Offenseless 
 - 3-4: Defenseless 
