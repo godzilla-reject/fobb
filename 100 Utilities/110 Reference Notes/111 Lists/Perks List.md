@@ -13,7 +13,7 @@
 - **Vitality Boost**
 ---
 - List ^0f2b12
-	- **Arcane Energy**
+	- **Arcane Energy** *Level Cap: 2* 
 	- **Arcane Restoration** *Level Cap: 3* For every level of this perk, you gain +1 Mana Regeneration.
 	- **Armor Potency** *Level Cap: 7* You gain an item bonus to Physical Resistance equal to your level in this Perk times two, and an item bonus to Elemental Resistance equal to your level In this Perk.
 	- **Attack Potency**
