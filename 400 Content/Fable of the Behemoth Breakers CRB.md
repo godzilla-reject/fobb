@@ -2235,6 +2235,8 @@ You travel at twice your normal rate. At the beginning of the next engagement, y
 ***Success***: During the next engagement in that area, the trap is undetectable by Behemoths and automatically springs when the condition is met.
 ##### Set an Ambush 
 *Exploration, Plan*
+You spend 10 minutes locating and marking hiding places for your hunting party. Make a 
+
 ##### Tracker 
 ##### General Exploration Activities 
 These are activities that anyone in any of the aforementioned roles can undertake while exploring.
