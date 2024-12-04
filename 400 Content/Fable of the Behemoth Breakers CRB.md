@@ -2211,6 +2211,7 @@ At the start of any given exploration scene, commonly after the Fable-Maker asks
 
 Each of the four roles listed must be filled, but one Breaker can do up to two at once (in case of an incapacitated Breaker.) This is the diegetic reason for there to be at least four Breakers per hunting party, as the League deems these roles mandatory when in the field for proper safety. Once each role has been claimed, any additional Breaker is free to double-up on one or more of the roles, or do something else entirely. It is considered good etiquette to always take a role, however. 
 ##### Archivist
+The archivist keeps track of the hunting party's movements through a hunting locale or across a journey. 
 ##### Leader 
 The leader ensures that everyone is "formed up" in order to make traversal across the terrain easier. Leaders also propose plans for the next engagement, coordinating Breakers to ensure a proper plan is followed.
 ***Exploration Activities***
