@@ -2216,7 +2216,7 @@ The leader ensures that everyone is "formed up" in order to make traversal acros
 ***Exploration Activities***
 ###### Declare Marching Order
 *Exploration*
-When traveling long distances, leaders can call for marches. When a leader Declares a Marching Order, up to 20 people (not including the leader) travel at thrice their normal rate. 
+When traveling long distances, leaders can call for marches. When a leader Declares a Marching Order, up to 20 people (not including the leader) gain the benefit of the Hustle exploration activity. 
 ###### Form a Plan
 *Exploration, Plan*
 While exploring, you encourage others to perform various components of a larger plan. Your hunting party gains a +2 circumstance bonus to any test they make as part of a *Plan* action.
