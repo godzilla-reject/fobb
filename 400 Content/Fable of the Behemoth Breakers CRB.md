@@ -2251,6 +2251,7 @@ You spend 10 minutes locating and marking hiding places for your hunting party. 
 ***Critical Failure:*** Your hunting party begins the engagement surprised 1. 
 
 ##### Tracker 
+The tracker's main job is to find the Behemoth and keep track of their movements across various areas of a hunting locale. 
 ######
 *Exploration*
 ######
