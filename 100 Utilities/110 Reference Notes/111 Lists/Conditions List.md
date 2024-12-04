@@ -21,6 +21,8 @@
 		- A character under this condition take 1d8 weakness damage when they use a *Spell* action.
 	- **Offenseless**
 		- A character with this condition cannot make attacks.
+	- **Regeneration**
+		- This condition will always have a qualifier. A character with this condition heals for a number of tHP at the beginning of each of their turns. This healing is equal to the qualifier.
 	- **Unconscious**
 		- A character with this condition is prone, defenseless and offenseless.
 	- **Winded**

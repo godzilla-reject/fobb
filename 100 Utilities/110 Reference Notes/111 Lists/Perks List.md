@@ -17,12 +17,12 @@
 	- **Arcane Restoration** *Level Cap: 3* For every level of this Perk, you gain +1 Mana Regeneration.
 	- **Armor Potency** *Level Cap: 7* You gain an item bonus to Physical Resistance equal to your level in this Perk times two, and an item bonus to Elemental Resistance equal to your level In this Perk.
 	- **Attack Potency** *Level Cap: 4* Your weapon attacks gain a +1 damage die amount bonus for each level in this Perk. Additionally, you gain a +1 damage die size bonus for every 2 levels in this Perk.
-	- **Bloodletter** *Level Cap: 2* Any Stamina or Mana cost you pay is instead paid with Mana. Additionally, you Regeneration X, where X is your Tier times your level in this Perk. 
+	- **Bloodletter** *Level Cap: 2* Any Stamina or Mana cost you pay is instead paid with Mana. Additionally, you gain the Regeneration X condition, where X is your Tier times your level in this Perk. 
 	- **Energy Restoration** *Level Cap: 3* For every level of this Perk, you gain +2 Stamina Regeneration.
 	- **Evasion Potency** *Level Cap: 5* Increase your Base Dodge die size by 1 step for each level of this Perk.
 	- **Guard Potency** *Level Cap: 5* Increase your Base Block die size by 1 step for each level of this Perk.
 	- **Iron Wall** *Level Cap: 2* Whenever you *completely* **Block** an attack, you gain a status bonus to your Resistances equal to 4 times your level in this Perk until the end of your next turn.
-	- **Mana Boost**
+	- **Mana Boost** *Level Cap: 3* Increase your Base Mana by your level in this Perk.
 	- **Sly Dodger** *Level Cap: 1* Whenever you *completely* **Dodge** an attack, your next attack deals another die of damage.
-	- **Stamina Boost**
+	- **Stamina Boost** 
 	- **Vitality Boost**
