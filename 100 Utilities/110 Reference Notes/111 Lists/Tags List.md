@@ -47,7 +47,7 @@
 	- **Mana** This tag always has a qualifier. Actions with this tag cost mana to use, and that cost is given in the qualifier for this tag. 
 	- **Move** This tag always has a qualifier. Actions with this trait allow the user to move as part of the action, up to a number of spaces given in the qualifier. *This is a type tag.*
 	- **Open** An action with this tag can only be used if its the first action of that type you take on your turn. 
-	- **Piercing** *Strike* actions with this tag ignore half of a Behemoth's applicable Resistances.
+	- **Armor-Piercing** *Strike* actions with this tag ignore half of a Behemoth's applicable Resistances.
 	- **Reach** This tag always has a qualifier. *Strike* actions with this tag have their effective targeting area (or reach) increased by the qualifier.
 	- **Riposte** This tag always has a qualifier, and always is accompanied by the *Block* tag. Actions with this tag allow a counterattack after successfully blocking an attack. This counterattack can be any *Strike* action that requires a number of actions given in the qualifier (that you could otherwise perform.)
 	- **Spell** Actions with this tag are manifestations of pure mana, warped into the user's desire. *This is a type tag.*
