@@ -2223,7 +2223,7 @@ While exploring, you encourage others to perform various components of a larger 
 At the beginning of the next engagement, the target Behemoth is surprised X, where X is 1 for every 2 *Plan* actions affecting the area. 
 ##### Improvise
 *Exploration, Plan*
-
+Instead of a well-thought-out plan, you choose to wing it when the fighting starts. 
 ##### Scout 
 The scout ventures out ahead or behind their hunting party. This could be to watch for prowling Behemoths, or to lay an ambush for a routed Behemoth, or even to find the best angle of attack on its lair.  The League recommends characters with high Move traits to be a scout, since it requires being out and away from the hunting party.
 ***Exploration Activities***
