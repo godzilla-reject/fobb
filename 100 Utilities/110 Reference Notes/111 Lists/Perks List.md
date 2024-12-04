@@ -6,7 +6,8 @@
 - **Iron Wall**
 - **Sly Dodger**
 - **Attack Potency**
-- 
+- **Bloodletter**
+- **Arcane Energy**
 ---
 - List ^0f2b12
 	- **Arcane Restoration** *Level Cap: 3* For every level of this perk, you gain +1 Mana Regeneration.
