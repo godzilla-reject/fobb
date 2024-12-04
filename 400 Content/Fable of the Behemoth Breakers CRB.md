@@ -2239,7 +2239,7 @@ You spend 10 minutes locating and marking hiding places for your hunting party. 
 ***Critical Success:*** Everyone in your hunting party begins the next engagement hidden from the target Behemoth.
 ***Success:*** You begin the next engagement hidden, and other members can Hide as a free action with a trigger of "You roll initiative."
 ***Failure:*** You and other members can Hide as a free action with a trigger of "You roll initiative."
-***Critical Failure:***
+***Critical Failure:*** Your hunting party begins the engagement surprised 1. 
 
 ##### Tracker 
 ##### General Exploration Activities 
