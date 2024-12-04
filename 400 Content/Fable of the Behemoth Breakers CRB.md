@@ -2212,8 +2212,10 @@ At the start of any given exploration scene, commonly after the Fable-Maker asks
 Each of the four roles listed must be filled, but one Breaker can do up to two at once (in case of an incapacitated Breaker.) This is the diegetic reason for there to be at least four Breakers per hunting party, as the League deems these roles mandatory when in the field for proper safety. Once each role has been claimed, any additional Breaker is free to double-up on one or more of the roles, or do something else entirely. It is considered good etiquette to always take a role, however. 
 ##### Archivist
 ##### Leader 
+The leader ensures that everyone is "formed up" in order to make traversal across the terrain easier. 
+***Exploration Activities***
 ##### Scout 
-The scout ventures out ahead or behind their hunting party. This could be to watch for prowling Behemoths, or to lay an ambush for a routed Behemoth, or even to find the best angle of attack on its lair. 
+The scout ventures out ahead or behind their hunting party. This could be to watch for prowling Behemoths, or to lay an ambush for a routed Behemoth, or even to find the best angle of attack on its lair.  The League recommends high
 ***Exploration Activities***
 ###### Scouting
 *Exploration*
@@ -2221,7 +2223,7 @@ You travel at half your normal rate. At the beginning of the next engagement, yo
 ###### 
 ##### Tracker 
 ##### General Exploration Activities 
-These are rol
+These are activities that anyone in any of the aforementioned roles can undertake while exploring.
 ###### Defend 
 ###### Hustle
 ###### Gather Fish
