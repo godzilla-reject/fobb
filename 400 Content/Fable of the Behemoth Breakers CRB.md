@@ -2247,7 +2247,7 @@ These are the most common exploration activities.
 # Part 8: The Glossaries 
 ## Glossary Index
 ## Glossary 1: Action Tags
-![[Tags List|clean nlk]]
+![[Tags List#^d97664|clean nlk]]
 ## Glossary 2: Perks 
 ![[Perks List|clean nlk]]
 ## Glossary 3: Crafting Materials 

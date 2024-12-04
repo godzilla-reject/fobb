@@ -1,4 +1,7 @@
 # Action Tags 
+
+^002d7d
+
 - **Block**
 - **Camp**
 - **Charged**
@@ -24,14 +27,23 @@
 - **Strike** 
 - **Stunning**
 - **Teleport**
-
+# Equipment Tags 
+- **Armor**
+- **Carry**
+- **Consumable**
+- **Enhancement**
+- **Gear**
+- **Modification**
+- **Restorative**
+- **Trap**
+- **Weapon**
 ---
 ## List
 
 ^35dddb
 
-- List ^d97664
-	- **Block** This tag always has a qualifier. This tag shows up on every single action that involves Blocking, and provides how that action changes the Block Die size of the weapon in its qualifier. For example, an action with "Block -2" is an action that lowers (-) Block Die size by two (2) steps, meanwhile "Block +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered an *Active Defense*. *This is a type tag.* ^61d8b4
+- %%Action Tags%% ^d97664
+	- **Block** This tag always has a qualifier. This tag shows up on every single action that involves Blocking, and provides how that action changes the Block Die size of the weapon in its qualifier. For example, an action with "Block -2" is an action that lowers (-) Block Die size by two (2) steps, meanwhile "Block +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered an *Active Defense*. *This is a type tag.*
 	- **Camp** Actions with this tag can only be used while **At Camp**.
 	- **Charged** This tag always has a qualifier. Actions with this tag can have a number of *additional* actions spent on them in order to gain bonus effects, which are listed in the actions *Charged* section.  
 	- **Combo** Actions with this tag are typically done in sequence. After performing a *Combo* action, your *Combo Count* increases by 1. It further increments by 1 for each *Combo* action you take, and resets to 0 when you take an action without this tag.
@@ -55,23 +67,13 @@
 	- **Strike** This tag always has a qualifier. This tag shows up on every single action that involves making an attack, and provides how that action changes the Damage Die size of the weapon in its qualifier. For example, an action with "Strike -2" is an attack that lowers (-) Damage Die size by two (2) steps, meanwhile "Strike +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered *attacks*. *This is a type tag.*
 	- **Stunning** *Strike* actions with this tag increase their Weapon Die size by 1 step when dealing damage to a Behemoth's Head (or equivalent.)
 	- **Teleport** Actions with this tag displace the user across local space, altering their location via mana. Actions with this tag do not trigger reactions.
-# Equipment Tags 
-- **Armor**
-- **Carry**
-- **Consumable**
-- **Enhancement**
-- **Gear**
-- **Modification**
-- **Restorative**
-- **Trap**
-- **Weapon**
----
-- **Armor** Equipment with this tag provides protection to the wearer in the form of damage resistance. *This is a type tag.*
-- **Carry** This tag always has a qualifier. A Breaker can carry up to X of any piece of equipment with this tag, where X is the qualifier. 
-- **Consumable** This tag can include a qualifier. Equipment with this tag is of limited use, which is by default 1. If this tag has a qualifier, the number of uses is equal to that qualifier. 
-- **Enhancement** Equipment with this tag is used to bolster Breaker abilities. Modifiers from equipment with this tag typically stack with other modifiers of the same type.
-- **Gear** Equipment with this tag is of general-use to a Breaker in the field, and does not provide keystone offensive or defensive prowess. *This is a type tag.*
-- **Modification** This tag always has a qualifier. Equipment with this tag modifies the function of weaponry. The weapon, or type of weapon, it modifies is given in the qualifier.
-- **Restorative** Equipment with this tag heals and mends Breakers. 
-- **Trap** This tag always has a qualifier. Equipment with this tag can trap a Behemoth. The difficulty level of the test the Behemoth must pass to escape is given in the qualifier, and it lowers by 1 stage each time the same type of trap is used in an engagement.
-- **Weapon** Equipment with this tag is used by Breakers to hunt Behemoths. *This is a type tag.*
+- Equipment Tags 
+	- **Armor** Equipment with this tag provides protection to the wearer in the form of damage resistance. *This is a type tag.*
+	- **Carry** This tag always has a qualifier. A Breaker can carry up to X of any piece of equipment with this tag, where X is the qualifier. 
+	- **Consumable** This tag can include a qualifier. Equipment with this tag is of limited use, which is by default 1. If this tag has a qualifier, the number of uses is equal to that qualifier. 
+	- **Enhancement** Equipment with this tag is used to bolster Breaker abilities. Modifiers from equipment with this tag typically stack with other modifiers of the same type.
+	- **Gear** Equipment with this tag is of general-use to a Breaker in the field, and does not provide keystone offensive or defensive prowess. *This is a type tag.*
+	- **Modification** This tag always has a qualifier. Equipment with this tag modifies the function of weaponry. The weapon, or type of weapon, it modifies is given in the qualifier.
+	- **Restorative** Equipment with this tag heals and mends Breakers. 
+	- **Trap** This tag always has a qualifier. Equipment with this tag can trap a Behemoth. The difficulty level of the test the Behemoth must pass to escape is given in the qualifier, and it lowers by 1 stage each time the same type of trap is used in an engagement.
+	- **Weapon** Equipment with this tag is used by Breakers to hunt Behemoths. *This is a type tag.*
