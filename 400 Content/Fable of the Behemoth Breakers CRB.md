@@ -2219,7 +2219,8 @@ The leader ensures that everyone is "formed up" in order to make traversal acros
 When traveling long distances, leaders can call for marches. When a leader Declares a Marching Order, up to 20 people (not including the leader) travel at thrice their normal rate. 
 ##### Form a Plan
 *Exploration, Plan*
-##### Improvise! 
+At the beginning of the next engagement, the target Behemoth is surprised X, where X is 1 for every 2 *Plan* actions affecting the area. 
+##### Improvise
 *Exploration, Plan*
 ##### Scout 
 The scout ventures out ahead or behind their hunting party. This could be to watch for prowling Behemoths, or to lay an ambush for a routed Behemoth, or even to find the best angle of attack on its lair.  The League recommends characters with high Move traits to be a scout, since it requires being out and away from the hunting party.
