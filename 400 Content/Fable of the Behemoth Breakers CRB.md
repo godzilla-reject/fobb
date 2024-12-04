@@ -2223,7 +2223,14 @@ While exploring, you encourage others to perform various components of a larger 
 At the beginning of the next engagement, the target Behemoth is surprised X, where X is 1 for every 2 *Plan* actions affecting the area. 
 ##### Improvise
 *Exploration, Plan*
-Instead of a well-thought-out plan, you choose to wing it when the fighting starts. 
+Instead of a well-thought-out plan, you choose to wing it when the fighting starts. Make a *hard Resolve* test. You can only take this activity if there are no other *Plan* actions being taken in a given area. 
+***Critical Success:***
+***Success:*** Nothing.
+***Failure:*** Nothing.
+***Critical Failure:*** At the beginning of the next engagement, roll a d6. Your hunting party has the corresponding condition for the first round:
+- 1-2: Offenseless 
+- 3-4: Defenseless 
+- 5-6: Immobile
 ##### Scout 
 The scout ventures out ahead or behind their hunting party. This could be to watch for prowling Behemoths, or to lay an ambush for a routed Behemoth, or even to find the best angle of attack on its lair.  The League recommends characters with high Move traits to be a scout, since it requires being out and away from the hunting party.
 ***Exploration Activities***
