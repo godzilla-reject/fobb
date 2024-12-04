@@ -28,10 +28,10 @@
 				- Yo-Yo Cord: You can choose to give any Yo-Yo Wheel attack Reach 1, 2 or 3. If you do, it also gains the Stamina X, where X is 2 times the qualifier for the given Reach tag (if the action already has Stamina, they are cumulative.) 
 				- Rotokinetic Engine: Successful *strike* actions with Reach 2 or 3 excite the magikinetic rotational engine within the wheel, generating Momentum.  Momentum can be expended for Yo-Yo Wheel actions. If you would gain Momentum while you already have it, the Rotokinetic Engine experiences overspin and temporarily locks up. While locked up, you cannot use the Yo-Yo Cord until you spend a single action to clear the jam.
 			- Stats 
-				- Damage Die:
-				- Damage Type:
-				- Dodge: 
-				- Block:
+				- Damage Die: 1d8
+				- Damage Type: crushing
+				- Dodge:  
+				- Block: -
 		- Bow-Blades: A pair of large, curved blades that can open up, then combine, into a powerful, yet short-ranged bow.
 			- Mechanic: 
 				- Manastring Threads: Successful attacks in blade form generate Manastring Threads. You can have up to 6 Threads at a time, and you gain certain benefits at 3 Threads and 6 Threads. You lose 1 Thread at the end of each of your turns that you do not make an attack. 
