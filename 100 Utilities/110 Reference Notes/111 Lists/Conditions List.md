@@ -1,16 +1,3 @@
-- **Bloodied**
-- **Defenseless**
-- **Drained**
-- **Hidden**
-- **Immobile**
-- **Incapacitated**
-- **Manaweft**
-- **Offenseless**
-- **Prone**
-- **Regeneration**
-- **Unconscious**
-- **Winded**
----
 - List  ^82c4f3
 	- **Bloodied** A character is inflicted with this condition when they have no sHP remaining.
 	- **Defenseless** Characters with this condition cannot make active defenses.
@@ -22,6 +9,6 @@
 	- **Offenseless** A character with this condition cannot make attacks.
 	- **Prone** A character with this condition is 
 	- **Regeneration** This condition will always have a qualifier. A character with this condition heals for a number of tHP at the beginning of each of their turns. This healing is equal to the qualifier. This condition is lost if the affected character enters a death spiral.
-	- **Surprised** A character with this condition
+	- **Surprised** This condition always has a qualifier. A character with this condition cannot act on its turn. This condition lasts for a number of turns given in the qualifier. 
 	- **Unconscious** A character with this condition is prone and incapacitated.
 	- **Winded** A character is inflicted with this condition when they are below half of their total Stamina. Characters with this condition cannot use *Intensive* actions.

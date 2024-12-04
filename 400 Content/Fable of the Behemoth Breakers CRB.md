@@ -2221,10 +2221,10 @@ When traveling long distances, leaders can call for marches. When a leader Decla
 *Exploration, Plan*
 While exploring, you encourage others to perform various components of a larger plan. Your hunting party gains a +2 circumstance bonus to any test they make as part of a *Plan* action.
 At the beginning of the next engagement, the target Behemoth is surprised X, where X is 1 for every 2 *Plan* actions affecting the area. 
-##### Improvise
+###### Improvise
 *Exploration, Plan*
 Instead of a well-thought-out plan, you choose to wing it when the fighting starts. Make a *hard Resolve* test. You can only take this activity if there are no other *Plan* actions being taken in a given area. 
-***Critical Success:*** At the beginning of the next engagement, the target Behemoth is surprised 1.
+***Critical Success:*** At the beginning of the next engagement, the target Behemoth is surprised 2.
 ***Critical Failure:*** At the beginning of the next engagement, roll a d6. Your hunting party has the corresponding condition for the first round:
 - 1-2: Offenseless 
 - 3-4: Defenseless 
@@ -2251,6 +2251,12 @@ You spend 10 minutes locating and marking hiding places for your hunting party. 
 ***Critical Failure:*** Your hunting party begins the engagement surprised 1. 
 
 ##### Tracker 
+######
+*Exploration*
+######
+*Exploration, Plan*
+######
+*Exploration, Plan*
 ##### General Exploration Activities 
 These are activities that anyone in any of the aforementioned roles can undertake while exploring.
 ###### Defend 
