@@ -1,5 +1,3 @@
-# Difficulty 
-
 | Difficulty Level | Target Number |
 |:----------------:|:------------------:|
 |     Trivial      |         16         |
