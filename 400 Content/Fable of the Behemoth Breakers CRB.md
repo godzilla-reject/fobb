@@ -2215,12 +2215,14 @@ Each of the four roles listed must be filled, but one Breaker can do up to two a
 The leader ensures that everyone is "formed up" in order to make traversal across the terrain easier. 
 ***Exploration Activities***
 ##### Scout 
-The scout ventures out ahead or behind their hunting party. This could be to watch for prowling Behemoths, or to lay an ambush for a routed Behemoth, or even to find the best angle of attack on its lair.  The League recommends high
+The scout ventures out ahead or behind their hunting party. This could be to watch for prowling Behemoths, or to lay an ambush for a routed Behemoth, or even to find the best angle of attack on its lair.  The League recommends characters with high Move traits to be a scout, since it requires being out and away from the hunting party.
 ***Exploration Activities***
 ###### Scouting
 *Exploration*
-You travel at half your normal rate. At the beginning of the next engagement, your hunting party gains a +2 circumstance bonus to initiative, unless the target Behemoth has the **Erratic** ability. 
-###### 
+You travel at twice your normal rate. At the beginning of the next engagement, your hunting party gains a +2 circumstance bonus to initiative, unless the target Behemoth has the **Erratic** ability. 
+###### Set Ambush
+*Exploration*
+**Requirement** You have a Trap item in yu You spend 10 minutes setting 
 ##### Tracker 
 ##### General Exploration Activities 
 These are activities that anyone in any of the aforementioned roles can undertake while exploring.
