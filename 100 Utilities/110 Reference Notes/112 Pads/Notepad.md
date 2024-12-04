@@ -30,7 +30,7 @@
 			- Stats 
 				- Damage Die: 1d8
 				- Damage Type: crushing
-				- Dodge:  
+				- Dodge:  1d8
 				- Block: -
 		- Bow-Blades: A pair of large, curved blades that can open up, then combine, into a powerful, yet short-ranged bow.
 			- Mechanic: 
