@@ -1,22 +1,28 @@
+- **Arcane Energy**
 - **Arcane Restoration**
 - **Armor Potency**
+- **Attack Potency**
+- **Bloodletter**
 - **Energy Restoration**
 - **Evasion Potency**
 - **Guard Potency**
 - **Iron Wall**
-- **Sly Dodger**
-- **Attack Potency**
-- **Bloodletter**
-- **Arcane Energy**
-- **Vitality Boost**
-- **Stamina Boost**
 - **Mana Boost**
+- **Sly Dodger**
+- **Stamina Boost**
+- **Vitality Boost**
 ---
 - List ^0f2b12
+	- **Arcane Energy**
 	- **Arcane Restoration** *Level Cap: 3* For every level of this perk, you gain +1 Mana Regeneration.
 	- **Armor Potency** *Level Cap: 7* You gain an item bonus to Physical Resistance equal to your level in this Perk times two, and an item bonus to Elemental Resistance equal to your level In this Perk.
+	- **Attack Potency**
+	- **Bloodletter**
 	- **Energy Restoration** *Level Cap: 3* For every level of this perk, you gain +2 Stamina Regeneration.
 	- **Evasion Potency** *Level Cap: 5* Increase your Base Dodge die size by 1 step for each level of this Perk.
 	- **Guard Potency** *Level Cap: 5* Increase your Base Block die size by 1 step for each level of this Perk.
 	- **Iron Wall** *Level Cap: 2* Whenever you *completely* **Block** an attack, you gain a status bonus to your Resistances equal to 4 times your level in this Perk until the end of your next turn.
+	- **Mana Boost**
 	- **Sly Dodger** *Level Cap: 1* Whenever you *completely* **Dodge** an attack, your next attack deals another die of damage.
+	- **Stamina Boost**
+	- **Vitality Boost**
