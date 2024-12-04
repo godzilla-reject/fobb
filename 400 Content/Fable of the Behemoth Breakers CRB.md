@@ -2212,17 +2212,20 @@ At the start of any given exploration scene, commonly after the Fable-Maker asks
 Each of the four roles listed must be filled, but one Breaker can do up to two at once (in case of an incapacitated Breaker.) This is the diegetic reason for there to be at least four Breakers per hunting party, as the League deems these roles mandatory when in the field for proper safety. Once each role has been claimed, any additional Breaker is free to double-up on one or more of the roles, or do something else entirely. It is considered good etiquette to always take a role, however. 
 ##### Archivist
 ##### Leader 
-The leader ensures that everyone is "formed up" in order to make traversal across the terrain easier. Leaders also propose plans for the next engagement,
+The leader ensures that everyone is "formed up" in order to make traversal across the terrain easier. Leaders also propose plans for the next engagement, coordinating Breakers to ensure a proper plan is followed.
 ***Exploration Activities***
+
 ##### Scout 
 The scout ventures out ahead or behind their hunting party. This could be to watch for prowling Behemoths, or to lay an ambush for a routed Behemoth, or even to find the best angle of attack on its lair.  The League recommends characters with high Move traits to be a scout, since it requires being out and away from the hunting party.
 ***Exploration Activities***
 ###### Scouting
 *Exploration*
 You travel at twice your normal rate. At the beginning of the next engagement, your hunting party gains a +2 circumstance bonus to initiative, unless the target Behemoth has the **Erratic** ability. 
-###### Set Ambush
-*Exploration*
+###### Lay A Trap
+*Exploration, Plan*
 **Requirement** You have a Trap item in your inventory;  You spend 10 minutes setting up and hiding a trap for an ambush. Select an item that meets the requirement, then explain how you hide it in the environment and a condition for it to trigger. During the next engagement in that area, the trap is undetectable by Behemoths and automatically springs when the condition is met.
+##### Set an Ambush 
+
 ##### Tracker 
 ##### General Exploration Activities 
 These are activities that anyone in any of the aforementioned roles can undertake while exploring.

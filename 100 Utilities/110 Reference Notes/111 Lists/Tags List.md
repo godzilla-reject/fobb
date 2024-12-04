@@ -1,7 +1,5 @@
 # Action Tags 
-
-^002d7d
-
+- **Armor-Piercing**
 - **Block**
 - **Camp**
 - **Charged**
@@ -19,7 +17,7 @@
 - **Mana**
 - **Move**
 - **Open**
-- **Piercing**
+- **Plan**
 - **Reach**
 - **Riposte**
 - **Spell**
@@ -39,10 +37,8 @@
 - **Weapon**
 ---
 ## List
-
-^35dddb
-
 - %%Action Tags%% ^d97664
+	- **Armor-Piercing** *Strike* actions with this tag ignore half of a Behemoth's applicable Resistances.
 	- **Block** This tag always has a qualifier. This tag shows up on every single action that involves Blocking, and provides how that action changes the Block Die size of the weapon in its qualifier. For example, an action with "Block -2" is an action that lowers (-) Block Die size by two (2) steps, meanwhile "Block +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered an *Active Defense*. *This is a type tag.*
 	- **Camp** Actions with this tag can only be used while **At Camp**.
 	- **Charged** This tag always has a qualifier. Actions with this tag can have a number of *additional* actions spent on them in order to gain bonus effects, which are listed in the actions *Charged* section.  
@@ -59,7 +55,7 @@
 	- **Mana** This tag always has a qualifier. Actions with this tag cost mana to use, and that cost is given in the qualifier for this tag. 
 	- **Move** This tag always has a qualifier. Actions with this trait allow the user to move as part of the action, up to a number of spaces given in the qualifier. *This is a type tag.*
 	- **Open** An action with this tag can only be used if its the first action of that type you take on your turn. 
-	- **Armor-Piercing** *Strike* actions with this tag ignore half of a Behemoth's applicable Resistances.
+	- **Plan** *Explore* actions with this tag directly affect an engagement. Any given engagement can only be affected by 1 *Plan* action per player.
 	- **Reach** This tag always has a qualifier. *Strike* actions with this tag have their effective targeting area (or reach) increased by the qualifier.
 	- **Riposte** This tag always has a qualifier, and always is accompanied by the *Block* tag. Actions with this tag allow a counterattack after successfully blocking an attack. This counterattack can be any *Strike* action that requires a number of actions given in the qualifier (that you could otherwise perform.)
 	- **Spell** Actions with this tag are manifestations of pure mana, warped into the user's desire. *This is a type tag.*
