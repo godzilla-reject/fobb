@@ -4,6 +4,7 @@
 - **Hidden**
 - **Manaweft**
 - **Offenseless**
+- **Regeneration**
 - **Unconscious**
 - **Winded**
 ---
@@ -16,6 +17,8 @@
 		- A character is inflicted with this condition when they are under half of their total Mana.
 	- **Hidden**
 		- A character who cannot be seen by any other character has this condition.
+	- **Manaweft**
+		- A character under this condition take 1d8 weakness damage when they use a *Spell* action.
 	- **Offenseless**
 		- A character with this condition cannot make attacks.
 	- **Unconscious**

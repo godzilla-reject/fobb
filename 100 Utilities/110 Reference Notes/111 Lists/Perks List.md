@@ -17,7 +17,7 @@
 	- **Arcane Restoration** *Level Cap: 3* For every level of this Perk, you gain +1 Mana Regeneration.
 	- **Armor Potency** *Level Cap: 7* You gain an item bonus to Physical Resistance equal to your level in this Perk times two, and an item bonus to Elemental Resistance equal to your level In this Perk.
 	- **Attack Potency** *Level Cap: 4* Your weapon attacks gain a +1 damage die amount bonus for each level in this Perk. Additionally, you gain a +1 damage die size bonus for every 2 levels in this Perk.
-	- **Bloodletter** *Level Cap: 2* Any Stamina or Mana cost you pay is instead paid with Mana. 
+	- **Bloodletter** *Level Cap: 2* Any Stamina or Mana cost you pay is instead paid with Mana. Additionally, you Regeneration X, where X is your Tier times your level in this Perk. 
 	- **Energy Restoration** *Level Cap: 3* For every level of this Perk, you gain +2 Stamina Regeneration.
 	- **Evasion Potency** *Level Cap: 5* Increase your Base Dodge die size by 1 step for each level of this Perk.
 	- **Guard Potency** *Level Cap: 5* Increase your Base Block die size by 1 step for each level of this Perk.
