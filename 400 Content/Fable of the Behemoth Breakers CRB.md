@@ -2219,6 +2219,7 @@ The leader ensures that everyone is "formed up" in order to make traversal acros
 When traveling long distances, leaders can call for marches. When a leader Declares a Marching Order, up to 20 people (not including the leader) travel at thrice their normal rate. 
 ##### Form a Plan
 *Exploration, Plan*
+While exploring, you encourage others to perform various components of a larger plan. Your hunting party gains a +2 circumstance bonus to any test they make as part of a *Plan* action.
 At the beginning of the next engagement, the target Behemoth is surprised X, where X is 1 for every 2 *Plan* actions affecting the area. 
 ##### Improvise
 *Exploration, Plan*
@@ -2230,7 +2231,8 @@ The scout ventures out ahead or behind their hunting party. This could be to wat
 You travel at twice your normal rate. At the beginning of the next engagement, your hunting party gains a +2 circumstance bonus to initiative, unless the target Behemoth has the **Erratic** ability. 
 ###### Lay A Trap
 *Exploration, Plan*
-**Requirement** You have a Trap item in your inventory;  You spend 10 minutes setting up and hiding a trap for an ambush. Select an item that meets the requirement, then explain how you hide it in the environment and a condition for it to trigger. During the next engagement in that area, the trap is undetectable by Behemoths and automatically springs when the condition is met.
+**Requirement** You have a Trap item in your inventory;  You spend 10 minutes setting up and hiding a trap for an ambush. Select an item that meets the requirement, then explain how you hide it in the environment and a condition for it to trigger. Then, make an *average* *Creativity* test.
+***Success***: During the next engagement in that area, the trap is undetectable by Behemoths and automatically springs when the condition is met.
 ##### Set an Ambush 
 *Exploration, Plan*
 ##### Tracker 
