@@ -1998,17 +1998,19 @@ Here is a chart you can use to randomly generate a name (or use as inspiration):
 
 Work with your fellow Breakers to draw a small banner for your Company. It doesn't need to be perfect, or even good, as long as it is a symbol to associate with your Company. A written description works as well. 
 ### Step 3.
-**Pen the Creed.** Each Company has a *creed*, or an oath that all members take to promise loyalty to the ideals of the Company. In order to create the Company Creed, one of each of the founding members (the players) select a *Tenet* in secret. Once each player has chosen one, the party 
+**Meet your Patron.** Each Company has a person or circumstance that it is bankrolled by. This is known as the Company Patron. Commonly, this is a rich city-state noble that wants to strike out into the Uberwald to find a new place to stake a new city-state, but other times it might be a powerful merchant, a renowned Breaker of myth, or even the Company itself, coming together with their last crowns to try and make it in the unknown. 
+
+Once your Company selects its Patron, your Fable-Maker will inform you of some additional details about it. Make sure you record these details, as it will include your Patron's primary Goal and their Creed Tenet.  Your Company Patron also affects your Company's Wealth, so ensure that is denoted.
+### Step 4.
+**Pen the Creed.** Each Company has a *creed*, or an oath that all members take to promise loyalty to the ideals of the Company. In order to create the Company Creed, one of each of the founding members (the players) select a *Tenet* in secret. Once each player has chosen one, reveal them to one another. Now, one by one, each founder must argue their case to the table, which is then voted on (with the Fable-Maker breaking ties). Approved tenets are added to the creed, while ones that are thrown out and the selecting player must select another tenet.
+
+Once each player has contributed a tenet, the Company's Patron adds a tenet, which is predetermined. Then, finally, the Fable-Maker adds a tenet, which can only be vetoed by unanimous vote. 
 
 This creed can be as simple as your table wants it to be, or as complicated, but be warned: whatever stipulations put in the creed are *binding*. If your creed is simply "Split all glory, treasure and prize among all with equality," and you take more than your fair share, you are in breech of the Company Creed, and lose your place there within. 
 
 This is an in-world consequence, but it could have mechanical consequences as well.
 
 The Fable-Maker has final say on if the Creed is appropriate for both the campaign and table.
-### Step 4.
-**Meet your Patron.** Each Company has a person or circumstance that it is bankrolled by. This is known as the Company Patron. Commonly, this is a rich city-state noble that wants to strike out into the Uberwald to find a new place to stake a new city-state, but other times it might be a powerful merchant, a renowned Breaker of myth, or even the Company itself, coming together with their last crowns to try and make it in the unknown. 
-
-Once your Company selects its Patron, your Fable-Maker will inform you of some additional details about it. Make sure you record these details, as it will include your Patron's primary Goal.  Your Company Patron also affects your Company's Wealth trait. 
 ### Step 5.
 **Assign Manpower**
 With the charter created, its now time to fill each of the eight Jobs in the Company. Anyone who has a Company-Required Job automatically fills their their Job's slot, and then, the Fable-Maker creates NPCs to fill the roles of any remaining Jobs. Its common for Fable-Makers to involve the Breakers in this process, but depending on the campaign this might change. 
