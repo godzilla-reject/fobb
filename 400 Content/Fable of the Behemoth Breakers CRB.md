@@ -2030,8 +2030,28 @@ Making a Banner is important, but if you don't have the time to brainstorm, tale
 |  6   | As 5  |              |              |                |
 |  7   |   -   |              |              |                |
 |  8   | As 7  |              |              |                |
+
+### Company Patrons
+When selecting a Patron, keep in mind all of the different Breakers; this is a shared aspect of their origin, and should be at least somewhat applicable to all players.
+#### Patron: Wealthy Aristocrat
+***Wealth:***
+***Tenet:***
+#### Patron: League-Commissoned 
+***Wealth:***
+***Tenet:***
+#### Patron: 
+***Wealth:***
+***Tenet:***
+#### Patron: 
+***Wealth:***
+***Tenet:***
+#### Patron: 
+***Wealth:***
+***Tenet:***
+#### Patron: 
+***Wealth:***
+***Tenet:***
 ### Company Creed 
-### Company Patron
 ### Company Areas
 #### Job: Entertainments Master
 ##### Building: Tavern Hall
