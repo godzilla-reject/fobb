@@ -1986,10 +1986,12 @@ Here is a chart you can use to randomly generate a name (or use as inspiration):
 ### Step 2.
 **Create the banner.** This part, much like step 1, is mostly for roleplay, but the Company is much more roleplay-driven anyway. The Company banner is the logo for its Breakers, and represents them among other Companies in the League. 
 
-Work with your fellow Breakers to draw a small banner for your Company. 
-### Step 3. 
-### Step 
-### Step
+Work with your fellow Breakers to draw a small banner for your Company. It doesn't need to be perfect, or even good, as long as it is a symbol to associate with your Company. A written description works as well. 
+### Step 3.
+**Pen the Creed**
+### Step 4.
+### Step 5.
+### Step 6.
 ## The Company 
 ### Company Name
 ### Company Banner 
