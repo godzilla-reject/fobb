@@ -1968,7 +1968,8 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 		- 3x Herbal Boosters
 ## Creating a Company
 Creating a company is a collaborative effort; you *can* create one alone, but considering you and your fellow players make up about half the required jobs of a Company, it should be done together. Do each of the following steps together, ensuring that everyone gets to be heard along the way.
-### Step
+### Step 1.
+
 ## The Company 
 ### Company Name
 ### Company Banner 
