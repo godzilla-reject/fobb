@@ -1980,19 +1980,6 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 Creating a company is a collaborative effort; you *can* create one alone, but considering you and your fellow players make up about half the required jobs of a Company, it should be done together. Do each of the following steps together, ensuring that everyone gets to be heard along the way.
 ### Step 1.
 **Name the Company**. Unlike Breakers, declaring a name for the Company is the first step in creating the Company Charter. The name can be really anything the table agrees on, as long as it contains the word "Company" somewhere within it.
-Here is a chart you can use to randomly generate a name (or use as inspiration):
-
-| Dice | Format | Adjective | Noun | Verb |
-|:----:|:------:|:---------:|:----:|:----:|
-|  1   |   -    |           |      |      |
-|  2   |  As 1  |           |      |      |
-|  3   |   -    |           |      |      |
-|  4   |  As 3  |           |      |      |
-|  5   |   -    |           |      |      |
-|  6   |  As 5  |           |      |      |
-|  7   |   -    |           |      |      |
-|  8   |  As 7  |           |      |      |
-
 ### Step 2.
 **Create the Banner.** This part, much like step 1, is mostly for roleplay, but the Company is much more roleplay-driven anyway. The Company banner is the logo for its Breakers, and represents them among other Companies in the League. 
 
@@ -2016,8 +2003,33 @@ After manpower is allocated, your Company's Morale is 3 (barring any Patron or C
 **Finish Up**
 With all of your pieces in place, its time to fill out flavor: founding location, Jobber NPCs and anything else that might've been skipped or looked over. Once all of this is done, you have your Breakers and their Company, meaning its time to commission a license, scout a locale and begin the hunt! 
 ## The Company 
+These are the mechanics for creating a Company.
 ### Company Name
+Every good Company needs a name. Here is a chart you can use to randomly generate a name (or use as inspiration):
+
+| Dice | Format | Adjective | Noun | Verb |
+|:----:|:------:|:---------:|:----:|:----:|
+|  1   |   -    |           |      |      |
+|  2   |  As 1  |           |      |      |
+|  3   |   -    |           |      |      |
+|  4   |  As 3  |           |      |      |
+|  5   |   -    |           |      |      |
+|  6   |  As 5  |           |      |      |
+|  7   |   -    |           |      |      |
+|  8   |  As 7  |           |      |      |
 ### Company Banner 
+Making a Banner is important, but if you don't have the time to brainstorm, talent to draw or willingness for either, use this chart to randomly generate one (or for inspiration.) When looking to outside sources for inspiration, consult historical coats of arms.
+
+| Dice | Shape | Color Scheme | Primary Icon | Secondary Icon |
+|:----:|:-----:|:------------:|:------------:|:--------------:|
+|  1   |   -   |              |              |                |
+|  2   | As 1  |              |              |                |
+|  3   |   -   |              |              |                |
+|  4   | As 3  |              |              |                |
+|  5   |   -   |              |              |                |
+|  6   | As 5  |              |              |                |
+|  7   |   -   |              |              |                |
+|  8   | As 7  |              |              |                |
 ### Company Creed 
 ### Company Patron
 ### Company Areas
