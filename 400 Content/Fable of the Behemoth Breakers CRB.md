@@ -1969,11 +1969,14 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 ## Creating a Company
 Creating a company is a collaborative effort; you *can* create one alone, but considering you and your fellow players make up about half the required jobs of a Company, it should be done together. Do each of the following steps together, ensuring that everyone gets to be heard along the way.
 ### Step 1.
-
+**Name the Company**. Unlike Breakers, declaring a name for the Company is the first step in creating the Company Charter. The name can be really anything the table agrees on, as long as it contains the word "Company" somewhere within it.
+Here are some charts you can use to randomly generate them:
+Format 
 ## The Company 
 ### Company Name
 ### Company Banner 
 ### Company Creed 
+### Company Patron
 ### Company Areas
 #### Job: Entertainments Master
 ##### Building: Tavern Hall
@@ -2000,6 +2003,7 @@ Creating a company is a collaborative effort; you *can* create one alone, but co
 ##### Building:
 ##### Inventory Projects 
 ### Company Manpower
+
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
 As already explained, Breakers have an amount of tHP thats divided between sHP and mHP. As long as these values remain at their maximum, nothing is wrong. However, when those values changes, issues arise. 
