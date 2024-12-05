@@ -294,6 +294,11 @@ Size is simple. It tells you how many spaces your character takes up at its wide
 
 ***The Math***
 A Breaker's starting Move is the result of **4** + (**Size**×2) plus an additional **1** for every **five** Skill Levels (*not* Points) a Breaker has in the *Speed* skill trait.
+## Company Traits 
+Much like Breakers, the Company they are apart of has traits as well. Companies and Breakers will be explained more in Part 2.
+### Wealth 
+### Morale 
+### 
 # Part 2: A Company of  Behemoth Breakers
 ## Before You Begin 
 Before you sit down and begin writing things on the paper or typing out things on a PDF, keep a few things in mind.
