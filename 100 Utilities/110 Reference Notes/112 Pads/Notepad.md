@@ -328,7 +328,14 @@
 			- Heavy Shot
 			- Arrowheads
 - Progression
-	- Charms are added later on
+	- Charms
+		- Added later on (Adept, maybe?)
+		- Perks 
+			- Always 4-slot.
+				1. Slot: Set Bonus 
+				2. Slot: A set-in-stone Perk. 
+				3. Slot: Random Tiered Perk 
+				4. Slot: Random Behemoth-Specific Perk
 	- Secondary and Tertiary Weapons 
 		- 1 from each Weight Class
 		- Alternatively, you can unlock a "super move" instead of a new weapon.
