@@ -1971,15 +1971,17 @@ Creating a company is a collaborative effort; you *can* create one alone, but co
 ### Step 1.
 **Name the Company**. Unlike Breakers, declaring a name for the Company is the first step in creating the Company Charter. The name can be really anything the table agrees on, as long as it contains the word "Company" somewhere within it.
 Here are some charts you can use to randomly generate them:
-Format 
-Adjective 
-Noun
-Verb
 
-
-| Dice | Format | Adjective | Noun | Verb    |
-|:----:|:------:|:---------:|:----:|:---:|
-|      |        |           |      |     |
+| Dice | Format | Adjective | Noun | Verb |
+|:----:|:------:|:---------:|:----:|:----:|
+|  1   |   -    |          |      |      |
+|  2   |  As 1  |           |      |      |
+|  3   |   -    |           |      |      |
+|  4   |  As 3  |           |      |      |
+|  5   |   -    |           |      |      |
+|  6   |  As 5  |           |      |      |
+|  7   |   -    |           |      |      |
+|  8   |  As 7  |           |      |      |
 
 
 ## The Company 
