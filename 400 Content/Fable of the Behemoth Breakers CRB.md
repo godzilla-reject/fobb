@@ -1966,6 +1966,13 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 		- 6x Herbal Tinctures
 		- 3x Neophyte Crystals 
 		- 3x Herbal Boosters
+## Creating a Company
+## The Company 
+### Name
+### Banner 
+### Creed 
+### Jobs 
+### 
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
 As already explained, Breakers have an amount of tHP thats divided between sHP and mHP. As long as these values remain at their maximum, nothing is wrong. However, when those values changes, issues arise. 
