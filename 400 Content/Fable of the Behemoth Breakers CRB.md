@@ -2001,7 +2001,7 @@ Once your Company selects its Patron, your Fable-Maker will inform you of some a
 **Assign Manpower**
 With the charter created, its now time to fill each of the eight Jobs in the Company. Anyone who has a Company-Required Job automatically fills their their Job's slot, and then, the Fable-Maker creates NPCs to fill the roles of any remaining Jobs. Its common for Fable-Makers to involve the Breakers in this process, but depending on the campaign this might change. 
 
-Once each role has been filled, its time to assign *Manpower*. Each Job has a respective 
+Once each role has been filled, its time to assign *Manpower*. Each Job has a respective team for its Company Building (more on those below), and the members of these teams are represented 
 ### Step 6.
 ## The Company 
 ### Company Name
