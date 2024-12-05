@@ -568,7 +568,7 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >>- **Master Craftsman**
 >> You are *GIfted* with the *Crafting* Skill trait. If you would become *Gifted* in this Skill trait through another source, you instead become *Gifted* in another Skill trait of your choice.
 >>- **Forgemaster**
->> During downtime, you can undertake Weapons and Armory Projects at the **Forge**, if it is *fully-manned*, you can undertake two.
+>> During downtime, you can undertake Arms and Armory Projects at the **Forge**, and if it is *fully-manned*, you can undertake two.
 >>- **Caretaker of Blades**
 >> While on the hunt, you do not need to Maintain your weapon. Typically, this leaves you with 3 camp actions, instead of only 2, given that you still need to speed 3 to sleep!
 >
@@ -1974,21 +1974,29 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 ### Company Creed 
 ### Company Area 
 #### Job: Entertainments Master
-##### Building:
+##### Building: Tavern Hall
+##### Entertainment Projects 
 #### Job: Garrison Commander
 ##### Building:
+##### Training Projects 
 #### Job: Head Researcher
+##### Building: Research Center
+##### Research Projects 
+#### Job: Lead Apothecary
 ##### Building:
+##### Alchemical Projects 
 #### Job: Master Chef
 ##### Building:
-#### Job: Mast
+##### Cooking Projects 
+#### Job: Master Smithy
+##### Building: Grand Forge
+##### Arms and Armor Projects 
+#### Job: Prime Commissioner
 ##### Building:
-#### Job:
+##### Projects 
+#### Job: Quartermaster
 ##### Building:
-#### Job:
-##### Building:
-#### Job:
-##### Building:
+##### Projects 
 ### Company Manpower
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
