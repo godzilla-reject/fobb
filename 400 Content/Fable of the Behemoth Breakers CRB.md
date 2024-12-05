@@ -1974,7 +1974,7 @@ Here are some charts you can use to randomly generate them:
 
 | Dice | Format | Adjective | Noun | Verb |
 |:----:|:------:|:---------:|:----:|:----:|
-|  1   |   -    |          |      |      |
+|  1   |   -    |           |      |      |
 |  2   |  As 1  |           |      |      |
 |  3   |   -    |           |      |      |
 |  4   |  As 3  |           |      |      |
