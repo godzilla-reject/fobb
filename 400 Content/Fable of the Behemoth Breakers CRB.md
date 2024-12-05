@@ -1970,7 +1970,7 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 Creating a company is a collaborative effort; you *can* create one alone, but considering you and your fellow players make up about half the required jobs of a Company, it should be done together. Do each of the following steps together, ensuring that everyone gets to be heard along the way.
 ### Step 1.
 **Name the Company**. Unlike Breakers, declaring a name for the Company is the first step in creating the Company Charter. The name can be really anything the table agrees on, as long as it contains the word "Company" somewhere within it.
-Here are some charts you can use to randomly generate them:
+Here is a chart you can use to randomly generate a name (or use as inspiration):
 
 | Dice | Format | Adjective | Noun | Verb |
 |:----:|:------:|:---------:|:----:|:----:|
@@ -1983,7 +1983,11 @@ Here are some charts you can use to randomly generate them:
 |  7   |   -    |           |      |      |
 |  8   |  As 7  |           |      |      |
 
-
+### Step 2.
+**Create the banner.** This part, much like 
+### Step 3. 
+### Step 
+### Step
 ## The Company 
 ### Company Name
 ### Company Banner 
