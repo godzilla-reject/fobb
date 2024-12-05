@@ -1972,7 +1972,7 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 ### Company Name
 ### Company Banner 
 ### Company Creed 
-### Company Area 
+### Company Areas
 #### Job: Entertainments Master
 ##### Building: Tavern Hall
 ##### Entertainment Projects 
@@ -1990,13 +1990,13 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 ##### Cooking Projects 
 #### Job: Master Smithy
 ##### Building: Grand Forge
-##### Arms and Armor Projects 
+##### Arms and Armory Projects 
 #### Job: Prime Commissioner
 ##### Building:
-##### Projects 
+##### Commissions Projects 
 #### Job: Quartermaster
 ##### Building:
-##### Projects 
+##### Inventory Projects 
 ### Company Manpower
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
