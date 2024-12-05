@@ -1996,12 +1996,12 @@ The Fable-Maker has final say on if the Creed is appropriate for both the campai
 ### Step 4.
 **Meet your Patron.** Each Company has a person or circumstance that it is bankrolled by. This is known as the Company Patron. Commonly, this is a rich city-state noble that wants to strike out into the Uberwald to find a new place to stake a new city-state, but other times it might be a powerful merchant, a renowned Breaker of myth, or even the Company itself, coming together with their last crowns to try and make it in the unknown. 
 
-Once your Company selects its Patron, your Fable-Maker will inform you of some additional details about it. Make sure you record these details, as it will include your Patron's primary Goal.  
+Once your Company selects its Patron, your Fable-Maker will inform you of some additional details about it. Make sure you record these details, as it will include your Patron's primary Goal.  Your Company Patron also affects your Company's Wealth trait. 
 ### Step 5.
 **Assign Manpower**
 With the charter created, its now time to fill each of the eight Jobs in the Company. Anyone who has a Company-Required Job automatically fills their their Job's slot, and then, the Fable-Maker creates NPCs to fill the roles of any remaining Jobs. Its common for Fable-Makers to involve the Breakers in this process, but depending on the campaign this might change. 
 
-Once each role has been filled, its time to assign *Manpower*. 
+Once each role has been filled, its time to assign *Manpower*. Each Job has a respective 
 ### Step 6.
 ## The Company 
 ### Company Name
@@ -2034,7 +2034,7 @@ Once each role has been filled, its time to assign *Manpower*.
 ##### Building:
 ##### Inventory Projects 
 ### Company Manpower
-
+### Company Traits 
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
 As already explained, Breakers have an amount of tHP thats divided between sHP and mHP. As long as these values remain at their maximum, nothing is wrong. However, when those values changes, issues arise. 
