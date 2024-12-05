@@ -2046,13 +2046,14 @@ When selecting a Patron, keep in mind all of the different Breakers; this is a s
 #### Patron: City-State
 ***Wealth:***
 ***Tenet:***
-#### Patron: Mercenary Company
+Your Company is bankrolled by a city-state as a dedicated Behemoth-slaying regiment. These are commonly reserved for large, powerful city-states, though almost all city-states found on the frontier of the Harrowlands also employ them.
+#### Patron: Breakers-For-Hire
 ***Wealth:***
-***Tenet:***
-Your Company is a mercenary company
+***Tenet:*** The Sellwords' Oath
+Your Company is a mercenary company; you make your crowns by traveling from city-state to city-state, offering your services to them. While you are largely independent, you are still bound to Breaking League regulations, as well as the Mercantile League.
 #### Patron: Anonymous Benefactor
 ***Wealth:***
-***Tenet:*** Vow of Anonymity
+***Tenet:*** The Vow of Anonymity
 Your Company is totally unaware of its benefactor, and as such, does not maintain contact with them. Instead, your benefactor randomly contacts you with odd, sometimes dire, requests.
 ### Company Creed 
 ### Company Areas
