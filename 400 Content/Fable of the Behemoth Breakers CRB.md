@@ -1973,7 +1973,8 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 ### Company Banner 
 ### Company Creed 
 ### Company Jobs 
-### 
+### Company Buildings
+### Company Manpower
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
 As already explained, Breakers have an amount of tHP thats divided between sHP and mHP. As long as these values remain at their maximum, nothing is wrong. However, when those values changes, issues arise. 
