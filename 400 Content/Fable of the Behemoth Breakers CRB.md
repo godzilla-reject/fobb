@@ -2034,25 +2034,26 @@ Making a Banner is important, but if you don't have the time to brainstorm, tale
 ### Company Patrons
 When selecting a Patron, keep in mind all of the different Breakers; this is a shared aspect of their origin, and should be at least somewhat applicable to all players.
 #### Patron: Wealthy Aristocrat
-***Wealth:***
-***Tenet:***
+***Wealth:*** 4
+***Tenet:*** Particular Obligations
 #### Patron: Breaking League 
-***Wealth:***
-***Tenet:***
-***Special:***
+***Wealth:*** 3
+***Tenet:*** The Breaker Code of Conduct
+Your Company was commissioned directly by the Breaking League itself,
 #### Patron: Independent  
-***Wealth:***
-***Tenet:***
+***Wealth:*** 1
+***Tenet:*** A Declaration of Freedom
+Instead of an actual Patron, your Company is truly independent; you operate outside of League influence, instead staking it out on your own. This results in low Wealth, yet freedom that only the lack of rules could give.
 #### Patron: City-State
-***Wealth:***
-***Tenet:***
+***Wealth:*** 4
+***Tenet:*** A Duty of Care
 Your Company is bankrolled by a city-state as a dedicated Behemoth-slaying regiment. These are commonly reserved for large, powerful city-states, though almost all city-states found on the frontier of the Harrowlands also employ them.
 #### Patron: Breakers-For-Hire
-***Wealth:***
+***Wealth:*** 3
 ***Tenet:*** The Sellwords' Oath
 Your Company is a mercenary company; you make your crowns by traveling from city-state to city-state, offering your services to them. While you are largely independent, you are still bound to Breaking League regulations, as well as the Mercantile League.
 #### Patron: Anonymous Benefactor
-***Wealth:***
+***Wealth:*** 6
 ***Tenet:*** The Vow of Anonymity
 Your Company is totally unaware of its benefactor, and as such, does not maintain contact with them. Instead, your benefactor randomly contacts you with odd, sometimes dire, requests.
 ### Company Creed 
