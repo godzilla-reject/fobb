@@ -1984,7 +1984,9 @@ Here is a chart you can use to randomly generate a name (or use as inspiration):
 |  8   |  As 7  |           |      |      |
 
 ### Step 2.
-**Create the banner.** This part, much like step 1, is mostly for roleplay, but the Company is much more roleplay-driven anyway. The Company banner is the logo for its Breakers, and represents them among other Companies in the League.  
+**Create the banner.** This part, much like step 1, is mostly for roleplay, but the Company is much more roleplay-driven anyway. The Company banner is the logo for its Breakers, and represents them among other Companies in the League. 
+
+Work with your fellow Breakers to draw a small banner for your Company. 
 ### Step 3. 
 ### Step 
 ### Step
