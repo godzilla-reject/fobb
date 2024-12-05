@@ -1988,8 +1988,13 @@ Here is a chart you can use to randomly generate a name (or use as inspiration):
 
 Work with your fellow Breakers to draw a small banner for your Company. It doesn't need to be perfect, or even good, as long as it is a symbol to associate with your Company. A written description works as well. 
 ### Step 3.
-**Pen the Creed.** Each Company has a *creed*, or an oath that all members take to promise loyalty to the ideals of the Company.  
+**Pen the Creed.** Each Company has a *creed*, or an oath that all members take to promise loyalty to the ideals of the Company. This creed can be as simple as your table wants it to be, or as complicated, but be warned: whatever stipulations put in the creed are *binding*. If your creed is simply "Split all glory, treasure and prize among all with equality," and you take more than your fair share, you are in breech of the Company Creed, and lose your place there within. 
+
+This is an in-world consequence, but it could have mechanical consequences as well.
+
+The Fable-Maker has final say on if the Creed is appropriate for both the campaign and table.
 ### Step 4.
+**Meet your Patron.** Each Company has a person or circumstance that it is bankrolled by. This is known as the Company Patron. Commonly, this is a rich city
 ### Step 5.
 ### Step 6.
 ## The Company 
