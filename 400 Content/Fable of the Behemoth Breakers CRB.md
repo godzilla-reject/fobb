@@ -2036,10 +2036,11 @@ When selecting a Patron, keep in mind all of the different Breakers; this is a s
 #### Patron: Wealthy Aristocrat
 ***Wealth:*** 4
 ***Tenet:*** Particular Obligations
+
 #### Patron: Breaking League 
 ***Wealth:*** 3
 ***Tenet:*** The Breaker Code of Conduct
-Your Company was commissioned directly by the Breaking League itself,
+Your Company was commissioned directly by the Breaking League itself, typically as a method to educate neophyte Breakers in the field. 
 #### Patron: Independent  
 ***Wealth:*** 1
 ***Tenet:*** A Declaration of Freedom
