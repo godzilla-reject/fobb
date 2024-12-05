@@ -2036,21 +2036,24 @@ When selecting a Patron, keep in mind all of the different Breakers; this is a s
 #### Patron: Wealthy Aristocrat
 ***Wealth:***
 ***Tenet:***
-#### Patron: League-Commissoned 
+#### Patron: Breaking League 
 ***Wealth:***
 ***Tenet:***
-#### Patron: 
+***Special:***
+#### Patron: Independent  
 ***Wealth:***
 ***Tenet:***
-#### Patron: 
+#### Patron: City-State
 ***Wealth:***
 ***Tenet:***
-#### Patron: 
+#### Patron: Mercenary Company
 ***Wealth:***
 ***Tenet:***
-#### Patron: 
+Your Company is a mercenary company
+#### Patron: Anonymous Benefactor
 ***Wealth:***
-***Tenet:***
+***Tenet:*** Vow of Anonymity
+Your Company is totally unaware of its benefactor, and as such, does not maintain contact with them. Instead, your benefactor randomly contacts you with odd, sometimes dire, requests.
 ### Company Creed 
 ### Company Areas
 #### Job: Entertainments Master
