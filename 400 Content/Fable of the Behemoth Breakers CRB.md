@@ -302,6 +302,8 @@ This is a measure of how much money and spending power a Company is afforded by 
 Morale is a measure of the general disposition of a Company's populous.
 ### Manpower 
 Manpower is a derived trait that codifies the staff of a Company. 
+***The* *Math*** 
+Manpower is equal to (Wealth times Tier Value) times 4. 
 # Part 2: A Company of  Behemoth Breakers
 ## Before You Begin 
 Before you sit down and begin writing things on the paper or typing out things on a PDF, keep a few things in mind.
@@ -2009,7 +2011,7 @@ Once your Company selects its Patron, your Fable-Maker will inform you of some a
 **Assign Manpower**
 With the charter created, its now time to fill each of the eight Jobs in the Company. Anyone who has a Company-Required Job automatically fills their their Job's slot, and then, the Fable-Maker creates NPCs to fill the roles of any remaining Jobs. Its common for Fable-Makers to involve the Breakers in this process, but depending on the campaign this might change. 
 
-Once each role has been filled, its time to assign *Manpower*. Each Job has a respective team for its Company Building (more on those below), and the members of these teams are represented by *manpower*. Starting manpower for a Company is determined by its Wealth, and must be fully allocated before continuing.
+Once each role has been filled, its time to assign *Manpower*. Each Job has a respective team for its Company Building (more on those below), and the members of these teams are represented by *manpower*. Starting manpower must be fully allocated before continuing; each Building has a .
 ### Step 6.
 ## The Company 
 ### Company Name
