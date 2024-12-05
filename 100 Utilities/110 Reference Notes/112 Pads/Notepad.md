@@ -329,7 +329,8 @@
 			- Arrowheads
 - Progression
 	- Charms
-		- Added later on (Adept, maybe?)
+		- Unlocked via Company progression.
+			- Joint project between Armory R&D, Research and 
 		- Perks 
 			- Always 4-slot.
 				1. Slot: Set Bonus 
@@ -337,5 +338,7 @@
 				3. Slot: Random Tiered Perk 
 				4. Slot: Random Behemoth-Specific Perk
 	- Secondary and Tertiary Weapons 
+		- Unlocked via Company progression.
 		- 1 from each Weight Class
-		- Alternatively, you can unlock a "super move" instead of a new weapon.
+		- 
+	- Alternatively, you can unlock a "super move" instead of a new weapon.
