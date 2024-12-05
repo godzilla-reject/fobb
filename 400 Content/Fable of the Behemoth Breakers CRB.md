@@ -1967,11 +1967,12 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 		- 3x Neophyte Crystals 
 		- 3x Herbal Boosters
 ## Creating a Company
+### Step
 ## The Company 
-### Name
-### Banner 
-### Creed 
-### Jobs 
+### Company Name
+### Company Banner 
+### Company Creed 
+### Company Jobs 
 ### 
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
