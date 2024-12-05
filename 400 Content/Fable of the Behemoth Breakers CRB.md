@@ -299,11 +299,9 @@ Much like Breakers, the Company they are apart of has traits as well. Companies 
 ### Wealth 
 This is a measure of how much money and spending power a Company is afforded by its Patron. 
 ### Morale 
-### 
-### Derived Company Traits 
-Th
-#### Manpower 
-
+Morale is a measure of the general disposition of a Company's populous.
+### Manpower 
+Manpower is a derived trait that codifies the staff of a Company. 
 # Part 2: A Company of  Behemoth Breakers
 ## Before You Begin 
 Before you sit down and begin writing things on the paper or typing out things on a PDF, keep a few things in mind.
