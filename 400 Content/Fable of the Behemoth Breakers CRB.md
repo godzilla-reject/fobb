@@ -1972,8 +1972,23 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 ### Company Name
 ### Company Banner 
 ### Company Creed 
-### Company Jobs 
-### Company Buildings
+### Company Area 
+#### Job: Entertainments Master
+##### Building:
+#### Job: Garrison Commander
+##### Building:
+#### Job: Head Researcher
+##### Building:
+#### Job: Master Chef
+##### Building:
+#### Job: Mast
+##### Building:
+#### Job:
+##### Building:
+#### Job:
+##### Building:
+#### Job:
+##### Building:
 ### Company Manpower
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
