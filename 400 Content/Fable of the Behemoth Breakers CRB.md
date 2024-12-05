@@ -1998,7 +1998,9 @@ Here is a chart you can use to randomly generate a name (or use as inspiration):
 
 Work with your fellow Breakers to draw a small banner for your Company. It doesn't need to be perfect, or even good, as long as it is a symbol to associate with your Company. A written description works as well. 
 ### Step 3.
-**Pen the Creed.** Each Company has a *creed*, or an oath that all members take to promise loyalty to the ideals of the Company. This creed can be as simple as your table wants it to be, or as complicated, but be warned: whatever stipulations put in the creed are *binding*. If your creed is simply "Split all glory, treasure and prize among all with equality," and you take more than your fair share, you are in breech of the Company Creed, and lose your place there within. 
+**Pen the Creed.** Each Company has a *creed*, or an oath that all members take to promise loyalty to the ideals of the Company. In order to create the Company Creed, one of each of the founding members (the players) select a *Tenet* in secret. Once each player has chosen one, the party 
+
+This creed can be as simple as your table wants it to be, or as complicated, but be warned: whatever stipulations put in the creed are *binding*. If your creed is simply "Split all glory, treasure and prize among all with equality," and you take more than your fair share, you are in breech of the Company Creed, and lose your place there within. 
 
 This is an in-world consequence, but it could have mechanical consequences as well.
 
@@ -2011,8 +2013,10 @@ Once your Company selects its Patron, your Fable-Maker will inform you of some a
 **Assign Manpower**
 With the charter created, its now time to fill each of the eight Jobs in the Company. Anyone who has a Company-Required Job automatically fills their their Job's slot, and then, the Fable-Maker creates NPCs to fill the roles of any remaining Jobs. Its common for Fable-Makers to involve the Breakers in this process, but depending on the campaign this might change. 
 
-Once each role has been filled, its time to assign *Manpower*. Each Job has a respective team for its Company Building (more on those below), and the members of these teams are represented by *manpower*. Starting manpower must be fully allocated before continuing; each Building has a .
-### Step 6.
+Once each role has been filled, its time to assign *Manpower*. Each Job has a respective team for its Company Building (more on those below), and the members of these teams are represented by *manpower*. Starting manpower must be fully allocated before continuing; each Building cannot exceed its maximum amount of manpower (which is given its in Company Area entry.)
+
+After manpower is allocated, your Company's Morale is 3 (barring any Patron or  Creed adjustments.)
+### Step 6. 
 ## The Company 
 ### Company Name
 ### Company Banner 
