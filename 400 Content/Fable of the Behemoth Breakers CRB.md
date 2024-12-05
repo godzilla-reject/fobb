@@ -2212,9 +2212,9 @@ At the start of any given exploration scene, commonly after the Fable-Maker asks
 Each of the four roles listed must be filled, but one Breaker can do up to two at once (in case of an incapacitated Breaker.) This is the diegetic reason for there to be at least four Breakers per hunting party, as the League deems these roles mandatory when in the field for proper safety. Once each role has been claimed, any additional Breaker is free to double-up on one or more of the roles, or do something else entirely. It is considered good etiquette to always take a role, however. 
 ##### Archivist
 The archivist keeps track of the hunting party's movements through a hunting locale or across a journey. Unlike a Company Researcher, an archivist keeps much more rudimentary records, commonly for the purpose of adapting to an ever-changing environment. 
-###### Chart a Map 
+###### Archive the Area
 *Exploration*
-You record the locale, making a map of the area. You travel at half your regular pace. When you enter into a new area in a 
+You record the locale, making a map of the area. You travel at half your regular pace. When you enter into a new area in a hunting locale, the Fable-Maker will give you a specific overview of the ore, flora and fauna,
 ######
 *Exploration, Plan*
 ######
