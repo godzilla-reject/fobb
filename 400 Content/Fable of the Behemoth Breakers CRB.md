@@ -2005,20 +2005,16 @@ Once your Company selects its Patron, your Fable-Maker will inform you of some a
 **Pen the Creed.** Each Company has a *creed*, or an oath that all members take to promise loyalty to the ideals of the Company. In order to create the Company Creed, one of each of the founding members (the players) select a *Tenet* in secret. Once each player has chosen one, reveal them to one another. Now, one by one, each founder must argue their case to the table, which is then voted on (with the Fable-Maker breaking ties). Approved tenets are added to the creed, while ones that are thrown out and the selecting player must select another tenet.
 
 Once each player has contributed a tenet, the Company's Patron adds a tenet, which is predetermined. Then, finally, the Fable-Maker adds a tenet, which can only be vetoed by unanimous vote. 
-
-This creed can be as simple as your table wants it to be, or as complicated, but be warned: whatever stipulations put in the creed are *binding*. If your creed is simply "Split all glory, treasure and prize among all with equality," and you take more than your fair share, you are in breech of the Company Creed, and lose your place there within. 
-
-This is an in-world consequence, but it could have mechanical consequences as well.
-
-The Fable-Maker has final say on if the Creed is appropriate for both the campaign and table.
 ### Step 5.
 **Assign Manpower**
 With the charter created, its now time to fill each of the eight Jobs in the Company. Anyone who has a Company-Required Job automatically fills their their Job's slot, and then, the Fable-Maker creates NPCs to fill the roles of any remaining Jobs. Its common for Fable-Makers to involve the Breakers in this process, but depending on the campaign this might change. 
 
 Once each role has been filled, its time to assign *Manpower*. Each Job has a respective team for its Company Building (more on those below), and the members of these teams are represented by *manpower*. Starting manpower must be fully allocated before continuing; each Building cannot exceed its maximum amount of manpower (which is given its in Company Area entry.)
 
-After manpower is allocated, your Company's Morale is 3 (barring any Patron or  Creed adjustments.)
+After manpower is allocated, your Company's Morale is 3 (barring any Patron or Creed adjustments.)
 ### Step 6. 
+**Finish Up**
+With all of your pieces in place, its time to fill out flavor: founding location, Jobber NPCs and anything else that might've been skipped or looked over. Once all of this is done, you have your Breakers and their Company, meaning its time to commission a license, scout a locale and begin the hunt! 
 ## The Company 
 ### Company Name
 ### Company Banner 
