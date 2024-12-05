@@ -2218,11 +2218,12 @@ You record the locale, making a map of the area. You travel at half your regular
 ***Success:*** You make detailed notes of the area, which are good enough to contribute towards making a map. See the Chart A Map downtime activity for more details.
 ***Failure:*** Your notes for the area are poor, and cannot be useful when making a map.
 
-###### Behemoth Observation Techniques
+###### Behemoth Observation Order
 *Exploration, Plan*
-You instruct your hunting party on what information to pay attention to. At the end of the next encounter in this area, make a *hard Memory* test. You gain a +2 circumstance bonus for each member f
-######
-*Exploration, Plan*
+You instruct your hunting party on what information to pay attention to when next fighting your target Behemoth. At the end of the next encounter in this area, make a *hard Memory* test. You gain a +2 circumstance bonus for each member of your hunting party that succeeds an *easy Observation* test. 
+***Critical Success:*** You draft excellent notes, which grants a bonus towards Research on that Behemoth.
+***Success:*** You draft great notes on the target, which can contribute towards Research on that Behemoth. 
+***Failure:*** You draft poor notes on the Behemoth, which are not good enough to contribute towards Behemoth Research.
 ##### Leader 
 The leader ensures that everyone is "formed up" in order to make traversal across the terrain easier. Leaders also propose plans for the next engagement, coordinating Breakers to ensure a proper plan is followed.
 ***Exploration Activities***
