@@ -1999,7 +1999,9 @@ The Fable-Maker has final say on if the Creed is appropriate for both the campai
 Once your Company selects its Patron, your Fable-Maker will inform you of some additional details about it. Make sure you record these details, as it will include your Patron's primary Goal.  
 ### Step 5.
 **Assign Manpower**
-With the charter created, its now time to fill each of the eight Jobs in the Company. Anyone who has a Company-Required Job automatically fills their 
+With the charter created, its now time to fill each of the eight Jobs in the Company. Anyone who has a Company-Required Job automatically fills their their Job's slot, and then, the Fable-Maker creates NPCs to fill the roles of any remaining Jobs. Its common for Fable-Makers to involve the Breakers in this process, but depending on the campaign this might change. 
+
+Once each 
 ### Step 6.
 ## The Company 
 ### Company Name
