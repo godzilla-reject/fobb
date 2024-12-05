@@ -2214,9 +2214,13 @@ Each of the four roles listed must be filled, but one Breaker can do up to two a
 The archivist keeps track of the hunting party's movements through a hunting locale or across a journey. Unlike a Company Researcher, an archivist keeps much more rudimentary records, commonly for the purpose of adapting to an ever-changing environment. 
 ###### Archive the Area
 *Exploration*
-You record the locale, making a map of the area. You travel at half your regular pace. When you enter into a new area in a hunting locale, the Fable-Maker will give you a specific overview of the ore, flora and fauna,
-######
+You record the locale, making a map of the area. You travel at half your regular pace. When you enter into a new area in a hunting locale, the Fable-Maker will give you a specific overview of the ore, flora and fauna in that area. Then, make an *average Observation* test. 
+***Success:*** You make detailed notes of the area, which are good enough to contribute towards making a map. See the Chart A Map downtime activity for more details.
+***Failure:*** Your notes for the area are poor, and cannot be useful when making a map.
+
+###### Behemoth Observation Techniques
 *Exploration, Plan*
+You instruct your hunting party on what information to pay attention to. At the end of the next encounter in this area, make a *hard Memory* test. You gain a +2 circumstance bonus for each member f
 ######
 *Exploration, Plan*
 ##### Leader 
