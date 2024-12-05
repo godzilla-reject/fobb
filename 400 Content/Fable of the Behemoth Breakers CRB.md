@@ -2036,7 +2036,7 @@ When selecting a Patron, keep in mind all of the different Breakers; this is a s
 #### Patron: Wealthy Aristocrat
 ***Wealth:*** 4
 ***Tenet:*** Particular Obligations
-
+Your Company's Patron is a wealthy noble, royal or some other aristocrat that wants a piece of the growing Behemoth part trade. They have particular requests, odd mannerisms and definitely an ulterior motive.
 #### Patron: Breaking League 
 ***Wealth:*** 3
 ***Tenet:*** The Breaker Code of Conduct
