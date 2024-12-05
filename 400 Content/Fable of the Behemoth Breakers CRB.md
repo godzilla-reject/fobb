@@ -1996,7 +1996,7 @@ The Fable-Maker has final say on if the Creed is appropriate for both the campai
 ### Step 4.
 **Meet your Patron.** Each Company has a person or circumstance that it is bankrolled by. This is known as the Company Patron. Commonly, this is a rich city-state noble that wants to strike out into the Uberwald to find a new place to stake a new city-state, but other times it might be a powerful merchant, a renowned Breaker of myth, or even the Company itself, coming together with their last crowns to try and make it in the unknown. 
 
-Once your Company selects its Patron, your Fable-Maker will inform you of some details about it. 
+Once your Company selects its Patron, your Fable-Maker will inform you of some additional details about it. Make sure you record these details, as it will include your Patron's primary Goal.  
 ### Step 5.
 ### Step 6.
 ## The Company 
