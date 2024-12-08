@@ -672,8 +672,8 @@ The first of the three Charters, the Ruby Drums are united under one idea: *"Mig
 >> - **Rage's Peace**
 >> ***Edge of Death*** *Augment*; You can elect to not **Berserker Rage**; if you do, make a *hard* *Resolve* test. On a success, you do not immediately **Rage**, but you can instead do so as a Free Action as long as you are **Bloodied**.
 >> - **Rage Beyond Death**
->> ***Berserker Rage*** *Augment*; As long as you are in your **Rage**, you are immune to falling Unconscious as a part of a death spiral. 
->> - **Rage's Strength**
+>> ***Berserker Rage*** *Augment*; As long as you are in your **Rage**, you are immune to falling Unconscious as a part of a death spiral. Additionally, if you would reach step 4 of a death spiral, you must choose Final Fight, and you can **Rage** as a free action during that turn.
+>> - **Rage's Vitality**
 >> Increase your Base Health by 3.
 >> - **Rage's Endurance** ◌
 >> *Block -2, Stamina 4*
