@@ -2078,10 +2078,10 @@ Your Company is totally unaware of its benefactor, and as such, does not maintai
 ##### Building: Grand Forge
 ##### Arms and Armory Projects 
 #### Job: Prime Commissioner
-##### Building:
+##### Building: Commissions Office
 ##### Commissions Projects 
 #### Job: Quartermaster
-##### Building:
+##### Building: Stockyard
 ##### Inventory Projects 
 ### Company Manpower
 
