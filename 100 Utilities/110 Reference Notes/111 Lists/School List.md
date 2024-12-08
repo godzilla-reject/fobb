@@ -7,10 +7,10 @@ tags: list
 	- Valiant Crusader
 		- Support (Healer)
 		- Martial/Magic Hybrid
-	- Bruiser
+	- Stout Exemplar
 		- Block Tank
 		- Martial/Adept Hybrid
-	- Warblade
+	- Disciplined Warblade
 		- DPS 
 - Emerald Strings 
 	- Peerless Shadow
@@ -21,16 +21,16 @@ tags: list
 		- Adept/Martial Hybrid
 	- Silent Shinobi
 		- Support (Controller)
-	- Vindicator
+	- Swift Vindicator
 		- Dodge Tank
 - Sapphire Pipes
 	- Patient Caller
 		- Support (Healer)
 	- Tenacious Invoker 
 		- DPS (Sustained)
-	- Armiger
+	- Ardent Armiger
 		- Health Tank
 		- Magic/Martial Hybrid
-	- Auspex
+	- Inevitable Auspex
 		- Support (Controller)
 		- Magic/Adept
