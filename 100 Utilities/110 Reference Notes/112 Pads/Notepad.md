@@ -369,7 +369,9 @@
 - Tenets 
 	- Pact Set
 		- 3 Pacts 
-	- The "Magic" set
-	- 2 Oaths 
-	- 2 Codes
-	- 2 Duties 
+		- The "Magic" set
+	- Round Table Set 
+		- Martial set.
+		- 2 Oaths 
+		- 2 Codes
+		- 2 Duties 
