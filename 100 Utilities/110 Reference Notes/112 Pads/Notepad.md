@@ -371,7 +371,8 @@
 		- Magic set.
 		- 3 Pacts
 		- Desecrated Temple Auxiliary Building
-			- 
+			- Unique armor set and weapons. 
+			- Unique options for Invoker, 
 	- Round Table Set 
 		- Martial set.
 		- 2 Oaths 

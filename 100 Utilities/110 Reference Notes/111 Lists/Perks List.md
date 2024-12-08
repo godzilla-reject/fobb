@@ -1,3 +1,7 @@
+---
+tags: list
+---
+
 - **Arcane Energy**
 - **Arcane Restoration**
 - **Armor Potency**
