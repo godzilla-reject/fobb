@@ -348,7 +348,13 @@
 		- When unlocked, you gain the stats of that weapon instead of your School for that Tier.
 	- Weapon Awakening
 		- Unlocked at Master-tier.
-		- 
+		- Awakens powerful latent abilities in weapons using materials gathered from powerful Behemoths.
+		- Any given weapon can
+		- 4 Categories
+			- Attack 
+			- Defense 
+			- Support
+			- Utility
 	- Mythic Techniques
 		- You can select one for each of of your weapons, from two options each.
 		- Usable 1 time per engagement. 
