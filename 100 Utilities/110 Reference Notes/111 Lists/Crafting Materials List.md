@@ -1,3 +1,7 @@
+---
+tags: list
+---
+
 - **Alchemical Spirit**
 - **Black Herb**
 - **Black Herb Bulb**

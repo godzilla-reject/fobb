@@ -1,5 +1,7 @@
-1. [[Conditions List]]
-2. [[Crafting Materials List]]
-3. [[Perks List]]
-4. [[Tags List]]
+```dataview
+LIST
 
+FROM #list
+
+SORT file.name ASC
+```

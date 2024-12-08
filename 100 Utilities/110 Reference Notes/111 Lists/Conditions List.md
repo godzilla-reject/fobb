@@ -1,3 +1,7 @@
+---
+tags: list
+---
+
 - List  ^82c4f3
 	- **Bloodied** A character is inflicted with this condition when they have no sHP remaining.
 	- **Defenseless** Characters with this condition cannot make active defenses.
