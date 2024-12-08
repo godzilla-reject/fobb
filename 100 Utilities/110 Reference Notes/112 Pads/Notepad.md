@@ -330,7 +330,7 @@
 - Progression
 	- Charms
 		- Unlocked via Company progression.
-			- Joint project between Armory R&D, Research and Alchemy building.
+			- Joint project between Armory R&D, Research and Alchemitory.
 		- Perks 
 			- Always 4-slot.
 				1. Slot: Set Bonus 
