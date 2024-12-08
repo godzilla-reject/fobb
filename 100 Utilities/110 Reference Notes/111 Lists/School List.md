@@ -21,7 +21,7 @@ tags: list
 		- Adept/Martial Hybrid
 	- Silent Shinobi
 		- Support (Controller)
-	- Unnamed Tank
+	- Vindicator
 		- Dodge Tank
 - Sapphire Pipes
 	- Patient Caller
@@ -31,6 +31,6 @@ tags: list
 	- Armiger
 		- Health Tank
 		- Magic/Martial Hybrid
-	- Unnamed Support
+	- Auspex
 		- Support (Controller)
 		- Magic/Adept
