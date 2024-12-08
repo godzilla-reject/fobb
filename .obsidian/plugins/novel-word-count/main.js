@@ -304,7 +304,7 @@ var COUNT_TYPE_DESCRIPTIONS = {
   ["modified" /* Modified */]: "Date of last edit. (On folders: latest edit date of any note.)",
   ["filesize" /* FileSize */]: "Total size on hard drive.",
   ["frontmatterKey" /* FrontmatterKey */]: "Key in the frontmatter block.",
-  ["tracksession" /* TrackSession */]: "Track progress since last Obsidian startup, plugin init, or reanalysis"
+  ["tracksession" /* TrackSession */]: "Track progress since last Obsidian startup, plugin init, settings change, or recount"
 };
 var UNFORMATTABLE_COUNT_TYPES = [
   "none" /* None */,
@@ -403,6 +403,7 @@ var DEFAULT_SETTINGS = {
   excludeCodeBlocks: false,
   excludeNonVisibleLinkPortions: false,
   excludeFootnotes: false,
+  momentDateFormat: "",
   debugMode: false
 };
 
@@ -1047,7 +1048,7 @@ var NodeLabelHelper = class {
         if (counts.createdDate === 0) {
           return null;
         }
-        const cDate = (0, import_obsidian3.moment)(counts.createdDate).format("YYYY/MM/DD");
+        const cDate = (0, import_obsidian3.moment)(counts.createdDate).format(this.settings.momentDateFormat || "YYYY/MM/DD");
         if (config.customSuffix !== null) {
           return `${cDate}${config.customSuffix}`;
         }
@@ -1057,7 +1058,7 @@ var NodeLabelHelper = class {
         if (counts.modifiedDate === 0) {
           return null;
         }
-        const uDate = (0, import_obsidian3.moment)(counts.modifiedDate).format("YYYY/MM/DD");
+        const uDate = (0, import_obsidian3.moment)(counts.modifiedDate).format(this.settings.momentDateFormat || "YYYY/MM/DD");
         if (config.customSuffix !== null) {
           return `${uDate}${config.customSuffix}`;
         }
@@ -1695,6 +1696,15 @@ var NovelWordCountSettingTab = class extends import_obsidian4.PluginSettingTab {
           txt.setPlaceholder("1500").setValue(this.plugin.settings.charsPerPage.toString()).onChange((0, import_obsidian4.debounce)(charsPerPageChanged.bind(this, txt), 1e3));
         });
       }
+      const dateFormatChanged = async (txt, value) => {
+        const isValid = typeof value === "string" && !!value.trim();
+        this.plugin.settings.momentDateFormat = isValid ? value : "";
+        await this.plugin.saveSettings();
+        await this.plugin.initialize();
+      };
+      new import_obsidian4.Setting(containerEl).setName("Date format").setDesc("MomentJS date format to use for date strings").addText((txt) => {
+        txt.setPlaceholder("YYYY/MM/DD").setValue(this.plugin.settings.momentDateFormat).onChange((0, import_obsidian4.debounce)(dateFormatChanged.bind(this, txt), 1e3));
+      });
       new import_obsidian4.Setting(containerEl).setName("Debug mode").setDesc("Log debugging information to the developer console").addToggle(
         (toggle) => toggle.setValue(this.plugin.settings.debugMode).onChange(async (value) => {
           this.plugin.settings.debugMode = value;
@@ -1707,16 +1717,16 @@ var NovelWordCountSettingTab = class extends import_obsidian4.PluginSettingTab {
   }
   renderReanalyzeButton(containerEl) {
     this.renderSeparator(containerEl);
-    new import_obsidian4.Setting(containerEl).setHeading().setName("Reanalyze all documents").setDesc(
-      "If changes have occurred outside of Obsidian, you may need to trigger a manual analysis"
+    new import_obsidian4.Setting(containerEl).setHeading().setName("Recount all documents").setDesc(
+      "If changes have occurred outside of Obsidian, you may need to trigger a manual recount"
     ).addButton(
-      (button) => button.setButtonText("Reanalyze").setCta().onClick(async () => {
+      (button) => button.setButtonText("Recount").setCta().onClick(async () => {
         button.disabled = true;
         await this.plugin.initialize();
         button.setButtonText("Done");
         button.removeCta();
         setTimeout(() => {
-          button.setButtonText("Reanalyze");
+          button.setButtonText("Recount");
           button.setCta();
           button.disabled = false;
         }, 1e3);
@@ -1756,7 +1766,7 @@ var NovelWordCountSettingTab = class extends import_obsidian4.PluginSettingTab {
     if (config.parentCountType !== "tracksession" /* TrackSession */) {
       return;
     }
-    new import_obsidian4.Setting(containerEl).setDesc("[Track session] Session count type").addDropdown((drop) => {
+    new import_obsidian4.Setting(containerEl).setDesc("[Track Session] Session count type").addDropdown((drop) => {
       for (const countType of SESSION_COUNT_TYPES) {
         drop.addOption(countType, COUNT_TYPE_DISPLAY_STRINGS[countType]);
       }
@@ -1838,9 +1848,9 @@ var NovelWordCountPlugin = class extends import_obsidian5.Plugin {
     this.addSettingTab(new NovelWordCountSettingTab(this.app, this));
     this.addCommand({
       id: "recount-vault",
-      name: "Reanalyze (recount) all documents in vault",
+      name: "Recount all notes / Reset session",
       callback: async () => {
-        this.debugHelper.debug("[Reanalyze] command triggered");
+        this.debugHelper.debug("[Recount] command triggered");
         await this.initialize();
       }
     });
