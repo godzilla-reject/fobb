@@ -296,11 +296,14 @@ Size is simple. It tells you how many spaces your character takes up at its wide
 A Breaker's starting Move is the result of **4** + (**Size**×2) plus an additional **1** for every **five** Skill Levels (*not* Points) a Breaker has in the *Speed* skill trait.
 ## Company Traits 
 Much like Breakers, the Company they are apart of has traits as well. Companies and Breakers will be explained more in Part 2, but for now its important that you understand the traits that a Company has.
-### Wealth 
+### Primary Attribute Traits 
+#### Wealth 
 This is a measure of how much money and spending power a Company is afforded by its Patron. 
-### Morale 
+#### Morale 
 Morale is a measure of the general disposition of a Company's populous.
-### Manpower 
+#### Reputation
+### Derived Traits 
+#### Manpower 
 Manpower is a derived trait that codifies the staff of a Company. 
 ***The* *Math*** 
 Manpower is equal to (Wealth times Tier Value) times 4. 
