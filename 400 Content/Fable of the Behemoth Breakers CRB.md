@@ -298,10 +298,11 @@ A Breaker's starting Move is the result of **4** + (**Size**×2) plus an additio
 Much like Breakers, the Company they are apart of has traits as well. Companies and Breakers will be explained more in Part 2, but for now its important that you understand the traits that a Company has.
 ### Primary Attribute Traits 
 #### Wealth 
-This is a measure of how much money and spending power a Company is afforded by its Patron. 
+This is a measure of how much money and spending power a Company possesses.
 #### Morale 
 Morale is a measure of the general disposition of a Company's populous.
 #### Reputation
+This is  measure of how the wider world sees a Company.
 
 ### Derived Traits 
 #### Manpower 
