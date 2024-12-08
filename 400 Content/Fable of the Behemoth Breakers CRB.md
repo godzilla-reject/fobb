@@ -2060,9 +2060,21 @@ Your Company is totally unaware of its benefactor, and as such, does not maintai
 ### Company Creed 
 The Company Creed is made up of a series of *tenets*, one for each player, plus one for the Fable-Maker and one for the Company Patron. These codes are restrictions and edicts that all members of the Company need to follow; they directly affect Company traits, with most being a tradeoff. Some Tenets also allow access to Auxiliary Areas, which are special Company buildings.
 #### Breaker Tenets
-These are the tenets that Breakers can choose from when drafting the Company Creed. They are divided into *sets*; a set of Tenets are alike in theme, and sometimes have unique effects when paired together. 
-**Blood Augury Pact**
-Augments the Research Center.
+These are the tenets that Breakers can choose from when drafting the Company Creed. They are divided into *sets*; a set of Tenets are alike in theme, and sometimes have unique effects when paired together. These set effects often change how core Company buildings and projects work, so be sure to discuss them thoroughly; they are not optional. 
+##### Pactbound Tenets
+*Set Requirements:*
+*Set Effect:*
+##### Oathbound Tenets
+*Set Requirements:*
+*Set Effect:*
+##### Thiefbound Tenets
+*Set Requirements:*
+*Set Effect:*
+##### Goldbound Tenets
+*Set Requirements:*
+*Set Effect:*
+
+
 **Code of Chivalry**
 Augments the Commissions Office.
 **Code of Ninshidō**
