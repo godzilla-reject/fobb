@@ -2060,7 +2060,9 @@ Your Company is totally unaware of its benefactor, and as such, does not maintai
 ### Company Creed 
 The Company Creed is made up of a series of *tenets*, one for each player, plus one for the Fable-Maker and one for the Company Patron. These codes are restrictions and edicts that all members of the Company need to follow; they directly affect Company traits, with most being a tradeoff. Some Tenets also allow access to Auxiliary Areas, which are special Company buildings.
 #### Breaker Tenets
-These are the tenets that Breakers can choose from when drafting the Company Creed. They are divided into *sets*; a set of Tenets are alike in theme, and sometimes have unique effects when paired together. These set effects often change how core Company buildings and projects work, so be sure to discuss them thoroughly; they are not optional. 
+These are the tenets that Breakers can choose from when drafting the Company Creed. They are divided into *sets*; a set of Tenets are alike in theme, and sometimes have unique effects when paired together. 
+
+Set effects often change how core Company buildings and projects work, so be sure to discuss them thoroughly. If your Company meets the requirement of a set, you *have* that set effect; they are not optional.
 ##### Pactbound Tenets
 *Set Requirements:*
 *Set Effect:*
@@ -2071,19 +2073,16 @@ Augments the Alchemitory.
 **Hephaestian Pact**
 Augments the Grand Forge. 
 ##### Oathbound Tenets
-*Set Requirements:*
-*Set Effect:*
+*Set Requirements:* 1 Code and 1 Duty tenet; Oath of the World Table
+*Set Effect:* 
 **Code of Chivalry**
 Augments the Commissions Office.
 **Code of Ninshidō**
 Augments the Garrison Barracks.
-
 **Legion's Oath**
 Bonus for a Building being fully manned, bonus starting Manpower, but lower starting Morale and Wealth.
-
 **Duty to the Temple**
 Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also has three Pact tenets.
-
 **Oath of the World Table**
 Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 Duty tenets.
 ##### Thiefbound Tenets
@@ -2101,7 +2100,7 @@ Augments the Central Kitchen
 **Treasure Hoarders' Decree**
 Higher starting wealth; lower Morale if below Wealth 4
 **Merchantile Decree**
-Auxiliary Area: Trading Post
+Auxiliary Area: Trading Post; becomes Smuggler's Den with Thiefbound Set.
 #### Patron Tenets
 **Declaration of Freedom**
 **Duty of Care**
