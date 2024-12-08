@@ -661,9 +661,9 @@ The first of the three Charters, the Ruby Drums are united under one idea: *"Mig
 >> %% The three attribute traits ***must*** add up to 6.%%
 >> ###### Core Features
 >> - **Berserker Rage** ●●
->> You enter into a trance that causes an upwelling of anger, passion, and fury. For the duration of your Rage, you gain the following effects: Your Physical Resistance increases by 3, your weapon deals an additional 1d6 damage of its type, your Dodge lowers by 1 step, and you make all *Power*, *Fortitude*, and *Resolve* tests with favor. Berserker Rage lasts for 4 rounds, and lasts additional rounds as long you successfully deal damage to a Behemoth. 
+>> You enter into a trance that causes an upwelling of anger, passion, and fury. For the duration of your Rage, you gain the following effects: Your Physical Resistance increases by 6, your weapon deals an additional 1d6 damage of its type, your Dodge lowers by 1 step, and you make all *Power*, *Fortitude*, and *Resolve* tests with favor. Berserker Rage lasts for 4 rounds, and lasts additional rounds as long you successfully deal damage to a Behemoth. 
 >> - **Edge of Death**
->> When you gain the **Bloodied** condition, you **Berserker Rage** as a free action. This is *not* optional. While you are **Bloodied**, your Rage changes in the following ways: Your Physical Resistance is increased by 6, your weapon deals an additional die of damage, and your Dodge lowers by 2 steps.
+>> When you gain the **Bloodied** condition, you **Berserker Rage** as a free action. This is *not* optional. While you are **Bloodied**, your Rage changes in the following ways: Your Physical Resistance is increased by 12, your weapon deals an additional die of damage, and your Dodge lowers by 2 steps.
 >> - **Gifted Skill Traits %%Each School gets 4.%%**
 >> You are *Gifted* in *Power*, *Fortitude*, *Resolve*, and *Tenacity*.
 >> - **Selected Abilities**

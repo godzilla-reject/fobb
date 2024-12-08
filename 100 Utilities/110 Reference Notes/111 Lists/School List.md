@@ -4,23 +4,22 @@ tags: list
 - Ruby Drums 
 	- 2x Tanks
 	- Raging Berserker
-		- Tank
+		- Health Tank
 	- Valiant Crusader
 		- Support
 		- Martial/Magic Hybrid
 	- Bruiser
-		- Tank
+		- Block Tank
 		- Martial/Adept Hybrid
 	- Weaponmaster
 		- DPS 
-		- 
 - Emerald Strings 
 	- 2x DPSs
 	- Peerless Shadow
-		- DPS
+		- DPS (Sustained)
 		- Adept/Magic Hybrid
 	- Eagle-Eyed Musketeer
-		- DPS (Burst focused)
+		- DPS (Burst)
 		- Adept/Martial Hybrid
 	- Silent Shinobi
 		- Support
@@ -31,7 +30,7 @@ tags: list
 	- Patient Caller
 		- Support
 	- Tenacious Invoker 
-		- DPS (Sustained focus)
+		- DPS (Sustained)
 	- Armiger
 		- Tank
 		- Magic/Martial Hybrid
