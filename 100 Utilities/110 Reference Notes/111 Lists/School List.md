@@ -6,5 +6,10 @@ tags: list
 	- Valiant Crusader
 - Emerald Strings 
 	- Peerless Shadow
-	- 
+	- Eagle-Eyed Musketeer
+	- Shinobi
 - Sapphire Pipes
+	- Patient Caller
+	- Tenacious Invoker 
+	- Armiger
+	- 
