@@ -328,6 +328,8 @@
 			- Heavy Shot
 			- Arrowheads
 - Progression
+	- Breaker Tonics
+		- 
 	- Charms
 		- Unlocked via Company progression.
 			- Joint project between Armory R&D, Research and Alchemitory.
@@ -344,7 +346,8 @@
 			- Unlocked at Professional-tier.
 		- 1 from each Weight Class; cannot "double-up" on a weight class.
 		- When unlocked, you gain the stats of that weapon instead of your School for that Tier.
-	- Weapon Augmentation
+	- Weapon Awakening
+		- Unlocked at Master-tier.
 		- 
 	- Mythic Techniques
 		- You can select one for each of of your weapons, from two options each.
