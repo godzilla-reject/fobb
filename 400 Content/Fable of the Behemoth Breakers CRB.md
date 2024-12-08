@@ -2069,7 +2069,7 @@ Your Company is totally unaware of its benefactor, and as such, does not maintai
 ##### Building: Research Center
 ##### Research Projects 
 #### Job: Lead Apothecary
-##### Building: 
+##### Building: Apothecant
 ##### Alchemical Projects 
 #### Job: Master Chef
 ##### Building:
