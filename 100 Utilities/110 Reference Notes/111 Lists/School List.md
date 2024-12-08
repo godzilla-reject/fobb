@@ -10,7 +10,7 @@ tags: list
 	- Bruiser
 		- Block Tank
 		- Martial/Adept Hybrid
-	- Weaponmaster
+	- Warblade
 		- DPS 
 - Emerald Strings 
 	- Peerless Shadow
