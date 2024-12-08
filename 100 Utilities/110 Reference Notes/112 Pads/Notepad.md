@@ -329,7 +329,9 @@
 			- Arrowheads
 - Progression
 	- Breaker Tonics
-		- 
+		- Unlocked at Journeyman-tier.
+		- Allows players to craft custom potions using Behemoth parts.
+		- Scales with 
 	- Charms
 		- Unlocked via Company progression.
 			- Joint project between Armory R&D, Research and Alchemitory.
@@ -349,7 +351,7 @@
 	- Weapon Awakening
 		- Unlocked at Master-tier.
 		- Awakens powerful latent abilities in weapons using materials gathered from powerful Behemoths.
-			- Gained from Usurper-Class Behemoths. 
+			- Gained from Usurper-Class Behemoths; each Behemoth gives 1. 
 		- A Breaker can have 2 Awakenings active at any given time.
 		- 4 Categories
 			- Attack 
@@ -359,3 +361,4 @@
 	- Mythic Techniques
 		- You can select one for each of of your weapons, from two options each.
 		- Usable 1 time per engagement. 
+- Behemoths
