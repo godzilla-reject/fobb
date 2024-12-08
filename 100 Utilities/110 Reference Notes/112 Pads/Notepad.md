@@ -373,7 +373,7 @@
 		- Core Buildings
 			- Research Center
 			- Alchemitory
-			- 
+			- Grand Forge
 		- Auxiliary Buildings
 			- Desecrated Temple
 				- Unique armor set and weapons. 
@@ -384,8 +384,12 @@
 			- 2 Oaths 
 			- 2 Codes
 			- 2 Duties 
+		- Core Buildings 
+			- Commissions Office
+			- Garrison Barracks.
 		- Auxiliary Buildings
 	- Thiefbound Set
 		- Adept set.
 		- 3 Vows
+		- Core Buildings
 		- Auxiliary Buildings
