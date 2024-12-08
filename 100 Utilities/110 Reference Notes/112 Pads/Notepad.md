@@ -339,7 +339,7 @@
 				4. Slot: Random Behemoth-Specific Perk
 	- Secondary and Tertiary Weapons 
 		- Unlocked via Company progression.
-			- Joint project between Armory R&D, Research and Commissions.
+			- Joint project between Armory R&D, Research and Garrison Barracks.
 		- 1 from each Weight Class
 		- 
 	- Alternatively, you can unlock a "super move" instead of a new weapon.

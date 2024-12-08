@@ -2063,13 +2063,13 @@ Your Company is totally unaware of its benefactor, and as such, does not maintai
 ##### Building: Tavern Hall
 ##### Entertainment Projects 
 #### Job: Garrison Commander
-##### Building:
+##### Building: Garrison Barracks
 ##### Training Projects 
 #### Job: Head Researcher
 ##### Building: Research Center
 ##### Research Projects 
 #### Job: Lead Apothecary
-##### Building:
+##### Building: 
 ##### Alchemical Projects 
 #### Job: Master Chef
 ##### Building:
@@ -2418,7 +2418,7 @@ These are the most common exploration activities.
 # Part 8: The Glossaries 
 ## Glossary Index
 ## Glossary 1: Action Tags
-![[Tags List#^|clean nlk]]
+![[Tags List#^3d23d5|clean nlk]]
 ## Glossary 2: Perks 
 ![[Perks List|clean nlk]]
 ## Glossary 3: Crafting Materials 
