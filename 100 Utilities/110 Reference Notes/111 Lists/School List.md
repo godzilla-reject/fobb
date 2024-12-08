@@ -4,18 +4,28 @@ tags: list
 - Ruby Drums 
 	- 2x Tanks
 	- Raging Berserker
-		- T
+		- Tank
 	- Valiant Crusader
 		- Support
 		- Martial/Magic Hybrid
+	- Bruiser
+		- Tank
+		- Martial/Adept Hybrid
+	- Weaponmaster
+		- DPS 
+		- 
 - Emerald Strings 
 	- 2x DPSs
 	- Peerless Shadow
 		- DPS
+		- Adept/Magic Hybrid
 	- Eagle-Eyed Musketeer
 		- DPS (Burst focused)
+		- Adept/Martial Hybrid
 	- Silent Shinobi
-	- Unnamed Support
+		- Support
+	- Unnamed Dodge Tank
+		- Tank
 - Sapphire Pipes
 	- 2x Supports
 	- Patient Caller
@@ -24,5 +34,7 @@ tags: list
 		- DPS (Sustained focus)
 	- Armiger
 		- Tank
-		- Martial/Magic Hybrid
-	- 
+		- Magic/Martial Hybrid
+	- Unnamed Support
+		- Support 
+		- Magic/Adept
