@@ -677,7 +677,7 @@ The first of the three Charters, the Ruby Drums are united under one idea: *"Mig
 >> Increase your Base Health by 3.
 >> - **Rage's Endurance** ◌
 >> *Block -2, Stamina 4*
->> **Requirement** You are Raging; You choose to withstand an enemy's assault by embracing the pain. **Special** You can still use this action even if your Weapon cannot normally block, as you are simply letting it hit you. If your Weapon does not have a Block die, treat it as if it was d4.
+>> **Requirement** You are Raging; You choose to withstand an enemy's assault by embracing the pain. **Special** You can still use this action even if your Weapon cannot normally block, as you are simply letting it hit you. If your Weapon does not have a Block die, treat it as if it was d4 (after the adjustment from this action.)
 >%%
 >> [!blank]
 >> ###### Journeyman Abilities
