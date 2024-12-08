@@ -367,11 +367,13 @@
 	- Time Keeping
 
 - Tenets 
-	- Pact Set
-		- 3 Pacts 
-		- The "Magic" set
+	- Pactbound Set
+		- Magic set.
+		- 3 Pacts
+		- 
 	- Round Table Set 
 		- Martial set.
 		- 2 Oaths 
 		- 2 Codes
 		- 2 Duties 
+	- 
