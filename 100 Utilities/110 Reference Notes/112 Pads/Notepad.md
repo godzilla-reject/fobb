@@ -332,6 +332,7 @@
 		- Unlocked at Journeyman-tier.
 		- Allows players to craft custom potions using Behemoth parts.
 		- Scales with Alchemitory projects. 
+		- Each tonic has 
 	- Charms
 		- Unlocked via Company progression.
 			- Joint project between Armory R&D, Research and Alchemitory.
