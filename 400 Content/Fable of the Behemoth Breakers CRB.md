@@ -2051,7 +2051,7 @@ Instead of an actual Patron, your Company is truly independent; you operate outs
 Your Company is bankrolled by a city-state as a dedicated Behemoth-slaying regiment. These are commonly reserved for large, powerful city-states, though almost all city-states found on the frontier of the Harrowlands also employ them.
 #### Patron: Breakers-For-Hire
 ***Wealth:*** 3
-***Tenet:*** The Sellwords' Oath
+***Tenet:*** The Sellwords' Decree
 Your Company is a mercenary company; you make your crowns by traveling from city-state to city-state, offering your services to them. While you are largely independent, you are still bound to Breaking League regulations, as well as the Mercantile League.
 #### Patron: Anonymous Benefactor
 ***Wealth:*** 6
@@ -2089,7 +2089,7 @@ Augments the Central Kitchen
 **A Duty of Care**
 **Particular Obligations**
 **The Breaker Code of Conduct**
-**The Sellwords' Oath**
+**The Sellswords' Decree**
 **The Vow of Anonymity**
 ### Company Areas
 #### Job: Entertainments Master

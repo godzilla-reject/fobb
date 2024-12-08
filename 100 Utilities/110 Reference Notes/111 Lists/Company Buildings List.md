@@ -17,5 +17,10 @@ tags: list
 	- Commissions Office
 		- Prime Commissioner
 	- Stockyard 
-		- 
+		- Quartermaster
 - Auxiliary Buildings
+	- Temple
+	- World Table
+		- Becomes the Round Table with 
+	- Trading Post 
+		- Becomes Smuggler's Den with Smuggler's Set.
