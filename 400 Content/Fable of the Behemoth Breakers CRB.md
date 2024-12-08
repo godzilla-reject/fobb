@@ -945,7 +945,7 @@ The third of the three Charters, as well as the most esoteric, the Schools of th
 >> - **Invoke Elementia** ●●
 >> *Spell, Mana 3, Stamina 6;* You unleash a powerful burst of elementia. Select an element and a point you can see within 6 spaces. A 3-space burst of that element, dealing 4d4 damage, erupts from the chosen point.
 >> - **Elementalism**
->> You can reshape the elemental affinity of your weapon. If your weapon has an elemental affinity, it changes to whatever element you most recently used with **Invoke Elementia**. Additionally, you have Elemental Resistance 3, which increases to 5 against your most recently used element. 
+>> You can reshape the elemental affinity of your weapon. If your weapon has an elemental affinity, it changes to whatever element you most recently used with **Invoke Elementia**. Additionally, you have Elemental Resistance 4, which increases to 8 against your most recently used element. 
 >> - **Gifted Skill Traits %%Each School gets 4.%%**
 >> You are *Gifted* in *Crafting*, *Memory*, *Tenacity*, and *Creativity*.
 >> - **Selected Abilities**

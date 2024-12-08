@@ -1,4 +1,15 @@
 ---
 tags: list
 ---
-- Company [[Job List]]
+- Company
+	- Entertainments Master
+	- Garrison Commander
+	- Head Researcher 
+	- Lead Apothecary
+	- Master Chef
+	- Master Smithy
+	- Prime Commissioner
+	- Quartermaster 
+- Non-Company
+	- Commissioned Breaker
+	- Retired Breaker
