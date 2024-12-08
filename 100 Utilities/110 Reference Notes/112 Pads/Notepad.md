@@ -340,6 +340,6 @@
 	- Secondary and Tertiary Weapons 
 		- Unlocked via Company progression.
 			- Joint project between Armory R&D, Research and Garrison Barracks.
+			- Unlocked at 
 		- 1 from each Weight Class
-		- 
 	- Alternatively, you can unlock a "super move" instead of a new weapon.
