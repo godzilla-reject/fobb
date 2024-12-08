@@ -1,3 +1,21 @@
 ---
 tags: list
 ---
+- Core Buildings
+	- Tavern Hall
+		- Entertainments Master
+	- Garrison Barracks
+		- Garrison Commander
+	- Research Center 
+		- Head Researcher
+	- Alchemitory
+		- Lead Apothecary
+	- Central Kitchen
+		- Master Chef
+	- Grand Forge 
+		- Master Smithy
+	- Commissions Office
+		- Prime Commissioner
+	- Stockyard 
+		- 
+- Auxiliary Buildings

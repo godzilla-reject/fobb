@@ -901,10 +901,10 @@ The third of the three Charters, as well as the most esoteric, the Schools of th
 >> *Boon 3+* Zayla informs you of the Behemoth's strongest attack and any ally healed by **Soul-Call Chant** gains a 2-space status bonus to Move. 
 >> *Gifted Skill: Speed* 
 >> - **Soul-Bound Spirit: Roshval, Stoneknown Greathorn**
->> *Boon 3+* Roshval informs you of the Behemoth's resistances, and any ally healed by **Soul-Call Chant** gains a +2 status bonus to Physical Resistance. 
+>> *Boon 3+* Roshval informs you of the Behemoth's resistances, and any ally healed by **Soul-Call Chant** gains a +4 status bonus to Physical Resistance. 
 >> *Gifted Skill: Resolve* 
 >> - **Soul-Bound Spirit: Sharlam, Seashell Clawseer**
->> *Boon 3+* Sharlam informs you of the Behemoth's weaknesses , and any ally healed by **Soul-Call Chant** gains a +2 status bonus to Elemental Resistance. 
+>> *Boon 3+* Sharlam informs you of the Behemoth's weaknesses , and any ally healed by **Soul-Call Chant** gains a +4 status bonus to Elemental Resistance. 
 >> *Gifted Skill: Creativity* 
 >%%
 >> [!blank]
