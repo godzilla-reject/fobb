@@ -2068,7 +2068,7 @@ Augments the Commissions Office.
 Augments the Garrison Barracks.
 **Treasure Hoarders' Decree**
 Higher starting wealth; lower Morale if below Wealth 4
-**Legion's Tenet**
+**Legion's Oath**
 Bonus for a Building being fully manned, bonus starting Manpower, but lower starting Morale and Wealth.
 **Faustian Pact**
 Augments the Alchemitory.
@@ -2076,8 +2076,8 @@ Augments the Alchemitory.
 Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also has three Pact tenets.
 **Hephaestian Pact**
 Augments the Grand Forge. 
-**Round Table Bylaws**
-Auxiliary Area: 
+**World Table Bylaws**
+Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 C tenets.
 #### Patron Tenets
 **A Declaration of Freedom**
 **A Duty of Care**
