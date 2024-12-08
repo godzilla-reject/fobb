@@ -23,8 +23,8 @@ tags: list
 		- Adept/Martial Hybrid
 	- Silent Shinobi
 		- Support
-	- Unnamed Dodge Tank
-		- Tank
+	- Unnamed Tank
+		- Dodge Tank
 - Sapphire Pipes
 	- 2x Supports
 	- Patient Caller
