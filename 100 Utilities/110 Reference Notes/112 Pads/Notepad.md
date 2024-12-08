@@ -344,6 +344,8 @@
 			- Unlocked at Professional-tier.
 		- 1 from each Weight Class; cannot "double-up" on a weight class.
 		- When unlocked, you gain the stats of that weapon instead of your School for that Tier.
+	- Weapon Augmentation
+		- 
 	- Mythic Techniques
-		- Alternatively, you can unlock a "super move" instead of a new weapon.
-		- You can select one for each of 
+		- You can select one for each of of your weapons, from two options each.
+		- Usable 1 time per engagement. 
