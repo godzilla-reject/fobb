@@ -2064,39 +2064,43 @@ These are the tenets that Breakers can choose from when drafting the Company Cre
 ##### Pactbound Tenets
 *Set Requirements:*
 *Set Effect:*
+**Blood Augury Pact**
+Augments the Research Center.
+**Faustian Pact**
+Augments the Alchemitory.
+**Hephaestian Pact**
+Augments the Grand Forge. 
 ##### Oathbound Tenets
 *Set Requirements:*
 *Set Effect:*
-##### Thiefbound Tenets
-*Set Requirements:*
-*Set Effect:*
-##### Goldbound Tenets
-*Set Requirements:*
-*Set Effect:*
-
-
 **Code of Chivalry**
 Augments the Commissions Office.
 **Code of Ninshidō**
 Augments the Garrison Barracks.
-**Treasure Hoarders' Decree**
-Higher starting wealth; lower Morale if below Wealth 4
+
 **Legion's Oath**
 Bonus for a Building being fully manned, bonus starting Manpower, but lower starting Morale and Wealth.
-**Faustian Pact**
-Augments the Alchemitory.
+
 **Duty to the Temple**
 Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also has three Pact tenets.
-**Hephaestian Pact**
-Augments the Grand Forge. 
+
 **Oath of the World Table**
 Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 Duty tenets.
+##### Thiefbound Tenets
+*Set Requirements:*
+*Set Effect:*
 **Placeholder** 
 Augments the Tavern Hall
 **Placeholder**
 Augments the Stockyard
 **Placeholder**
 Augments the Central Kitchen
+##### Goldbound Tenets
+*Set Requirements:* 3 Decree Tenets.
+*Set Effect:* 
+**Treasure Hoarders' Decree**
+Higher starting wealth; lower Morale if below Wealth 4
+
 #### Patron Tenets
 **A Declaration of Freedom**
 **A Duty of Care**
@@ -2129,6 +2133,7 @@ Augments the Central Kitchen
 #### Job: Quartermaster
 ##### Building: Stockyard
 ##### Inventory Projects 
+### Auxiliary Areas
 ### Company Manpower
 
 ## Progression
