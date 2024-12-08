@@ -2058,6 +2058,9 @@ Your Company is a mercenary company; you make your crowns by traveling from city
 ***Tenet:*** The Vow of Anonymity
 Your Company is totally unaware of its benefactor, and as such, does not maintain contact with them. Instead, your benefactor randomly contacts you with odd, sometimes dire, requests.
 ### Company Creed 
+The Company Creed is made up of a series of *tenets*, which 
+#### Breaker Tenets
+#### Patron Tenets
 ### Company Areas
 #### Job: Entertainments Master
 ##### Building: Tavern Hall
