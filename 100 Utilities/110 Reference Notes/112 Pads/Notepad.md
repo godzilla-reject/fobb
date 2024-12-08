@@ -331,15 +331,19 @@
 	- Charms
 		- Unlocked via Company progression.
 			- Joint project between Armory R&D, Research and Alchemitory.
+			- Unlocked at Adept-tier.
 		- Perks 
 			- Always 4-slot.
 				1. Slot: Set Bonus 
 				2. Slot: A set-in-stone Perk. 
 				3. Slot: Random Tiered Perk 
 				4. Slot: Random Behemoth-Specific Perk
-	- Secondary and Tertiary Weapons 
+	- Secondary Weaponry 
 		- Unlocked via Company progression.
 			- Joint project between Armory R&D, Research and Garrison Barracks.
-			- Unlocked at 
-		- 1 from each Weight Class
-	- Alternatively, you can unlock a "super move" instead of a new weapon.
+			- Unlocked at Professional-tier.
+		- 1 from each Weight Class; cannot "double-up" on a weight class.
+		- 
+	- 
+		- Alternatively, you can unlock a "super move" instead of a new weapon.
+		- 
