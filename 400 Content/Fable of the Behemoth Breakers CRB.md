@@ -2072,10 +2072,12 @@ Higher starting wealth; lower Morale if below Wealth 4
 Bonus for a Building being fully manned, bonus starting Manpower, but lower starting Morale and Wealth.
 **Faustian Pact**
 Augments the Alchemitory.
-**Temple's Habit**
+**Temple Bylaws**
 Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also has three Pact tenets.
 **Hephaestian Pact**
 Augments the Grand Forge. 
+**Round Table Bylaws**
+Auxiliary Area: 
 #### Patron Tenets
 **A Declaration of Freedom**
 **A Duty of Care**
