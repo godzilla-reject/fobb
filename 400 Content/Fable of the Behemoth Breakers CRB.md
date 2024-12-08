@@ -701,11 +701,11 @@ The first of the three Charters, the Ruby Drums are united under one idea: *"Mig
 >>%%
 
  
-##### School of the Valiant Crusader
+##### School of the Devoted Crusader
 > [!statblocks|columns full]
 >
 >> [!blank]  
->> ##### School of the Valiant Crusader
+>> ##### School of the Devoted Crusader
 >> > Born from old religious sects, warrior monks, and pious scholars, Crusaders utilize the power of devotion, passion, and piety to smite Behemoths and reinforce their allies. 
 >> ---
 >> | Physicality | Mentality | Spirituality |

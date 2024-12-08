@@ -1,3 +1,108 @@
 ---
 tags: list
 ---
+- Weapon Ideas
+	- Heavy-Class Weaponry
+		- War Needle
+			- Mechanics
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
+		- Thunder Mallet 
+			- Mechanics
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
+		- Coffin Blade
+			- Mechanics
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
+	- Agile-Class Weaponry
+		- Yo-Yo Wheel: a massive wheel, bound to a cord and handle that allows the user to open up the wheel, exposing massive blades.
+			- Mechanic: 
+				- Yo-Yo Cord: You can choose to give any Yo-Yo Wheel attack Reach 1, 2 or 3. If you do, it also gains the Stamina X, where X is 2 times the qualifier for the given Reach tag (if the action already has Stamina, they are cumulative.) 
+				- Rotokinetic Engine: Successful *strike* actions with Reach 2 or 3 excite the magikinetic rotational engine within the wheel, generating Momentum.  Momentum can be expended for Yo-Yo Wheel actions. If you would gain Momentum while you already have it, the Rotokinetic Engine experiences overspin and temporarily locks up. While locked up, you cannot use the Yo-Yo Cord until you spend a single action to clear the jam.
+			- Stats 
+				- Damage Die: 1d8
+				- Damage Type: crushing
+				- Dodge:  1d8
+				- Block: -
+		- Bow-Blades: A pair of large, curved blades that can open up, then combine, into a powerful, yet short-ranged bow.
+			- Mechanic: 
+				- Manastring Threads: Successful attacks in blade form generate Manastring Threads. You can have up to 6 Threads at a time, and you gain certain benefits at 3 Threads and 6 Threads. You lose 1 Thread at the end of each of your turns that you do not make an attack. 
+					- 3 Threads
+						- Attacks against Manaweft Behemoths gain a +1 damage die amount bonus.
+					- 6 Threads 
+						- Attacks in Bow Form cost no Mana. 
+						- Attacks in Blade Form cost no Stamina.
+				- Bow Form 
+					- Mana-Weaving Arrows: Weapon *strike* actions in this form gain the "Mana 3" tag. Additionally, hitting a target with three successful weapon attacks (while in this form) in the same turn inflicts the Manaweft condition.
+					- Damage Type: Piercing
+					- Shot Types: Elemental
+				- Blade Form
+					- Mana-Threading Blades: Successful weapon attacks while in Blade Form generate a single Manastring Thread, or two Threads if the target is Manaweft.
+					- Damage Type: Cutting
+			- Stats 
+				- Damage Die: d6
+				- Range: 6 spaces 
+				- Dodge: d10
+				- Block: -
+		- Blade-Harp: A long, flat blade which acts as a sounding board for strings that run across the length of the blade. As the user swings, air rushes through the weapon, acting like an Aeolian harp. These tones are controlled by triggers on the hilt.
+			- Mechanics 
+				- Harp Notes: Any Blade-Harp attack plays one of three notes: high, mid, and low. When these tones are played in a certain order, the blade resonates with magical energy, producing a blade song.
+				- Bladesong-"Inner Fire": After playing the correct sequence of notes, the user bolsters their Dodge defense and increases their attack speed. Also increases Weapon Damage for each buff currently active on allies. 
+				- Bladesong-"Breaker's Aria": After playing the correct sequence of notes, the user grants a buff to their allies for a small duration. 
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
+	- Balance-Class Weaponry
+		- Change-Revolver: a large revolver-style rifle that can be reconfigured between a long-range, high-powered sniper form and a short-range, high fire-rate form.
+			- Mechanics
+				- Chamber Heat: For every 2 attacks that deal damage in Riot Configuration, one of the weapon's 6 chambers heats up. When making attacks in Sniper Configuration, you can vent the heat in each chamber to increase the amount of damage dice for that attack by 1 for each chamber vented.
+				- Sniper Configuration:
+					- Overloader Kinetic Dampener: Attacks in Sniper Configuration can only have their dice amount increased by venting Chamber Heat.
+					- Magikinetic Hostility Averter: You cannot Dodge while in Sniper Configuration.
+					- Stats 
+						- Damage Die: d12
+						- Damage Type: impaling
+						- Dodge: -
+						- Block: d10
+				- Riot Configuration: 
+					- Rapid-Fire Kinetic Dampener: Attacks in Riot Configuration have a damage die size limit of d8.
+					- Magikinetic Hostility Attractor: Attacks in Riot Configuration generate additional Threat.
+					- Stats 
+						- Damage Die: d4
+						- Damage Type: piercing
+						- Dodge: d4
+						- Block: d8
+				- Shot Types: 
+					- Elemental 
+					- Support
+		- Roulette-Rang: A six-sided boomerang that randomizes its damage types and elemental affinities. The user can burn mana to "lock in" a damage type, increasing both weapon damage and blocking potency against that damage type.
+			- Mechanics
+				- Spin the Roulette: Whenever you attack, you roll 1d6, then consult the chart below. That attack splits its total damage between the weapon's base damage type and the result evenly. 
+				- Rig the Odds: When you use Spin the Roulette, you may spend 4 mana to fully imbue your weapon with the rolled element. If you do, all damage the weapon deals is that type, you deal an extra die of weapon damage, and if you would defend against an attack that deals that damage type, increase the die size of that defense by 1. This bonus lasts for 1d6 rounds.
+				- The House Always Wins: When you use Rig the Odds and roll a 1 for its duration, you can't Rig the Odds again for 1d6 rounds.
+			- Stats 
+				- Damage Die: d8
+				- Damage Type: shredding
+				- Dodge: d4
+				- Block: d8
+		- Dancer Fans: a pair of bladed fans that can assist dodging by moving massive amounts of air, while also interlocking to block damage. 
+			- Mechanics
+				- Dancing Gales: Avoiding damage and alternating defense types generates Gale charges. Gale charges can be consumed to guarantee perfect defenses, or activate certain abilities. Max Gale Charges: 3
+				- Galeforce: As long the user has 1 Gale Charge, any physical damage the Dancer Fans deal is instead air damage. As long as the user has max Gale charges, their defenses are increased by 1 step.
+			- Stats 
+				- Damage Die: 1d6
+				- Damage Type: cutting
+				- Dodge: d6 
+				- Block: d4

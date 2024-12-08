@@ -4,10 +4,10 @@ tags: list
 - Ruby Drums 
 	- Raging Berserker
 		- Health Tank
-	- Valiant Crusader
+	- Devoted Crusader
 		- Support (Healer)
 		- Martial/Magic Hybrid
-	- Stout Exemplar
+	- Valiant Exemplar
 		- Block Tank
 		- Martial/Adept Hybrid
 	- Disciplined Warblade
