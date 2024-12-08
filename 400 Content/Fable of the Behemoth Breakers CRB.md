@@ -2064,7 +2064,9 @@ The Company Creed is made up of a series of *tenets*, one for each player, plus 
 **The Vow of Anonymity**
 **The Sellwords' Oath**
 **A Duty of Care**
-**A Declara**
+**A Declaration of Freedom**
+**The Breaker Code of Conduct**
+**Particular Obligations**
 ### Company Areas
 #### Job: Entertainments Master
 ##### Building: Tavern Hall
