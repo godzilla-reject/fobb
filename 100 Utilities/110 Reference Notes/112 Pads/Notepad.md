@@ -349,7 +349,8 @@
 	- Weapon Awakening
 		- Unlocked at Master-tier.
 		- Awakens powerful latent abilities in weapons using materials gathered from powerful Behemoths.
-		- Any given weapon can
+			- Gained from Usurper-Class Behemoths. 
+		- A Breaker can have 2 Awakenings active at any given time.
 		- 4 Categories
 			- Attack 
 			- Defense 
