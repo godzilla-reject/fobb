@@ -2,11 +2,10 @@
 tags: list
 ---
 - Ruby Drums 
-	- 2x Tanks
 	- Raging Berserker
 		- Health Tank
 	- Valiant Crusader
-		- Support
+		- Support (Healer)
 		- Martial/Magic Hybrid
 	- Bruiser
 		- Block Tank
@@ -14,7 +13,6 @@ tags: list
 	- Weaponmaster
 		- DPS 
 - Emerald Strings 
-	- 2x DPSs
 	- Peerless Shadow
 		- DPS (Sustained)
 		- Adept/Magic Hybrid
@@ -22,18 +20,17 @@ tags: list
 		- DPS (Burst)
 		- Adept/Martial Hybrid
 	- Silent Shinobi
-		- Support
+		- Support (Controller)
 	- Unnamed Tank
 		- Dodge Tank
 - Sapphire Pipes
-	- 2x Supports
 	- Patient Caller
-		- Support
+		- Support (Healer)
 	- Tenacious Invoker 
 		- DPS (Sustained)
 	- Armiger
-		- Tank
+		- Health Tank
 		- Magic/Martial Hybrid
 	- Unnamed Support
-		- Support 
+		- Support (Controller)
 		- Magic/Adept
