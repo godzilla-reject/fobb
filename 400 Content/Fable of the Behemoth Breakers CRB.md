@@ -2035,8 +2035,8 @@ Making a Banner is important, but if you don't have the time to brainstorm, tale
 When selecting a Patron, keep in mind all of the different Breakers; this is a shared aspect of their origin, and should be at least somewhat applicable to all players.
 #### Patron: Wealthy Aristocrat
 ***Wealth:*** 4
-***Tenet:*** Particular Obligations
-Your Company's Patron is a wealthy noble, royal or some other aristocrat that wants a piece of the growing Behemoth part trade. They have particular requests, odd mannerisms and definitely an ulterior motive.
+***Tenet:*** Pact of Particular Obligations
+Your Company's Patron is a wealthy noble, royal or some other aristocrat that allegedly wants a piece of the growing Behemoth part trade. They have particular requests, odd mannerisms and definitely an ulterior motive.
 #### Patron: Breaking League 
 ***Wealth:*** 3
 ***Tenet:*** The Breaker Code of Conduct
@@ -2060,6 +2060,7 @@ Your Company is totally unaware of its benefactor, and as such, does not maintai
 ### Company Creed 
 The Company Creed is made up of a series of *tenets*, one for each player, plus one for the Fable-Maker and one for the Company Patron. These codes are restrictions and edicts that all members of the Company need to follow; they directly affect Company traits, with most being a tradeoff. Some Tenets also allow access to Auxiliary Areas, which are special Company buildings.
 #### Breaker Tenets
+These are the tenets that Breakers can choose from when drafting the Company Creed. They are divided into *sets*; a set of Tenets are alike in theme, and sometimes have unique effects when paired together. 
 **Blood Augury Pact**
 Augments the Research Center.
 **Code of Chivalry**
@@ -2087,7 +2088,7 @@ Augments the Central Kitchen
 #### Patron Tenets
 **A Declaration of Freedom**
 **A Duty of Care**
-**Particular Obligations**
+**Pact of Particular Obligations**
 **The Breaker Code of Conduct**
 **The Sellswords' Decree**
 **The Vow of Anonymity**
