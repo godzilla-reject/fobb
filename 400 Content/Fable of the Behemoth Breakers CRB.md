@@ -2060,6 +2060,8 @@ Your Company is totally unaware of its benefactor, and as such, does not maintai
 ### Company Creed 
 The Company Creed is made up of a series of *tenets*, one for each player, plus one for the Fable-Maker and one for the Company Patron. These codes are restrictions and edicts that all members of the Company need to follow; they directly affect Company traits, with most being a tradeoff. Some Tenets also allow access to Auxiliary Areas, which are special Company buildings.
 #### Breaker Tenets
+**The Habit of Blood Augury**
+****
 #### Patron Tenets
 **The Vow of Anonymity**
 **The Sellwords' Oath**
