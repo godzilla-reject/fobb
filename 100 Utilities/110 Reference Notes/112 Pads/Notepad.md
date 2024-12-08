@@ -370,7 +370,8 @@
 	- Pactbound Set
 		- Magic set.
 		- 3 Pacts
-		- 
+		- Desecrated Temple Auxiliary Building
+			- 
 	- Round Table Set 
 		- Martial set.
 		- 2 Oaths 
