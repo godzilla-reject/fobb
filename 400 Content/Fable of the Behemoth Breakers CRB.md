@@ -2060,7 +2060,7 @@ Your Company is totally unaware of its benefactor, and as such, does not maintai
 ### Company Creed 
 The Company Creed is made up of a series of *tenets*, one for each player, plus one for the Fable-Maker and one for the Company Patron. These codes are restrictions and edicts that all members of the Company need to follow; they directly affect Company traits, with most being a tradeoff. Some Tenets also allow access to Auxiliary Areas, which are special Company buildings.
 #### Breaker Tenets
-**The Pact of Blood Augury**
+**The Blood Augury Pact**
 Augments the Research Center.
 **Code of Chivalry**
 Augments the Commissions Office.
@@ -2072,8 +2072,8 @@ Higher starting wealth; lower Morale if below Wealth 4
 Bonus for a Building being fully manned, bonus starting Manpower, but lower starting Morale and Wealth.
 **A Faustian Pact**
 Augments the Alchemitory.
-**The Blessed Habit**
-Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed aso 
+**The Temple's Habit**
+Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also three Pact tenets.
 #### Patron Tenets
 **A Declaration of Freedom**
 **A Duty of Care**
