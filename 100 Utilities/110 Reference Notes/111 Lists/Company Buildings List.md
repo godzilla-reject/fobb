@@ -19,8 +19,9 @@ tags: list
 	- Stockyard 
 		- Quartermaster
 - Auxiliary Buildings
-	- Temple
+	- Consecrated Temple
+		- Becomes Desecrated Temple with Pactbound Set.
 	- World Table
-		- Becomes the Round Table with 
+		- Becomes the Round Table with Oathbound Set.
 	- Trading Post 
-		- Becomes Smuggler's Den with Smuggler's Set.
+		- Becomes Smuggler's Den with Thiefbound Set.

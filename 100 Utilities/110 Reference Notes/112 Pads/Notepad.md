@@ -370,12 +370,22 @@
 	- Pactbound Set
 		- Magic set.
 		- 3 Pacts
-		- Desecrated Temple Auxiliary Building
-			- Unique armor set and weapons. 
-			- Unique options for Invoker, 
-	- Round Table Set 
+		- Core Buildings
+			- Research Center
+			- Alchemitory
+			- 
+		- Auxiliary Buildings
+			- Desecrated Temple
+				- Unique armor set and weapons. 
+				- Unique options for Invoker, 
+	- Oathbound Set 
 		- Martial set.
-		- 2 Oaths 
-		- 2 Codes
-		- 2 Duties 
-	- 
+		- 1 of each:
+			- 2 Oaths 
+			- 2 Codes
+			- 2 Duties 
+		- Auxiliary Buildings
+	- Thiefbound Set
+		- Adept set.
+		- 3 Vows
+		- Auxiliary Buildings
