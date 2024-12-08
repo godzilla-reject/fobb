@@ -302,6 +302,7 @@ This is a measure of how much money and spending power a Company is afforded by 
 #### Morale 
 Morale is a measure of the general disposition of a Company's populous.
 #### Reputation
+
 ### Derived Traits 
 #### Manpower 
 Manpower is a derived trait that codifies the staff of a Company. 
