@@ -331,7 +331,7 @@
 	- Breaker Tonics
 		- Unlocked at Journeyman-tier.
 		- Allows players to craft custom potions using Behemoth parts.
-		- Scales with 
+		- Scales with Alchemitory projects. 
 	- Charms
 		- Unlocked via Company progression.
 			- Joint project between Armory R&D, Research and Alchemitory.
@@ -361,4 +361,6 @@
 	- Mythic Techniques
 		- You can select one for each of of your weapons, from two options each.
 		- Usable 1 time per engagement. 
-- Behemoths
+- Fable-Maker Section
+	- The Behemiary
+	- Time Keeping
