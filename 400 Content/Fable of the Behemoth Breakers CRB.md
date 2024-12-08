@@ -2039,23 +2039,23 @@ When selecting a Patron, keep in mind all of the different Breakers; this is a s
 Your Company's Patron is a wealthy noble, royal or some other aristocrat that allegedly wants a piece of the growing Behemoth part trade. They have particular requests, odd mannerisms and definitely an ulterior motive.
 #### Patron: Breaking League 
 ***Wealth:*** 3
-***Tenet:*** The Breaker Code of Conduct
+***Tenet:*** Breaker Code of Conduct
 Your Company was commissioned directly by the Breaking League itself, typically as a method to educate neophyte Breakers in the field. 
 #### Patron: Independent  
 ***Wealth:*** 1
-***Tenet:*** A Declaration of Freedom
+***Tenet:*** Declaration of Freedom
 Instead of an actual Patron, your Company is truly independent; you operate outside of League influence, instead staking it out on your own. This results in low Wealth, yet freedom that only the lack of rules could give.
 #### Patron: City-State
 ***Wealth:*** 4
-***Tenet:*** A Duty of Care
+***Tenet:*** Duty of Care
 Your Company is bankrolled by a city-state as a dedicated Behemoth-slaying regiment. These are commonly reserved for large, powerful city-states, though almost all city-states found on the frontier of the Harrowlands also employ them.
 #### Patron: Breakers-For-Hire
 ***Wealth:*** 3
-***Tenet:*** The Sellwords' Decree
+***Tenet:*** Sellwords' Decree
 Your Company is a mercenary company; you make your crowns by traveling from city-state to city-state, offering your services to them. While you are largely independent, you are still bound to Breaking League regulations, as well as the Mercantile League.
 #### Patron: Anonymous Benefactor
 ***Wealth:*** 6
-***Tenet:*** The Vow of Anonymity
+***Tenet:*** Vow of Perfect Anonymity
 Your Company is totally unaware of its benefactor, and as such, does not maintain contact with them. Instead, your benefactor randomly contacts you with odd, sometimes dire, requests.
 ### Company Creed 
 The Company Creed is made up of a series of *tenets*, one for each player, plus one for the Fable-Maker and one for the Company Patron. These codes are restrictions and edicts that all members of the Company need to follow; they directly affect Company traits, with most being a tradeoff. Some Tenets also allow access to Auxiliary Areas, which are special Company buildings.
@@ -2087,27 +2087,28 @@ Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also 
 **Oath of the World Table**
 Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 Duty tenets.
 ##### Thiefbound Tenets
-*Set Requirements:*
+*Set Requirements:* Anonymous Benefactor patron; 3 Vow tenets; Merchantile Decree tenet.
 *Set Effect:*
-**Placeholder** 
+**Vow of Poisoned Cups** 
 Augments the Tavern Hall
-**Placeholder**
+**Vow of Smuggled Gold**
 Augments the Stockyard
-**Placeholder**
+**Vow of Whispered Rumors**
 Augments the Central Kitchen
 ##### Goldbound Tenets
 *Set Requirements:* 3 Decree Tenets.
-*Set Effect:* 
+*Set Effect:* When Wealth increases, Morale also increases by 1.
 **Treasure Hoarders' Decree**
 Higher starting wealth; lower Morale if below Wealth 4
-
+**Merchantile Decree**
+Auxiliary Area: Trading Post
 #### Patron Tenets
-**A Declaration of Freedom**
-**A Duty of Care**
+**Declaration of Freedom**
+**Duty of Care**
 **Pact of Particular Obligations**
-**The Breaker Code of Conduct**
-**The Sellswords' Decree**
-**The Vow of Anonymity**
+**Breaker Code of Conduct**
+**Sellswords' Decree**
+**Vow of Perfect Anonymity**
 ### Company Areas
 #### Job: Entertainments Master
 ##### Building: Tavern Hall
