@@ -300,10 +300,10 @@ Much like Breakers, the Company they are apart of has traits as well. Companies 
 #### Wealth 
 This is a measure of how much money and spending power a Company possesses.
 #### Morale 
-Morale is a measure of the general disposition of a Company's populous.
+This is a measure of the general disposition of a Company's populous.
 #### Reputation
-This is  measure of how the wider world sees a Company.
-
+This is a measure of how the wider world sees a Company.
+#### 
 ### Derived Traits 
 #### Manpower 
 Manpower is a derived trait that codifies the staff of a Company. 
