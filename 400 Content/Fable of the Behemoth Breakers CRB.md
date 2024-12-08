@@ -2077,7 +2077,13 @@ Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also 
 **Hephaestian Pact**
 Augments the Grand Forge. 
 **World Table Bylaws**
-Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 C tenets.
+Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 Duty tenets.
+**Placeholder** 
+Augments the Tavern Hall
+**Placeholder**
+Augments the Stockyard
+**Placeholder**
+Augments the Central Kitchen
 #### Patron Tenets
 **A Declaration of Freedom**
 **A Duty of Care**

@@ -365,3 +365,11 @@
 - Fable-Maker Section
 	- The Behemiary
 	- Time Keeping
+
+- Tenets 
+	- Pact Set
+		- 3 Pacts 
+	- The "Magic" set
+	- 2 Oaths 
+	- 2 Codes
+	- 2 Duties 
