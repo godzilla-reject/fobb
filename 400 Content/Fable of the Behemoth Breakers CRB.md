@@ -2061,14 +2061,17 @@ Your Company is totally unaware of its benefactor, and as such, does not maintai
 The Company Creed is made up of a series of *tenets*, one for each player, plus one for the Fable-Maker and one for the Company Patron. These codes are restrictions and edicts that all members of the Company need to follow; they directly affect Company traits, with most being a tradeoff. Some Tenets also allow access to Auxiliary Areas, which are special Company buildings.
 #### Breaker Tenets
 **The Habit of Blood Augury**
+**Code of Chivalry**
+**Ninshidō**
+**Treasure Hoaders' Decree**
 ****
 #### Patron Tenets
-**The Vow of Anonymity**
-**The Sellwords' Oath**
-**A Duty of Care**
 **A Declaration of Freedom**
-**The Breaker Code of Conduct**
+**A Duty of Care**
 **Particular Obligations**
+**The Breaker Code of Conduct**
+**The Sellwords' Oath**
+**The Vow of Anonymity**
 ### Company Areas
 #### Job: Entertainments Master
 ##### Building: Tavern Hall
