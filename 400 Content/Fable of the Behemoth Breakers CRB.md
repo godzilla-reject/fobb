@@ -2072,7 +2072,7 @@ These are the tenets that Breakers can choose from when drafting the Company Cre
 Set effects often change how core Company buildings and projects work, so be sure to discuss them thoroughly. If your Company meets the requirement of a set, you *have* that set effect; they are not optional.
 ##### Pactbound Tenets
 *Set Requirements:* 3 Pact tenets; Duty to the Temple tenet.
-*Set Effect:* When Knowledge increases, Morale also increases by 1. The opposite is also true.
+*Set Effect:* When Knowledge increases, Reputation also increases by 1. The opposite is also true.
 **Blood Augury Pact**
 Augments the Research Center.
 **Faustian Pact**
@@ -2094,7 +2094,7 @@ Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also 
 Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 Duty tenets.
 ##### Thiefbound Tenets
 *Set Requirements:* Anonymous Benefactor patron; 3 Vow tenets; Mercantile Decree tenet.
-*Set Effect:* When Morale increases, Wealth also increases by 1. The opposite is also true.
+*Set Effect:* When Wealth increases, Reputation also increases by 1. The opposite is also true.
 **Vow of Poisoned Cups** 
 Augments the Tavern Hall
 **Vow of Smuggled Gold**
@@ -2105,6 +2105,7 @@ Augments the Central Kitchen
 *Set Requirements:* 3 Decree Tenets.
 *Set Effect:* When Wealth increases, Morale also increases by 1. The opposite is also true.
 **Treasure Hoarders' Decree**
+
 Higher starting wealth; lower Morale if below Wealth 4
 **Mercantile Decree**
 Auxiliary Area: Trading Post; becomes Smuggler's Den with Thiefbound Set.
@@ -2118,17 +2119,18 @@ All School-taught Breakers are educated on the Breaker Code, but few rarely foll
 Your Company abides by your own rules. Work together to pen three cardinal rules for your Company. Due to the fact you have no Patron past yourself and your fellow Breakers, you cannot Contact Your Patron during downtime.
 **Duty of Care**
 Your Company must "put the wellbeing of the City-State above all else." You also cannot travel outside of your City-State's territory without express permission.
-Additionally, your Company begins with a +2 to Reputation, but a -2 to Knowledge, to represent your greater influence with your city-state
+Additionally, your Company begins with a +2 to Reputation, but a -2 to Knowledge, to represent your greater influence with your city-state and lack of information due to being on the fringe of civilization. 
 **Pact of Particular Obligations**
 Your Company's Patron sets forth an odd stipulation of a sort, which will be given to you by the Fable-Maker. 
-Additionally, your Company begins with a +2 to Knowledge, but a -2 to Reputation.
+Additionally, your Company begins with a +2 to Knowledge, but a -2 to Reputation, to represent your Patron's esoteric knowledge and social stigma. 
 **Sellswords' Decree**
 Your Company follows the Sellswords' Decree: 
 1. Never work for free.
 2. Always split profits with equity.
 3. Seek crowns before favors.
-Your Company 
+
 **Vow of Perfect Anonymity**
+
 ### Company Areas
 #### Job: Entertainments Master
 ##### Building: Tavern Hall
