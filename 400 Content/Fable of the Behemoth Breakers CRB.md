@@ -2057,7 +2057,7 @@ Your Company is bankrolled by a city-state as a dedicated Behemoth-slaying regim
 ***Tenet:*** Pact of Particular Obligations
 Your Company's Patron is a wealthy noble, royal or some other aristocrat that allegedly wants a piece of the growing Behemoth part trade. They have particular requests, odd mannerisms and definitely an ulterior motive.
 #### Patron: Breakers-For-Hire
-***Wealth:*** 3
+***Wealth:*** 4
 ***Tenet:*** Sellwords' Decree
 Your Company is a mercenary company; you make your crowns by traveling from city-state to city-state, offering your services to them. While you are largely independent, you are still bound to Breaking League regulations, as well as the Mercantile League.
 #### Patron: Anonymous Benefactor
@@ -2105,8 +2105,7 @@ Augments the Central Kitchen
 *Set Requirements:* 3 Decree Tenets.
 *Set Effect:* When Wealth increases, Morale also increases by 1. The opposite is also true.
 **Treasure Hoarders' Decree**
-
-Higher starting wealth; lower Morale if below Wealth 4
+Project Wealth costs are decreased.
 **Mercantile Decree**
 Auxiliary Area: Trading Post; becomes Smuggler's Den with Thiefbound Set.
 #### Patron Tenets
@@ -2116,7 +2115,8 @@ All School-taught Breakers are educated on the Breaker Code, but few rarely foll
 2. Hunt from necessity, not desire.
 3. Nature before mortals, mortals before Behemoth.
 **Declaration of Freedom**
-Your Company abides by your own rules. Work together to pen three cardinal rules for your Company. Due to the fact you have no Patron past yourself and your fellow Breakers, you cannot Contact Your Patron during downtime.
+Your Company abides by your own rules. Work together to pen three cardinal rules for your Company. 
+Due to the fact you have no Patron past yourself and your fellow Breakers, you cannot Contact Your Patron during downtime.Your Company also gains +1 to starting Knowledge, Reputation and Morale.
 **Duty of Care**
 Your Company must "put the wellbeing of the City-State above all else." You also cannot travel outside of your City-State's territory without express permission.
 Additionally, your Company begins with a +2 to Reputation, but a -2 to Knowledge, to represent your greater influence with your city-state and lack of information due to being on the fringe of civilization. 
@@ -2128,7 +2128,7 @@ Your Company follows the Sellswords' Decree:
 1. Never work for free.
 2. Always split profits with equity.
 3. Seek crowns before favors.
-
+If your Company's Wealth is below 4, it automatically becomes demoralized.
 **Vow of Perfect Anonymity**
 
 ### Company Areas
