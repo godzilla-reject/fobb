@@ -2093,8 +2093,8 @@ Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also 
 **Oath of the World Table**
 Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 Duty tenets.
 ##### Thiefbound Tenets
-*Set Requirements:* Anonymous Benefactor patron; 3 Vow tenets; Merchantile Decree tenet.
-*Set Effect:* When 
+*Set Requirements:* Anonymous Benefactor patron; 3 Vow tenets; Mercantile Decree tenet.
+*Set Effect:* If Morale would decrease, Wealth decreases instead.
 **Vow of Poisoned Cups** 
 Augments the Tavern Hall
 **Vow of Smuggled Gold**
@@ -2106,7 +2106,7 @@ Augments the Central Kitchen
 *Set Effect:* When Wealth increases, Morale also increases by 1.
 **Treasure Hoarders' Decree**
 Higher starting wealth; lower Morale if below Wealth 4
-**Merchantile Decree**
+**Mercantile Decree**
 Auxiliary Area: Trading Post; becomes Smuggler's Den with Thiefbound Set.
 #### Patron Tenets
 **Declaration of Freedom**
