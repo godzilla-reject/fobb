@@ -303,10 +303,12 @@ This is a measure of how much money and spending power a Company possesses.
 This is a measure of the general disposition of a Company's populous.
 #### Reputation
 This is a measure of how the wider world sees a Company.
-#### 
+#### Knowledge
+This is a measure of the total sum of a Company's knowledge base.
 ### Derived Traits 
 #### Manpower 
 Manpower is a derived trait that codifies the staff of a Company. 
+
 ***The* *Math*** 
 Manpower is equal to (Wealth times Tier Value) times 4. 
 # Part 2: A Company of  Behemoth Breakers
