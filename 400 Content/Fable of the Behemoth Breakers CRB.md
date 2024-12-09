@@ -2071,8 +2071,8 @@ These are the tenets that Breakers can choose from when drafting the Company Cre
 
 Set effects often change how core Company buildings and projects work, so be sure to discuss them thoroughly. If your Company meets the requirement of a set, you *have* that set effect; they are not optional.
 ##### Pactbound Tenets
-*Set Requirements:*
-*Set Effect:* When Knowledge increases, Morale also increases by 1.
+*Set Requirements:* 3 Pact tenets; Duty to the Temple tenet.
+*Set Effect:* When Knowledge increases, Morale also increases by 1. The opposite is also true.
 **Blood Augury Pact**
 Augments the Research Center.
 **Faustian Pact**
@@ -2081,7 +2081,7 @@ Augments the Alchemitory.
 Augments the Grand Forge. 
 ##### Oathbound Tenets
 *Set Requirements:* 1 Code and 1 Duty tenet; Oath of the World Table
-*Set Effect:* When Reputation increases, Morale also increases by 1.
+*Set Effect:* When Reputation increases, Morale also increases by 1. The opposite is also true.
 **Code of Chivalry**
 Augments the Commissions Office.
 **Code of Ninshidō**
@@ -2094,7 +2094,7 @@ Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also 
 Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 Duty tenets.
 ##### Thiefbound Tenets
 *Set Requirements:* Anonymous Benefactor patron; 3 Vow tenets; Mercantile Decree tenet.
-*Set Effect:* If Morale would decrease, Wealth decreases instead.
+*Set Effect:* When Morale increases, Wealth also increases by 1. The opposite is also true.
 **Vow of Poisoned Cups** 
 Augments the Tavern Hall
 **Vow of Smuggled Gold**
@@ -2103,7 +2103,7 @@ Augments the Stockyard
 Augments the Central Kitchen
 ##### Goldbound Tenets
 *Set Requirements:* 3 Decree Tenets.
-*Set Effect:* When Wealth increases, Morale also increases by 1.
+*Set Effect:* When Wealth increases, Morale also increases by 1. The opposite is also true.
 **Treasure Hoarders' Decree**
 Higher starting wealth; lower Morale if below Wealth 4
 **Mercantile Decree**
