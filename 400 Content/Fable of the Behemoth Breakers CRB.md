@@ -2114,15 +2114,16 @@ All School-taught Breakers are educated on the Breaker Code, but few rarely foll
 1. Put your Fellow Breaker above All 
 2. Hunt from necessity, not desire.
 3. Nature before mortals, mortals before Behemoth.
+Your Company gains +1 to starting Knowledge.
 **Declaration of Freedom**
 Your Company abides by your own rules. Work together to pen three cardinal rules for your Company. 
 Due to the fact you have no Patron past yourself and your fellow Breakers, you cannot Contact Your Patron during downtime.Your Company also gains +1 to starting Knowledge, Reputation and Morale.
 **Duty of Care**
 Your Company must "put the wellbeing of the City-State above all else." You also cannot travel outside of your City-State's territory without express permission.
-Additionally, your Company begins with a +2 to Reputation, but a -2 to Knowledge, to represent your greater influence with your city-state and lack of information due to being on the fringe of civilization. 
+Your Company gains a +2 bonus to starting  Reputation, but a -2 penalty to starting Knowledge, to represent your greater influence with your city-state and lack of information due to being on the fringe of civilization. 
 **Pact of Particular Obligations**
 Your Company's Patron sets forth an odd stipulation of a sort, which will be given to you by the Fable-Maker. 
-Additionally, your Company begins with a +2 to Knowledge, but a -2 to Reputation, to represent your Patron's esoteric knowledge and social stigma. 
+Your Company gains a +2 bonus to starting Knowledge, but a -2 penalty to starting Reputation, to represent your Patron's esoteric knowledge and social stigma. 
 **Sellswords' Decree**
 Your Company follows the Sellswords' Decree: 
 1. Never work for free.
