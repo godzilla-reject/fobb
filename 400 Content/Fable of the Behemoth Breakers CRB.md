@@ -2117,8 +2117,10 @@ All School-taught Breakers are educated on the Breaker Code, but few rarely foll
 **Declaration of Freedom**
 Your Company abides by your own rules. Work together to pen three cardinal rules for your Company. Due to the fact you have no Patron past yourself and your fellow Breakers, you cannot Contact Your Patron during downtime.
 **Duty of Care**
-
+Your Company must "put the wellbeing of the City-State above all else." You also cannot travel outside of your City-State's territory without express permission.
+Additionally, your Company begins with a -2 to Knowledge due to existing on the fringes of the civilized world. 
 **Pact of Particular Obligations**
+
 **Sellswords' Decree**
 **Vow of Perfect Anonymity**
 ### Company Areas
