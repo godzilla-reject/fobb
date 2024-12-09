@@ -2040,10 +2040,6 @@ Making a Banner is important, but if you don't have the time to brainstorm, tale
 
 ### Company Patrons
 When selecting a Patron, keep in mind all of the different Breakers; this is a shared aspect of their origin, and should be at least somewhat applicable to all players.
-#### Patron: Wealthy Aristocrat
-***Wealth:*** 4
-***Tenet:*** Pact of Particular Obligations
-Your Company's Patron is a wealthy noble, royal or some other aristocrat that allegedly wants a piece of the growing Behemoth part trade. They have particular requests, odd mannerisms and definitely an ulterior motive.
 #### Patron: Breaking League 
 ***Wealth:*** 3
 ***Tenet:*** Breaker Code of Conduct
@@ -2056,6 +2052,10 @@ Instead of an actual Patron, your Company is truly independent; you operate outs
 ***Wealth:*** 4
 ***Tenet:*** Duty of Care
 Your Company is bankrolled by a city-state as a dedicated Behemoth-slaying regiment. These are commonly reserved for large, powerful city-states, though almost all city-states found on the frontier of the Harrowlands also employ them.
+#### Patron: Wealthy Aristocrat
+***Wealth:*** 4
+***Tenet:*** Pact of Particular Obligations
+Your Company's Patron is a wealthy noble, royal or some other aristocrat that allegedly wants a piece of the growing Behemoth part trade. They have particular requests, odd mannerisms and definitely an ulterior motive.
 #### Patron: Breakers-For-Hire
 ***Wealth:*** 3
 ***Tenet:*** Sellwords' Decree
@@ -2109,10 +2109,14 @@ Higher starting wealth; lower Morale if below Wealth 4
 **Mercantile Decree**
 Auxiliary Area: Trading Post; becomes Smuggler's Den with Thiefbound Set.
 #### Patron Tenets
+**Breaker Code of Conduct**
+All School-taught Breakers are educated on the Breaker Code, but few rarely follow it without League enforcement. As an official Breaking League Company, however, you follow the Three Steps of Conduct to the tee.
+1. Put your Fellow Breaker above All 
+2. Hunt from necessity, not desire.
+3. 
 **Declaration of Freedom**
 **Duty of Care**
 **Pact of Particular Obligations**
-**Breaker Code of Conduct**
 **Sellswords' Decree**
 **Vow of Perfect Anonymity**
 ### Company Areas
