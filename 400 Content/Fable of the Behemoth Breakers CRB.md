@@ -2118,10 +2118,16 @@ All School-taught Breakers are educated on the Breaker Code, but few rarely foll
 Your Company abides by your own rules. Work together to pen three cardinal rules for your Company. Due to the fact you have no Patron past yourself and your fellow Breakers, you cannot Contact Your Patron during downtime.
 **Duty of Care**
 Your Company must "put the wellbeing of the City-State above all else." You also cannot travel outside of your City-State's territory without express permission.
-Additionally, your Company begins with a -2 to Knowledge due to existing on the fringes of the civilized world. 
+Additionally, your Company begins with a +2 to Reputation, but a -2 to Knowledge, to represent your greater influence with your city-state
 **Pact of Particular Obligations**
-
+Your Company's Patron sets forth an odd stipulation of a sort, which will be given to you by the Fable-Maker. 
+Additionally, your Company begins with a +2 to Knowledge, but a -2 to Reputation.
 **Sellswords' Decree**
+Your Company follows the Sellswords' Decree: 
+1. Never work for free.
+2. Always split profits with equity.
+3. Seek crowns before favors.
+Your Company 
 **Vow of Perfect Anonymity**
 ### Company Areas
 #### Job: Entertainments Master
