@@ -2072,7 +2072,7 @@ These are the tenets that Breakers can choose from when drafting the Company Cre
 Set effects often change how core Company buildings and projects work, so be sure to discuss them thoroughly. If your Company meets the requirement of a set, you *have* that set effect; they are not optional.
 ##### Pactbound Tenets
 *Set Requirements:*
-*Set Effect:* When Knowledge increases, 
+*Set Effect:* When Knowledge increases, Morale also increases by 1.
 **Blood Augury Pact**
 Augments the Research Center.
 **Faustian Pact**
@@ -2081,7 +2081,7 @@ Augments the Alchemitory.
 Augments the Grand Forge. 
 ##### Oathbound Tenets
 *Set Requirements:* 1 Code and 1 Duty tenet; Oath of the World Table
-*Set Effect:* 
+*Set Effect:* When Reputation increases, Morale also increases by 1.
 **Code of Chivalry**
 Augments the Commissions Office.
 **Code of Ninshidō**
