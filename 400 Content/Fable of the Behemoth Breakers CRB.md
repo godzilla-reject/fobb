@@ -2110,12 +2110,14 @@ Higher starting wealth; lower Morale if below Wealth 4
 Auxiliary Area: Trading Post; becomes Smuggler's Den with Thiefbound Set.
 #### Patron Tenets
 **Breaker Code of Conduct**
-All School-taught Breakers are educated on the Breaker Code, but few rarely follow it without League enforcement. As an official Breaking League Company, however, you follow the Three Steps of Conduct to the tee.
+All School-taught Breakers are educated on the Breaker Code, but few rarely follow it without League enforcement. As an official Breaking League Company, however, you follow the Three Cardinals of Conduct to the tee. These are not the *only* rules in the Code of Conduct, but reproducing that would require a whole other book.
 1. Put your Fellow Breaker above All 
 2. Hunt from necessity, not desire.
-3. 
+3. Nature before mortals, mortals before Behemoth.
 **Declaration of Freedom**
+Your Company abides by your own rules. Work together to pen three cardinal rules for your Company. Due to the fact you have no Patron past yourself and your fellow Breakers, you cannot Contact Your Patron during downtime.
 **Duty of Care**
+
 **Pact of Particular Obligations**
 **Sellswords' Decree**
 **Vow of Perfect Anonymity**
