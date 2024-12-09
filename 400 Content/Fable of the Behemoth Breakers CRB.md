@@ -2072,7 +2072,7 @@ These are the tenets that Breakers can choose from when drafting the Company Cre
 Set effects often change how core Company buildings and projects work, so be sure to discuss them thoroughly. If your Company meets the requirement of a set, you *have* that set effect; they are not optional.
 ##### Pactbound Tenets
 *Set Requirements:*
-*Set Effect:*
+*Set Effect:* When Knowledge increases, 
 **Blood Augury Pact**
 Augments the Research Center.
 **Faustian Pact**
@@ -2094,7 +2094,7 @@ Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also 
 Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 Duty tenets.
 ##### Thiefbound Tenets
 *Set Requirements:* Anonymous Benefactor patron; 3 Vow tenets; Merchantile Decree tenet.
-*Set Effect:*
+*Set Effect:* When 
 **Vow of Poisoned Cups** 
 Augments the Tavern Hall
 **Vow of Smuggled Gold**
