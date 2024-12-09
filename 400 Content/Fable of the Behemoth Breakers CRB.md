@@ -297,14 +297,17 @@ A Breaker's starting Move is the result of **4** + (**Size**×2) plus an additio
 ## Company Traits 
 Much like Breakers, the Company they are apart of has traits as well. Companies and Breakers will be explained more in Part 2, but for now its important that you understand the traits that a Company has.
 ### Secondary Attribute Traits 
-#### Wealth 
+#### Resources Traits 
+##### Wealth 
 This is a measure of how much money and spending power a Company possesses.
-#### Morale 
-This is a measure of the general disposition of a Company's populous.
-#### Reputation
-This is a measure of how the wider world sees a Company.
-#### Knowledge
+##### Knowledge
 This is a measure of the total sum of a Company's knowledge base.
+#### 
+##### Morale 
+This is a measure of the general disposition of a Company's populous.
+##### Reputation
+This is a measure of how the wider world sees a Company.
+
 ### Derived Traits 
 #### Manpower 
 Manpower is a derived trait that codifies the staff of a Company. 
