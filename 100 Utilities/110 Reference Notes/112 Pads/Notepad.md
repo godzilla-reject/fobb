@@ -377,7 +377,13 @@
 			- Desecrated Temple
 				- Unique armor set and weapons. 
 					- Desecration Priest Vestments armor.
-						- Set Bonus: 
+						- Set Bonus: Bleak Sacraments
+							- 3 pc: 
+							- 5 pc:
+							- 7 pc:
+					- Ritual Implements weapons.
+						- Perks:
+							- 
 				- Unique options for: 
 					- Invoker 
 					- Shadow
@@ -400,8 +406,8 @@
 							- 5 pc:
 							- 7 pc:
 					- Caliburs of the Round Table weapons.
-					- Perks: 
-						- 
+						- Perks: 
+							- 
 				- Unique options for: 
 					- Crusader
 					- Vindicator
@@ -419,8 +425,8 @@
 							- 5 pc: 
 							- 7 pc:
 						- Thieves' Tools weapons.
-						- Perks: 
-							- 
+							- Perks: 
+								- 
 				- Unique options for:
 					- Auspex
 					- Shinobi
