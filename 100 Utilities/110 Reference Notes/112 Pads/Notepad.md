@@ -397,8 +397,8 @@
 	- A Company Building generates *X* trait at the cost of *Y* trait. 
 		- X Traits:
 			- Manpower
-			- Wealth
-			- Influence: The sway the Company has on the world stage, as well as 
 			- 
+			- Influence: This how much the Company knows, as well as how fast it learns. When world events occur, highly Influential Companies learn of it first. 
+			- Wealth: The amount of money the Company has access to.
 		- Y Traits: 
 			- 
