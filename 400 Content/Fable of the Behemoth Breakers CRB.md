@@ -2051,6 +2051,8 @@ Making a Banner is important, but if you don't have the time to brainstorm, tale
 When selecting a Patron, keep in mind all of the different Breakers; this is a shared aspect of their origin, and should be at least somewhat applicable to all players.
 #### Patron: Breaking League 
 ***Wealth:*** 3
+**Means:**; **Wealth:**;
+**Influence:**; **Loyalty:**
 ***Tenet:*** Breaker Code of Conduct
 Your Company was commissioned directly by the Breaking League itself, typically as a method to educate neophyte Breakers in the field. 
 #### Patron: Independent  
@@ -2070,7 +2072,8 @@ Your Company's Patron is a wealthy noble, royal or some other aristocrat that al
 ***Tenet:*** Sellwords' Decree
 Your Company is a mercenary company; you make your crowns by traveling from city-state to city-state, offering your services to them. While you are largely independent, you are still bound to Breaking League regulations, as well as the Mercantile League.
 #### Patron: Anonymous Benefactor
-***Wealth:*** 6
+**Means: 0**; **Wealth: 6**;
+**Influence: 2**; **Loyalty: 2**
 ***Tenet:*** Vow of Perfect Anonymity
 Your Company is totally unaware of its benefactor, and as such, does not maintain contact with them. Instead, your benefactor randomly contacts you with odd, sometimes dire, requests.
 ### Company Creed 
