@@ -393,9 +393,13 @@
 			- The Round Table 
 				- Unique armor set and weapons. 
 					- Round Table Knight armor
-						- Set Bonus:
-							- 
+						- Set Bonus: Knight's Chivalry
+							- 3 pc: 
+							- 5 pc:
+							- 7 pc:
 					- Caliburs of the Round Table weapons.
+					- Perks: 
+						- 
 				- Unique options for: 
 					- Crusader
 					- Vindicator
