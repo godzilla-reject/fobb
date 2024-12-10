@@ -296,25 +296,23 @@ Size is simple. It tells you how many spaces your character takes up at its wide
 A Breaker's starting Move is the result of **4** + (**Size**×2) plus an additional **1** for every **five** Skill Levels (*not* Points) a Breaker has in the *Speed* skill trait.
 ## Company Traits 
 Much like Breakers, the Company they are apart of has traits as well. Companies and Breakers will be explained more in Part 2, but for now its important that you understand the traits that a Company has.
-### Secondary Attribute Traits 
-#### Resources Traits 
-##### Wealth 
-This is a measure of how much money and spending power a Company possesses.
-##### Knowledge
-This is a measure of the total sum of a Company's knowledge base.
-#### 
-##### Morale 
-This is a measure of the general disposition of a Company's populous.
-##### Reputation
-This is a measure of how the wider world sees a Company.
-
+### Asset  Traits 
+#### Wealth 
+This is the amount of money the Company has access to.
+#### Means
+This is the people power, land and infrastructure the Company possesses. 
+#### Influence 
+This is how much the Company knows, as well as how fast it learns. When world events occur, highly Influential Companies learn of it first. 
+#### Loyalty
+This is the dedication of the members of the Company. Low Loy
 ### Derived Traits 
-#### Manpower 
-Manpower is a derived trait that codifies the staff of a Company. 
-#### Derived 2
-
-***The* *Math*** 
-Manpower is equal to (Wealth times Tier Value) times 4. 
+#### Materials 
+#### Morale
+### Auxiliary Traits
+#### 
+####
+#### 
+####
 # Part 2: A Company of  Behemoth Breakers
 ## Before You Begin 
 Before you sit down and begin writing things on the paper or typing out things on a PDF, keep a few things in mind.
