@@ -395,10 +395,12 @@
 
 - Company 
 	- A Company Building generates *X* trait at the cost of *Y* trait. 
+	- Building Projects generate *Y* traits at the cost of *X* traits.
 		- X Traits:
-			- Manpower
-			- 
-			- Influence: This how much the Company knows, as well as how fast it learns. When world events occur, highly Influential Companies learn of it first. 
+			- Means: The people power, land and infrastructure the Company possesses.
 			- Wealth: The amount of money the Company has access to.
+			- Influence: This how much the Company knows, as well as how fast it learns. When world events occur, highly Influential Companies learn of it first. 
+			- 
 		- Y Traits: 
+			- 
 			- 
