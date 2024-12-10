@@ -394,13 +394,13 @@
 		- Auxiliary Buildings
 
 - Company 
-	- A Company Building generates *X* trait at the cost of *Y* trait. 
-	- Building Projects generate *Y* traits at the cost of *X* traits.
-		- X Traits:
+	- A Company Building generates *X* trait at the cost of Resource trait. 
+	- Building Projects generate Resource traits at the cost of Asset traits.
+		- Asset Traits:
 			- Means: The people power, land and infrastructure the Company possesses.
 			- Wealth: The amount of money the Company has access to.
 			- Influence: This how much the Company knows, as well as how fast it learns. When world events occur, highly Influential Companies learn of it first. 
-			- 
-		- Y Traits: 
-			- 
-			- 
+			- Loyalty: The dedication of the members of the Company.
+		- Resource Traits: 
+			- Materials
+			- Morale
