@@ -2095,6 +2095,8 @@ Augments the Research Center.
 Augments the Alchemitory.
 **Hephaestian Pact**
 Augments the Grand Forge. 
+** Tenet**
+Project Influence costs are decreased; increased Materials Production costs.
 ##### Oathbound Tenets
 *Set Requirements:* 1 Code and 1 Duty tenet; Oath of the World Table
 *Set Effect:* When Reputation increases, Morale also increases by 1. The opposite is also true.
@@ -2102,12 +2104,14 @@ Augments the Grand Forge.
 Augments the Commissions Office.
 **Code of Ninshidō**
 Augments the Garrison Barracks.
-**Legion's Oath**
-Bonus for a Building being fully manned, bonus starting Manpower, but lower starting Morale and Wealth.
+**Duty to the Fellowship**
+Project Loyalty costs are decreased; increased Materials Production costs.
 **Duty to the Temple**
 Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also has three Pact tenets.
 **Oath of the World Table**
 Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 Duty tenets.
+**Oath of the Legion**
+Project Means costs are decreased; increased Morale Production costs.
 ##### Thiefbound Tenets
 *Set Requirements:* Anonymous Benefactor patron; 3 Vow tenets; Mercantile Decree tenet.
 *Set Effect:* When Wealth increases, Reputation also increases by 1. The opposite is also true.
@@ -2125,12 +2129,10 @@ Project Wealth costs are decreased; increased Morale Production costs.
 **Mercantile Decree**
 Auxiliary Area: Trading Post; becomes Smuggler's Den with Thiefbound Set.
 
-**Placeholder Tenet**
-Project Means costs are decreased; increased Morale Production costs.
-**Placeholder Tenet**
-Project Influence costs are decreased; increased Materiasl Production costs.
-**Placeholder Tenet**
-Project Loyalty costs are decreased; increased Materials Production costs.
+
+
+
+
 #### Patron Tenets
 **Breaker Code of Conduct**
 All School-taught Breakers are educated on the Breaker Code, but few rarely follow it without League enforcement. As an official Breaking League Company, however, you follow the Three Cardinals of Conduct to the tee. These are not the *only* rules in the Code of Conduct, but reproducing that would require a whole other book.
