@@ -392,6 +392,10 @@
 		- Auxiliary Buildings
 			- The Round Table 
 				- Unique armor set and weapons. 
+					- Round Table Knight armor
+						- Set Bonus:
+							- 
+					- Caliburs of the Round Table weapons.
 				- Unique options for: 
 					- Crusader
 					- Vindicator
