@@ -394,4 +394,7 @@
 		- Auxiliary Buildings
 
 - Company 
-	- Means: the measure of 
+	- A Company Building generates *X* trait at the cost of *Y* trait. 
+		- X Traits:
+		- Y Traits: 
+			- 
