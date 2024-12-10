@@ -365,7 +365,6 @@
 - Fable-Maker Section
 	- The Behemiary
 	- Time Keeping
-
 - Tenets 
 	- Pactbound Set
 		- Magic set.
@@ -393,3 +392,6 @@
 		- 3 Vows
 		- Core Buildings
 		- Auxiliary Buildings
+
+- Company 
+	- 
