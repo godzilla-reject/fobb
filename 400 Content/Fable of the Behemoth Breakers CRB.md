@@ -2173,12 +2173,14 @@ Regardless of how your Company does it, the Theater is a place to be.
 ***Tier:***; ***Cost:***; ***Time:***;
 *Requirements:*
 #####  Garrison Barracks
-As soldiers against the Behemoth threat, Breakers are housed 
+As soldiers against the Behemoth threat, Breakers are housed in barracks, just like any other military force. They also train here, both academically and militarily, to prepare for fighting Behemoths.  
 
+Companies can differ on how they house their Breakers, but they share one thing: they are not housed with the rest of the commoners.
 **Asset Production:** Means (Morale)
 ###### Training Projects 
 ##### Research Center
-**Asset Production:**
+
+**Asset Production:** Means (Materials)
 ###### Research Projects 
 #####  Alchemitory
 ###### Alchemical Projects 
@@ -2538,7 +2540,8 @@ These are the most common exploration activities.
 ###### Hustle
 #### Camping 
 ### Company-Scale
-When the game is at this scale
+When the game is at this scale, the world is a bit more "zoomed out;" your Breaker is still important, and their singular actions and intent still have real weight, but the game also takes a look at the bigger picture of both the world and the Company. 
+###
 #### Downtime
 
 # *Book 2: The Fable-Maker*
