@@ -411,3 +411,8 @@
 	- Auxiliary Buildings generate Auxiliary traits for free.
 	- Company Components
 		- Name
+		- Banner
+		- Patron
+			- Provides starting Asset traits.
+		- Creed
+			- Affects Building access. 
