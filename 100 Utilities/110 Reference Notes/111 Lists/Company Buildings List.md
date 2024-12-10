@@ -22,10 +22,15 @@ tags: list
 	- Consecrated Temple
 		- Becomes Desecrated Temple with Pactbound Set.
 		- Generates Morale.
+	- Worker's Dormitory
+		- Generates Materials.
 	- World Table
 		- Becomes the Round Table with Oathbound Set.
 		- Generates Influence.
 	- Trading Post 
 		- Becomes Smuggler's Den with Thiefbound Set.
 		- Generates Wealth.
-	- 
+	- Placeholder Building
+		- Generates Loyalty.
+	- Placeholder Building
+		- Generates Means.
