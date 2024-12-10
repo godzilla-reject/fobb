@@ -396,5 +396,9 @@
 - Company 
 	- A Company Building generates *X* trait at the cost of *Y* trait. 
 		- X Traits:
+			- Manpower
+			- Wealth
+			- Influence: The sway the Company has on the world stage, as well as 
+			- 
 		- Y Traits: 
 			- 
