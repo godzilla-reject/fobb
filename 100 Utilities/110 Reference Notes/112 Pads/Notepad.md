@@ -416,6 +416,3 @@
 			- Provides starting Asset traits.
 		- Creed
 			- Affects Building access. 
-
-**Means:**; **Wealth:**;
-**Influence:**; **Loyalty:**

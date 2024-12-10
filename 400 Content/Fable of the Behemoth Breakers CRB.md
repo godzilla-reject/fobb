@@ -2121,9 +2121,16 @@ Augments the Central Kitchen
 *Set Requirements:* 3 Decree Tenets.
 *Set Effect:* When Wealth increases, Morale also increases by 1. The opposite is also true.
 **Treasure Hoarders' Decree**
-Project Wealth costs are decreased.
+Project Wealth costs are decreased; increased Morale Production costs.
 **Mercantile Decree**
 Auxiliary Area: Trading Post; becomes Smuggler's Den with Thiefbound Set.
+
+**Placeholder Tenet**
+Project Means costs are decreased; increased Morale Production costs.
+**Placeholder Tenet**
+Project Influence costs are decreased; increased Materiasl Production costs.
+**Placeholder Tenet**
+Project Loyalty costs are decreased; increased Materials Production costs.
 #### Patron Tenets
 **Breaker Code of Conduct**
 All School-taught Breakers are educated on the Breaker Code, but few rarely follow it without League enforcement. As an official Breaking League Company, however, you follow the Three Cardinals of Conduct to the tee. These are not the *only* rules in the Code of Conduct, but reproducing that would require a whole other book.
@@ -2139,7 +2146,7 @@ Due to the fact you have no Patron past yourself and your fellow Breakers, you c
 Your Company must "put the wellbeing of the City-State above all else." You also cannot travel outside of your City-State's territory without express permission.
 
 **Pact of Particular Obligations**
-Your Company's Patron sets forth an odd stipulation of a sort, which will be given to you by the Fable-Maker. 
+Your Company's Patron sets forth an odd stipulation of a sort, which will be given to you by the Fable-Maker. This must be followed by all members of the Company.
 
 **Sellswords' Decree**
 Your Company follows the Sellswords' Decree: 
