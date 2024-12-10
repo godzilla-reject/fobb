@@ -376,7 +376,10 @@
 		- Auxiliary Buildings
 			- Desecrated Temple
 				- Unique armor set and weapons. 
-				- Unique options for Invoker, 
+				- Unique options for: 
+					- Invoker 
+					- Shadow
+					- Berserker
 	- Oathbound Set 
 		- Martial set.
 		- 1 of each:
@@ -387,11 +390,23 @@
 			- Commissions Office
 			- Garrison Barracks.
 		- Auxiliary Buildings
+			- The Round Table 
+				- Unique armor set and weapons. 
+				- Unique options for: 
+					- Crusader
+					- Vindicator
+					- Caller
 	- Thiefbound Set
 		- Adept set.
 		- 3 Vows
 		- Core Buildings
 		- Auxiliary Buildings
+			- The Smugglers' Den 
+				- Unique armor set and weapons.
+				- Unique options for:
+					- Auspex
+					- Shinobi
+					- Warblade
 
 - Company 
 	- A Core Building generates Asset traits at the cost of Resource traits. 
