@@ -2159,15 +2159,23 @@ You can never Contact Your Patron. All members of the Company are sworn to maint
 Buildings are essential to the function of a Company; they come in two types: Core and Auxiliary. 
 #### Core Buildings
 Core buildings are constructed by default; each Company begins play with them.  If a Company does not have a Building's required Job, that Building *does not* function.
+
+Each Building also produces an Asset trait by consuming a Resource trait. This is called *production.* The trait is given, and the trait in (parentheses) is the Resource trait required to produce it.
 ##### Entertainments Theater
-The Entertainments Theater is a place where the Company comes together not as a team, but as a community. Some 
-**Asset Production:**
+The Entertainments Theater is a place where the Company comes together not as a team, but as a community. 
+
+Some Companies have a rich stage performance culture, while others use their Entertainments Theater as a place of brutal gladiatorial combat, sometimes even pitting warriors against captive Behemoths.
+
+Regardless of how your Company does it, the Theater is a place to be.
+**Asset Production:** Loyalty (Morale).
 ###### Entertainment Projects 
 **Name**
 ***Tier:***; ***Cost:***; ***Time:***;
 *Requirements:*
 #####  Garrison Barracks
-**Asset Production:**
+
+
+**Asset Production:** Means (Morale)
 ###### Training Projects 
 ##### Research Center
 **Asset Production:**
