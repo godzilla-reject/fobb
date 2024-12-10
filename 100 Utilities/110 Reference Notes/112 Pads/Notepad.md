@@ -415,5 +415,5 @@
 		- Patron
 			- Provides starting Asset traits.
 		- Creed
-			- Affects Building access. 
+
 

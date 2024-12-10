@@ -2157,23 +2157,37 @@ Your Company follows the Sellswords' Decree:
 You can never Contact Your Patron. All members of the Company are sworn to maintain the anonymous nature of your Patron, who only contacts you through roundabout, indirect methods, oftentimes with perilous tasks.
 ### Company Buildings
 #### Core Buildings
-##### Building: Entertainments Theater
-##### Entertainment Projects 
-##### Building: Garrison Barracks
-##### Training Projects 
-##### Building: Research Center
-##### Research Projects 
-##### Building: Alchemitory
-##### Alchemical Projects 
-##### Building: Central Kitchen
-##### Cooking Projects 
-##### Building: Grand Forge
-##### Arms and Armory Projects 
-##### Building: Commissions Office
-##### Commissions Projects 
-##### Building: Stockyard
-##### Inventory Projects 
-#### Auxiliary Bui
+Core buildings are constructed by default,
+##### Entertainments Theater
+###### Entertainment Projects 
+#####  Garrison Barracks
+###### Training Projects 
+##### Research Center
+###### Research Projects 
+#####  Alchemitory
+###### Alchemical Projects 
+#####  Central Kitchen
+###### Cooking Projects 
+##### Grand Forge
+###### Arms and Armory Projects 
+#####  Commissions Office
+###### Commissions Projects 
+##### Stockyard
+###### Inventory Projects 
+#### Auxiliary Buildings
+Auxiliary buildings are *not* constructed by default; instead, they must be built as a Project.  
+##### Name 
+**Construction Project:**
+##### Name 
+**Construction Project:**
+##### Name 
+**Construction Project:**
+##### Name 
+**Construction Project:**
+##### Name 
+**Construction Project:**
+##### Name 
+**Construction Project:**
 ## Progression
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
