@@ -2050,25 +2050,29 @@ Making a Banner is important, but if you don't have the time to brainstorm, tale
 ### Company Patrons
 When selecting a Patron, keep in mind all of the different Breakers; this is a shared aspect of their origin, and should be at least somewhat applicable to all players.
 #### Patron: Breaking League 
-***Wealth:*** 3
-**Means:**; **Wealth:**;
-**Influence:**; **Loyalty:**
+**Means: 3**; **Wealth: 2**;
+**Influence: 2**; **Loyalty: 3**
 ***Tenet:*** Breaker Code of Conduct
 Your Company was commissioned directly by the Breaking League itself, typically as a method to educate neophyte Breakers in the field. 
 #### Patron: Independent  
 ***Wealth:*** 1
+**Means: 3**; **Wealth: 0**;
+**Influence: 2**; **Loyalty: 5**
 ***Tenet:*** Declaration of Freedom
 Instead of an actual Patron, your Company is truly independent; you operate outside of League influence, instead staking it out on your own. This results in low Wealth, yet freedom that only the lack of rules could give.
 #### Patron: City-State
-***Wealth:*** 4
+**Means: 3**; **Wealth: 2**;
+**Influence: 2**; **Loyalty: 3**
 ***Tenet:*** Duty of Care
 Your Company is bankrolled by a city-state as a dedicated Behemoth-slaying regiment. These are commonly reserved for large, powerful city-states, though almost all city-states found on the frontier of the Harrowlands also employ them.
 #### Patron: Wealthy Aristocrat
-***Wealth:*** 4
+**Means: 0**; **Wealth: 5**;
+**Influence: 5**; **Loyalty: 0**
 ***Tenet:*** Pact of Particular Obligations
 Your Company's Patron is a wealthy noble, royal or some other aristocrat that allegedly wants a piece of the growing Behemoth part trade. They have particular requests, odd mannerisms and definitely an ulterior motive.
 #### Patron: Breakers-For-Hire
-***Wealth:*** 4
+**Means: 2**; **Wealth: 3**;
+**Influence: 2**; **Loyalty: 3**
 ***Tenet:*** Sellwords' Decree
 Your Company is a mercenary company; you make your crowns by traveling from city-state to city-state, offering your services to them. While you are largely independent, you are still bound to Breaking League regulations, as well as the Mercantile League.
 #### Patron: Anonymous Benefactor
@@ -2126,24 +2130,25 @@ All School-taught Breakers are educated on the Breaker Code, but few rarely foll
 1. Put your Fellow Breaker above All 
 2. Hunt from necessity, not desire.
 3. Nature before mortals, mortals before Behemoth.
-Your Company gains +1 to starting Knowledge.
+
 **Declaration of Freedom**
 Your Company abides by your own rules. Work together to pen three cardinal rules for your Company. 
-Due to the fact you have no Patron past yourself and your fellow Breakers, you cannot Contact Your Patron during downtime.Your Company also gains +1 to starting Knowledge, Reputation and Morale.
+Due to the fact you have no Patron past yourself and your fellow Breakers, you cannot Contact Your Patron during downtime. 
+
 **Duty of Care**
 Your Company must "put the wellbeing of the City-State above all else." You also cannot travel outside of your City-State's territory without express permission.
-Your Company gains a +2 bonus to starting  Reputation, but a -2 penalty to starting Knowledge, to represent your greater influence with your city-state and lack of information due to being on the fringe of civilization. 
+
 **Pact of Particular Obligations**
 Your Company's Patron sets forth an odd stipulation of a sort, which will be given to you by the Fable-Maker. 
-Your Company gains a +2 bonus to starting Knowledge, but a -2 penalty to starting Reputation, to represent your Patron's esoteric knowledge and social stigma. 
+
 **Sellswords' Decree**
 Your Company follows the Sellswords' Decree: 
 1. Never work for free.
 2. Always split profits with equity.
 3. Seek crowns before favors.
-If your Company's Wealth is below 4, it automatically becomes demoralized.
-**Vow of Perfect Anonymity**
 
+**Vow of Perfect Anonymity**
+You can never Contact Your Patron. All members of the Company are sworn to maintain the anonymous nature of your Patron, who only contacts you through roundabout, indirect methods, oftentimes with perilous tasks.
 ### Company Areas
 #### Job: Entertainments Master
 ##### Building: Tavern Hall
