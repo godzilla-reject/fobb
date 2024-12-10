@@ -2156,10 +2156,14 @@ Your Company follows the Sellswords' Decree:
 **Vow of Perfect Anonymity**
 You can never Contact Your Patron. All members of the Company are sworn to maintain the anonymous nature of your Patron, who only contacts you through roundabout, indirect methods, oftentimes with perilous tasks.
 ### Company Buildings
+Buildings are essential to the function of a Company; they 
 #### Core Buildings
-Core buildings are constructed by default,
+Core buildings are constructed by default; each Company begins play with them. 
 ##### Entertainments Theater
 ###### Entertainment Projects 
+**Name**
+***Tier:***; ***Cost:***; ***Time:***;
+*Requirements:*
 #####  Garrison Barracks
 ###### Training Projects 
 ##### Research Center
@@ -2178,16 +2182,22 @@ Core buildings are constructed by default,
 Auxiliary buildings are *not* constructed by default; instead, they must be built as a Project.  
 ##### Name 
 **Construction Project:**
+***Tier:***; ***Cost:***; ***Time:***;
 ##### Name 
 **Construction Project:**
+***Tier:***; ***Cost:***; ***Time:***;
 ##### Name 
 **Construction Project:**
+***Tier:***; ***Cost:***; ***Time:***;
 ##### Name 
 **Construction Project:**
+***Tier:***; ***Cost:***; ***Time:***;
 ##### Name 
 **Construction Project:**
+***Tier:***; ***Cost:***; ***Time:***;
 ##### Name 
 **Construction Project:**
+***Tier:***; ***Cost:***; ***Time:***;
 ## Progression
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
