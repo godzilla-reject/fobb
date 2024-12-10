@@ -2541,7 +2541,7 @@ These are the most common exploration activities.
 #### Camping 
 ### Company-Scale
 When the game is at this scale, the world is a bit more "zoomed out;" your Breaker is still important, and their singular actions and intent still have real weight, but the game also takes a look at the bigger picture of both the world and the Company. 
-###
+#### Preparation
 #### Downtime
 
 # *Book 2: The Fable-Maker*
