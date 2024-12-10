@@ -404,4 +404,8 @@
 		- Resource Traits: 
 			- Materials: Raw, unrefined materials.
 			- Morale: The general disposition of the Company.
+		- Auxiliary Traits:
+			- Favors: Created by the Smuggler's Den; can be spent on
+			- Sacrifices:
+			- 
 	- Auxiliary Buildings generate traits for free.
