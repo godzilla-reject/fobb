@@ -1,21 +1,6 @@
 ---
 tags: list
 ---
-
-- **Arcane Energy**
-- **Arcane Restoration**
-- **Armor Potency**
-- **Attack Potency**
-- **Bloodletter**
-- **Energy Restoration**
-- **Evasion Potency**
-- **Guard Potency**
-- **Iron Wall**
-- **Mana Boost**
-- **Sly Dodger**
-- **Stamina Boost**
-- **Vitality Boost**
----
 - List ^0f2b12
 	- **Arcane Energy** *Level Cap: 2* Any Stamina cost you pay is instead paid with Mana. At level 2 of this Perk, you gain +2 Mana Regeneration. 
 	- **Arcane Restoration** *Level Cap: 3* For every level of this Perk, you gain +1 Mana Regeneration.
@@ -30,3 +15,4 @@ tags: list
 	- **Sly Dodger** *Level Cap: 1* Whenever you *completely* **Dodge** an attack, your next attack deals another die of damage.
 	- **Stamina Boost** *Level Cap: 3* Increase your Base Stamina by your level in this Perk. At level 3 of this Perk, you can still use *Intensive* actions when winded.
 	- **Vitality Boost** *Level Cap: 3* Increase your Base Health by your level in this Perk. At level 3 of this Perk, double all healing you receive when bloodied.
+	- 

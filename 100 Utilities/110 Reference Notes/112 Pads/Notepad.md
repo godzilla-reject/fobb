@@ -403,6 +403,7 @@
 		- Auxiliary Buildings
 			- The Smugglers' Den 
 				- Unique armor set and weapons.
+					- 
 				- Unique options for:
 					- Auspex
 					- Shinobi
