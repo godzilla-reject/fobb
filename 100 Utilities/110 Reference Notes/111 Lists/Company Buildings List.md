@@ -2,7 +2,7 @@
 tags: list
 ---
 - Core Buildings
-	- Tavern Hall
+	- Entertainments Theater
 		- Entertainments Master
 	- Garrison Barracks
 		- Garrison Commander
@@ -22,7 +22,7 @@ tags: list
 	- Consecrated Temple
 		- Becomes Desecrated Temple with Pactbound Set.
 		- Generates Morale.
-	- Worker's Dormitory
+	- Labor Union
 		- Generates Materials.
 	- World Table
 		- Becomes the Round Table with Oathbound Set.
@@ -30,7 +30,7 @@ tags: list
 	- Trading Post 
 		- Becomes Smuggler's Den with Thiefbound Set.
 		- Generates Wealth.
-	- Placeholder Building
+	- Tavern Hall
 		- Generates Loyalty.
-	- Placeholder Building
+	- Worker's Dormitory
 		- Generates Means.
