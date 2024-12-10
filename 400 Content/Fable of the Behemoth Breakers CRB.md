@@ -2130,9 +2130,6 @@ Project Wealth costs are decreased; increased Morale Production costs.
 Auxiliary Area: Trading Post; becomes Smuggler's Den with Thiefbound Set.
 
 
-
-
-
 #### Patron Tenets
 **Breaker Code of Conduct**
 All School-taught Breakers are educated on the Breaker Code, but few rarely follow it without League enforcement. As an official Breaking League Company, however, you follow the Three Cardinals of Conduct to the tee. These are not the *only* rules in the Code of Conduct, but reproducing that would require a whole other book.
@@ -2158,34 +2155,25 @@ Your Company follows the Sellswords' Decree:
 
 **Vow of Perfect Anonymity**
 You can never Contact Your Patron. All members of the Company are sworn to maintain the anonymous nature of your Patron, who only contacts you through roundabout, indirect methods, oftentimes with perilous tasks.
-### Company Areas
-#### Job: Entertainments Master
-##### Building: Tavern Hall
+### Company Buildings
+#### Core Buildings
+##### Building: Entertainments Theater
 ##### Entertainment Projects 
-#### Job: Garrison Commander
 ##### Building: Garrison Barracks
 ##### Training Projects 
-#### Job: Head Researcher
 ##### Building: Research Center
 ##### Research Projects 
-#### Job: Lead Apothecary
 ##### Building: Alchemitory
 ##### Alchemical Projects 
-#### Job: Master Chef
 ##### Building: Central Kitchen
 ##### Cooking Projects 
-#### Job: Master Smithy
 ##### Building: Grand Forge
 ##### Arms and Armory Projects 
-#### Job: Prime Commissioner
 ##### Building: Commissions Office
 ##### Commissions Projects 
-#### Job: Quartermaster
 ##### Building: Stockyard
 ##### Inventory Projects 
-### Auxiliary Areas
-### Company Manpower
-
+#### Auxiliary Bui
 ## Progression
 # Part 3: Playing The Game 
 ## Matters of Life and Death 
