@@ -315,8 +315,9 @@ The general disposition of the average common laborer of a Company. Keeping them
 ### Auxiliary Traits
 These traits are unique, harder to come by, and can be used to pay for different forms of costs.
 #### Favors 
+Debts incurred to the Guildmaster of the Smugglers' Den; can be spent on Wealth and Materials costs.
 #### Sacrifices
-Sacrifices (Behemoth, animal *and* mortalkind) made to appease and despoil the Umber Gods
+Sacrifices (Behemoth, animal *and* mortalkind) made at the Desecrated Temple to appease and despoil in the name of the Umberwynds; can be spent on Influence and Morale costs.
 #### Reputation 
 The fame of a Company that lives by the Oath of the Round Table; can be spent on Loyalty and Morale costs.
 # Part 2: A Company of  Behemoth Breakers
