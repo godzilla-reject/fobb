@@ -307,14 +307,18 @@ This is how much the Company knows, as well as how fast it learns. When world ev
 #### Loyalty
 This is the dedication of the members of the Company. Low Loyalty means a Company refuses to work and/or is suffering from poor leadership.
 ### Resource Traits 
-These traits "move fast;" they come and go with alarming 
+These traits "move fast;" they come and go regularly.
 #### Materials 
+Raw, unrefined materials that contribute to the construction of infrastructure and the generation of crowns.
 #### Morale
+The general disposition of the average common laborer of a Company. Keeping them happy is how the Company grows.
 ### Auxiliary Traits
-#### 
-####
-#### 
-####
+These traits are unique, harder to come by, and can be used to pay for different forms of costs.
+#### Favors 
+#### Sacrifices
+Sacrifices (Behemoth, animal *and* mortalkind) made to appease and despoil the Umber Gods
+#### Reputation 
+The fame of a Company that lives by the Oath of the Round Table; can be spent on Loyalty and Morale costs.
 # Part 2: A Company of  Behemoth Breakers
 ## Before You Begin 
 Before you sit down and begin writing things on the paper or typing out things on a PDF, keep a few things in mind.
