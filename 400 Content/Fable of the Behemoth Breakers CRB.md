@@ -2173,7 +2173,7 @@ Regardless of how your Company does it, the Theater is a place to be.
 ***Tier:***; ***Cost:***; ***Time:***;
 *Requirements:*
 #####  Garrison Barracks
-
+As soldiers against the Behemoth threat, Breakers are housed 
 
 **Asset Production:** Means (Morale)
 ###### Training Projects 
@@ -2379,7 +2379,9 @@ Unless stated, the creature at the center of the emanation can choose to be affe
 #### Line
 Line effects simply shoot forth from the center of your space, in a direction of choice, affecting all that it intersects with. Unless stated, lines are always only 1 space wide.
 ## Modes of Play 
-### Engagement
+### Breaker-Scale
+When the game is at this scale, things are *personal*. Your Breakers are in the field, fighting Behemoths and hunkered down in camp. Time is "dialed in" to the moment-to-moment or hour-to-hour.
+#### Engagement
 An engagement is a series of rounds in which Breakers, Behemoths and occasionally other participants act in sequence. Participants are ranked in order of initiative to determine the sequence they act in, and then they take their turns in this order until the engagement ends. The rules in this section assume a hunting engagement, or a battle with a Behemoth, but the structure can be applied to any engagement. 
 ##### Step 1: Rank Initiative
 When your Fable-Maker calls for it, you'll roll initiative to determine your place within the engagement order, otherwise called the initiative order. This order is the sequence in which participants act in. The engagement begins when you roll initiative. 
@@ -2399,13 +2401,13 @@ At the start of the *first* round
 Once everyone in the encounter has taken a turn, the round is over and the next one begins. Initiative is not re-rolled (except in very special circumstances); the new round proceeds in the same order, over and over until the engagement is over. 
 ##### Step 4: End the Encounter 
 When the Behemoth runs, is slain or some other resolution is reached, the engagement ends. You then exit engagement mode; typically, the game goes into exploration mode. At the end of a hunt, the Fable-Maker will award Skill Points, Trait Points, or even a Tier increase, if the requirements are met!
-#### Turns
+##### Turns
 When its your turn to act, you can use any amount of actions as long as you have the AP to do so. 
 
 When you've spent all of your AP, your turn ends and the next character in the initiative order begins their turn. 
 
 In order to better understand a turn, it is divided into three steps, or phases.
-##### Phase 1: Start
+###### Phase 1: Start
 There are many things that might happen at the start of your turn, as it is common point of time tracking for the passage of time. This phase consists of the following steps, which can be performed in any order.
 1. Reduce the remaining duration of any effects you created that last for a duration of rounds. 
 2. Use up to 1 free action or reaction with a trigger of "Your turn begins" or similar. 
@@ -2413,27 +2415,27 @@ There are many things that might happen at the start of your turn, as it is comm
 
 Regardless of the order you took the aforementioned steps, the following is always the final step you take during this phase.
 4. Regain your 6 AP and 2 RP. If you have any remaining RP from your last turn, you lose them. They do not "roll over." Some abilities and conditions can alter how many AP and RP you get.
-##### Phase 2: Act 
+###### Phase 2: Act 
 You can use actions in any order you wish, as long as you have the AP or RP to cover them. You must complete one action fully before beginning another, however. 
 
 Once you've spent all of your AP, your turn ends. You can choose to terminate your turn early, which causes you to lose your remaining AP (but not RP.)
-##### Phase 3: End 
+###### Phase 3: End 
 Now that you've acted, you reach the end of your turn. Take the following steps in any order.
 1. End any effects that last until the end of your turn.
 2. Take any persistent damage you might have, such as from a condition or ability. Then, make any tests you need to in order to attempt to end those effects.
 3. Use up to 1 free action with the trigger of "Your turn ends."
 4. Resolve anything else that happens at the end of your turn. 
-#### Activities in Engagements
+##### Activities in Engagements
 Any activity that takes longer than 1 turn to perform cannot typically be used during an engagement. When you commit to an activity during your turn, you commit to all the required actions; if an action is interrupted, you lose any AP spent on it.
-#### Reactions in Engagements
+##### Reactions in Engagements
 Reactions allow you to respond immediately to what is currently happening. Typically, 
-### Exploration
+#### Exploration
 Exploration mainly focuses on movement throughout an environment and roleplay, unlike engagements. Most commonly, Breakers will be in Exploration mode when tracking a Behemoth through a hunting locale, but other times they might be exploring include traveling from one region to another with their Company, scouting out new hunting locales or venturing to a city-state or settlement to meet with other Companies or League officials. Rather than measuring movement in spaces, it is measured in *miles-per-hour*. This is *not* diegetic, but it is much easier to present the information in this manner than it is to teach you a new system of measurement. 
 
 In exploration mode, while things are less granular than in an engagement, things are still compartmentalized somewhat to allow for easier understanding, both on the player and Fable-Maker. While in exploration mode, each member of the hunting party fills a specified role. These roles are not "set in stone;" multiple different hunting party members can swap between them during any given exploration scene, or even in the midst of one. In essence, exploration roles are there to help the Fable-Maker get an idea of what each Breaker is doing generally, with each role's Exploration activities informing the table what each Breaker is doing specifically.
 
 After a long day of exploration engagements on the hunt, it might be necessary to rest and make Camp.  
-#### Travel Speed 
+##### Travel Speed 
 The rate at which you can travel is relative to your Move trait. The rates are given in the chart below. 
 
 | Move  | Spaces-per-Minute | Miles-per-hour | Miles-per-Day |
@@ -2451,7 +2453,7 @@ The rate at which you can travel is relative to your Move trait. The rates are g
 Movement rates are the "pace" at which an exploration scene moves; if a scene is in spaces-per-minute, then each moment, or beat, is about a minute long. The same is true for miles-per-hour and miles-per-day.
 
 These rates assume that the traveler is moving over flat, even and clear terrain, at a brisk pace that is not exhausting. Moving over difficult terrain cuts these rates in half and harsh difficult terrain reduces it to one-third of the listed amount. If travel is through perilous terrain, that terrain's test must be made once every increment (hour or day.) 
-#### Exploration Roles 
+##### Exploration Roles 
 At the start of any given exploration scene, commonly after the Fable-Maker asks "Who's doing what?" each Breaker will need to fill a role. These roles within a hunting party are apart of League Breaker training; all Breakers simply know how to do them as a part of their skill set for Breaking. Different Breakers might be better at one role than another however, but don't let this shoehorn you into always doing that role! If you want to try scouting instead of gathering for once, just ask your hunting party.
 
 Each of the four roles listed must be filled, but one Breaker can do up to two at once (in case of an incapacitated Breaker.) This is the diegetic reason for there to be at least four Breakers per hunting party, as the League deems these roles mandatory when in the field for proper safety. Once each role has been claimed, any additional Breaker is free to double-up on one or more of the roles, or do something else entirely. It is considered good etiquette to always take a role, however. 
@@ -2534,8 +2536,11 @@ These are the most common exploration activities.
 ###### Investigate 
 ###### Track 
 ###### Hustle
-### Camping 
-### Downtime
+#### Camping 
+### Company-Scale
+When the game is at this scale
+#### Downtime
+
 # *Book 2: The Fable-Maker*
 # Part 4: Running The Game
 # Part 5:  Fable-Maker's Resources
