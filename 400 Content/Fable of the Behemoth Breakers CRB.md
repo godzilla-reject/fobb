@@ -2089,13 +2089,13 @@ Set effects often change how core Company buildings and projects work, so be sur
 ##### Pactbound Tenets
 *Set Requirements:* 3 Pact tenets; Duty to the Temple tenet.
 *Set Effect:* When Knowledge increases, Reputation also increases by 1. The opposite is also true.
-**Blood Augury Pact**
+**The Blood Augury Pact**
 Augments the Research Center.
-**Faustian Pact**
+**The Faustian Pact**
 Augments the Alchemitory.
-**Hephaestian Pact**
+**The Hephaestian Pact**
 Augments the Grand Forge. 
-** Tenet**
+**The Ravensquall Pact**
 Project Influence costs are decreased; increased Materials Production costs.
 ##### Oathbound Tenets
 *Set Requirements:* 1 Code and 1 Duty tenet; Oath of the World Table

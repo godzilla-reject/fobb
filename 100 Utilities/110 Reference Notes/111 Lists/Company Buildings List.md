@@ -21,7 +21,11 @@ tags: list
 - Auxiliary Buildings
 	- Consecrated Temple
 		- Becomes Desecrated Temple with Pactbound Set.
+		- Generates Morale.
 	- World Table
 		- Becomes the Round Table with Oathbound Set.
+		- Generates Influence.
 	- Trading Post 
 		- Becomes Smuggler's Den with Thiefbound Set.
+		- Generates Wealth.
+	- 
