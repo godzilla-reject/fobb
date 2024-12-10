@@ -2156,17 +2156,21 @@ Your Company follows the Sellswords' Decree:
 **Vow of Perfect Anonymity**
 You can never Contact Your Patron. All members of the Company are sworn to maintain the anonymous nature of your Patron, who only contacts you through roundabout, indirect methods, oftentimes with perilous tasks.
 ### Company Buildings
-Buildings are essential to the function of a Company; they 
+Buildings are essential to the function of a Company; they come in two types: Core and Auxiliary. 
 #### Core Buildings
-Core buildings are constructed by default; each Company begins play with them. 
+Core buildings are constructed by default; each Company begins play with them.  If a Company does not have a Building's required Job, that Building *does not* function.
 ##### Entertainments Theater
+The Entertainments Theater is a place where the Company comes together not as a team, but as a community. Some 
+**Asset Production:**
 ###### Entertainment Projects 
 **Name**
 ***Tier:***; ***Cost:***; ***Time:***;
 *Requirements:*
 #####  Garrison Barracks
+**Asset Production:**
 ###### Training Projects 
 ##### Research Center
+**Asset Production:**
 ###### Research Projects 
 #####  Alchemitory
 ###### Alchemical Projects 
