@@ -394,4 +394,4 @@
 		- Auxiliary Buildings
 
 - Company 
-	- 
+	- Means: the measure of 
