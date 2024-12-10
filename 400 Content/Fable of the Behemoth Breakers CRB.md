@@ -297,15 +297,17 @@ A Breaker's starting Move is the result of **4** + (**Size**×2) plus an additio
 ## Company Traits 
 Much like Breakers, the Company they are apart of has traits as well. Companies and Breakers will be explained more in Part 2, but for now its important that you understand the traits that a Company has.
 ### Asset  Traits 
+These traits are the slow-to-move aspects of a Company that fuel Projects.
 #### Wealth 
-This is the amount of money the Company has access to.
+This is the amount of money the Company has access to. Low Wealth means that a Company cannot pay its workers, trade partners and the Breaker League.
 #### Means
-This is the people power, land and infrastructure the Company possesses. 
+This is the people-power, land and infrastructure the Company possesses. Low Means runs the risk of stalling out a Company's means of generating Wealth and fielding Breakers.
 #### Influence 
-This is how much the Company knows, as well as how fast it learns. When world events occur, highly Influential Companies learn of it first. 
+This is how much the Company knows, as well as how fast it learns. When world events occur, highly Influential Companies learn of it first. Low Influence puts a Company at risk of being left out of pressing world news.
 #### Loyalty
-This is the dedication of the members of the Company. Low Loy
-### Derived Traits 
+This is the dedication of the members of the Company. Low Loyalty means a Company refuses to work and/or is suffering from poor leadership.
+### Resource Traits 
+These traits "move fast;" they come and go with alarming 
 #### Materials 
 #### Morale
 ### Auxiliary Traits
