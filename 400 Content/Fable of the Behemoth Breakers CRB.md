@@ -2140,10 +2140,16 @@ Your Company puts community and fellowship above most else:
 Your Company's Project Loyalty costs are decreased by 1 (times Tier Value), but Materials Production costs are increased by the same amount.
 
 **Duty to the Temple**
-Your Company is highly religious, and
-Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also has three Pact tenets.
+Your Company is highly religious, and shares a common religious zeal. Work with your Fable-Maker to establish which Exaltwynd (or Umberwynd) your Company worships, and how that affects the Creed.
+
+Your Company begins play with the Consecrated Temple auxiliary building already constructed.
+
 **Oath of the World Table**
-Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 Duty tenets.
+Your Company is highly in-tune with the goings-on in its realm of influence:
+"I vow to keep my eye on the land, ear to the water and hands to the sky."
+
+Your Company begins play with the World Table auxiliary building already constructed.
+
 **Oath of the Legion**
 Project Means costs are decreased; increased Morale Production costs.
 ##### Thiefbound Tenets
