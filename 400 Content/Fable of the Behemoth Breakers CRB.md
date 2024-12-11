@@ -2094,6 +2094,8 @@ Augments the Research Center.
 **The Faustian Pact**
 Augments the Alchemitory.
 **The Hephaestian Pact**
+Your Company has made a pact with He
+
 Augments the Grand Forge. 
 **The Ravensquall Pact**
 Your Company has made a pact with the Ravensquall, one of the Umberwynds:
@@ -2101,7 +2103,7 @@ Your Company has made a pact with the Ravensquall, one of the Umberwynds:
 
 As a result of this pact, Project Influence costs are decreased by 1 (times Tier Value), but Materials Production costs are increased by the same amount.
 ##### Oathbound Tenets
-*Set Requirements:* 1 Code and 1 Duty tenet; Oath of the World Table
+*Set Requirements:* 1 Code, 1 Duty and 2 Oath tenets; Oath of the World Table
 *Set Effect:* When Reputation increases, Morale also increases by 1. The opposite is also true.
 **Code of Chivalry**
 Augments the Commissions Office.
