@@ -2093,8 +2093,8 @@ Set effects often change how core Company buildings and projects work, so be sur
 Your Company has infused a pact with the Harrowed Eye, the Umberwynd of Bleeding Sight:
 "Swear to gaze upon the Right Eye of Futures; show the world your Left Eye of Pasts."
 
-Your Company's Research Center is replaced with the Font of Auguries, a place 
-Augments the Research Center.
+Your Company's Research Center is replaced with the Font of Auguries, a place where Blood Oracles research via casting sights with blood of all kinds.
+
 **The Faustian Pact**
 Your Company has penned a pact with Anodain Faust, the Umberwynd of Bleak Bargains:
 "Swear to strike Bleak Bargains; show the world your Mournful Regret."
@@ -2105,7 +2105,7 @@ Your Company's Alchemitory becomes the deal-struck, blood-fueled Hemachemitory, 
 Your Company has forged a pact with Hephaeston, the Umberwynd of the Conflagration Forge:
 "Swear to percuss the Blazing Anvil; show the world your Burning Hammer."
 
-Your Company's Grand Forge becomes the lava-fueled, ever-burning Conflagration Forge, which gives you access to new Projects.
+Your Company's Grand Forge becomes the blood-and-lava fueled, ever-burning Conflagration Forge, which gives you access to new Projects.
 
 **The Ravensquall Pact**
 Your Company has whispered a pact with the Ravensquall, the Umberwynd of Gilded Secrets:
@@ -2114,7 +2114,7 @@ Your Company has whispered a pact with the Ravensquall, the Umberwynd of Gilded 
 As a result of this pact, Project Influence costs are decreased by 1 (times Tier Value), but Materials Production costs are increased by the same amount.
 ##### Oathbound Tenets
 *Set Requirements:* 1 Code, 1 Duty and 2 Oath tenets; Oath of the World Table
-*Set Effect:* When Reputation increases, Morale also increases by 1. The opposite is also true.
+*Set Effect:* Your Company's World Table building becomes 
 **Code of Chivalry**
 Augments the Commissions Office.
 **Code of Ninshidō**
