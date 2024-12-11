@@ -2099,7 +2099,7 @@ Augments the Grand Forge.
 Your Company has made a pact with the Ravensquall, one of the Umberwynds:
 "Swear to sing the Hushed Whisper; show the world Silver Wings."
 
-Project Influence costs are decreased; increased Materials Production costs.
+As a result of this pact, Project Influence costs are decreased by 1 (times Tier Value), but Materials Production costs are increased by the same amount.
 ##### Oathbound Tenets
 *Set Requirements:* 1 Code and 1 Duty tenet; Oath of the World Table
 *Set Effect:* When Reputation increases, Morale also increases by 1. The opposite is also true.
