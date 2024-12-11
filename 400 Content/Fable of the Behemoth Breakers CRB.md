@@ -2155,11 +2155,14 @@ Your Company swears to keep well-trained forces at the muster:
 "It is our oath, as legion, to protect our realm by virtue of keeping a well-stocked and well-armed militia at muster."
 
 Your Company's Project Means costs are decreased by 1 (times Tier Value), but Morale Production costs are increased by the same amount.
-Project Means costs are decreased; increased Morale Production costs.
+
 ##### Thiefbound Tenets
 *Set Requirements:* Anonymous Benefactor patron; 3 Vow tenets; Mercantile Decree tenet.
-*Set Effect:* When Wealth increases, Reputation also increases by 1. The opposite is also true.
+*Set Effect:* Your Company's Trading Post building becomes the Smugglers' Den.
 **Vow of Poisoned Cups** 
+
+
+Your Company's Entertainments Theater be
 Augments the Tavern Hall
 **Vow of Smuggled Gold**
 Augments the Stockyard
