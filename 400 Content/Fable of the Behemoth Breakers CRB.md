@@ -2116,8 +2116,17 @@ As a result of this pact, Project Influence costs are decreased by 1 (times Tier
 *Set Requirements:* 1 Code, 1 Duty and 2 Oath tenets; Oath of the World Table
 *Set Effect:* Your Company's World Table building becomes the Round Table.
 **Code of Chivalry**
-Augments the Commissions Office.
+Your Company follows the Code of Chivalry:
+1. Death before Dishonor
+2. Protect the Realm entrusted to you.
+3. Serve your Lords and their Manors.
+4. Slay any Behemoth put before you.
+
+Your Company's Commissions Office gains access to new Projects.
+
 **Code of Ninshidō**
+Your Company follows the Code of Ninshidō:
+1. 
 Augments the Garrison Barracks.
 **Duty to the Fellowship**
 Project Loyalty costs are decreased; increased Materials Production costs.
