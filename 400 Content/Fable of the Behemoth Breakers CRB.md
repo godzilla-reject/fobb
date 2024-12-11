@@ -2151,6 +2151,10 @@ Your Company is highly in-tune with the goings-on in its realm of influence:
 Your Company begins play with the World Table auxiliary building already constructed.
 
 **Oath of the Legion**
+Your Company swears to keep well-trained forces at the muster:
+"It is our oath, as legion, to protect our realm by virtue of keeping a well-stocked and well-armed militia at muster."
+
+Your Company's Project Means costs are decreased by 1 (times Tier Value), but Morale Production costs are increased by the same amount.
 Project Means costs are decreased; increased Morale Production costs.
 ##### Thiefbound Tenets
 *Set Requirements:* Anonymous Benefactor patron; 3 Vow tenets; Mercantile Decree tenet.
