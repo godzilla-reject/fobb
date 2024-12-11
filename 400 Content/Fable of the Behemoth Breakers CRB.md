@@ -2088,8 +2088,12 @@ These are the tenets that Breakers can choose from when drafting the Company Cre
 Set effects often change how core Company buildings and projects work, so be sure to discuss them thoroughly. If your Company meets the requirement of a set, you *have* that set effect; they are not optional.
 ##### Pactbound Tenets
 *Set Requirements:* 3 Pact tenets; Duty to the Temple tenet.
-*Set Effect:* Your Company's Consecrated Temple building becomes the Desc
+*Set Effect:* Your Company's Consecrated Temple building becomes the Desecrated Temple. 
 **The Blood Augury Pact**
+Your Company has infused a pact with the Harrowed Eye, the Umberwynd of Bleeding Sight:
+"Swear to gaze upon the Right Eye of Futures; show the world your Left Eye of Pasts."
+
+Your Company's Research Center is replaced with the Font of Auguries, a place 
 Augments the Research Center.
 **The Faustian Pact**
 Your Company has penned a pact with Anodain Faust, the Umberwynd of Bleak Bargains:
