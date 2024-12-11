@@ -2019,7 +2019,7 @@ After manpower is allocated, your Company's Morale is 3 (barring any Patron or C
 **Finish Up**
 With all of your pieces in place, its time to fill out flavor: founding location, Jobber NPCs and anything else that might've been skipped or looked over. Once all of this is done, you have your Breakers and their Company, meaning its time to commission a license, scout a locale and begin the hunt! 
 ## The Company 
-These are the mechanics for creating a Company.
+These are the mechanics for a Company.
 ### Company Name
 Every good Company needs a name. Here is a chart you can use to randomly generate a name (or use as inspiration):
 
