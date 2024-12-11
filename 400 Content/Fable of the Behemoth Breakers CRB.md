@@ -2159,14 +2159,14 @@ Your Company's Project Means costs are decreased by 1 (times Tier Value), but Mo
 ##### Thiefbound Tenets
 *Set Requirements:* Anonymous Benefactor patron; 3 Vow tenets; Mercantile Decree tenet.
 *Set Effect:* Your Company's Trading Post building becomes the Smugglers' Den.
-**Vow of Poisoned Cups** 
+**Vow of Whispered Rumors** 
 
 
-Your Company's Entertainments Theater be
+Your Company's Entertainments Theater becomes the Political Theater. 
 Augments the Tavern Hall
 **Vow of Smuggled Gold**
 Augments the Stockyard
-**Vow of Whispered Rumors**
+**Vow of Poisoned Cups**
 Augments the Central Kitchen
 ##### Goldbound Tenets
 *Set Requirements:* 3 Decree Tenets.
