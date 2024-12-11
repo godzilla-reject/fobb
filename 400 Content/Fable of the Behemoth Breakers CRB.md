@@ -2092,17 +2092,19 @@ Set effects often change how core Company buildings and projects work, so be sur
 **The Blood Augury Pact**
 Augments the Research Center.
 **The Faustian Pact**
-Your Company has penned a pact with 
+Your Company has penned a pact with Anodain Faust, the Umberwynd of Bleak Bargains:
+"Swear to strike Bleak Bargains; show the world your Mournful Regret."
 
+Your Company's Alchemitory becomes the Hemachemitory, 
 Augments the Alchemitory.
 **The Hephaestian Pact**
-Your Company has forged a pact with Hephaeston, the Umberwynd of the Forge:
-"Swear to percuss the Burning Hammer; show the world your Blazing Anvil."
+Your Company has forged a pact with Hephaeston, the Umberwynd of the Conflagration Forge:
+"Swear to percuss the Blazing Anvil; show the world your Burning Hammer."
 
 Your Company's Grand Forge becomes the lava-fueled, ever-burning Conflagration Forge, which gives you access to new Projects.
 
 **The Ravensquall Pact**
-Your Company has whispered a pact with the Ravensquall, the Umberwynds:
+Your Company has whispered a pact with the Ravensquall, the Umberwynd of Gilded Secrets:
 "Swear to sing the Hushed Whisper; show the world your Silver Wings."
 
 As a result of this pact, Project Influence costs are decreased by 1 (times Tier Value), but Materials Production costs are increased by the same amount.
