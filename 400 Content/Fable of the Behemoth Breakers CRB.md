@@ -2114,7 +2114,7 @@ Your Company has whispered a pact with the Ravensquall, the Umberwynd of Gilded 
 As a result of this pact, Project Influence costs are decreased by 1 (times Tier Value), but Materials Production costs are increased by the same amount.
 ##### Oathbound Tenets
 *Set Requirements:* 1 Code, 1 Duty and 2 Oath tenets; Oath of the World Table
-*Set Effect:* Your Company's World Table building becomes 
+*Set Effect:* Your Company's World Table building becomes the Round Table.
 **Code of Chivalry**
 Augments the Commissions Office.
 **Code of Ninshidō**
