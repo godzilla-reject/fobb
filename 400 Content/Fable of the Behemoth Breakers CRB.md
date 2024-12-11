@@ -2096,6 +2096,9 @@ Augments the Alchemitory.
 **The Hephaestian Pact**
 Augments the Grand Forge. 
 **The Ravensquall Pact**
+Your Company has made a pact with the Ravensquall, one of the Umberwynds:
+"Swear to sing the Hushed Whisper; show the world Silver Wings."
+
 Project Influence costs are decreased; increased Materials Production costs.
 ##### Oathbound Tenets
 *Set Requirements:* 1 Code and 1 Duty tenet; Oath of the World Table
