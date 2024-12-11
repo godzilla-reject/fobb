@@ -2088,15 +2088,15 @@ These are the tenets that Breakers can choose from when drafting the Company Cre
 Set effects often change how core Company buildings and projects work, so be sure to discuss them thoroughly. If your Company meets the requirement of a set, you *have* that set effect; they are not optional.
 ##### Pactbound Tenets
 *Set Requirements:* 3 Pact tenets; Duty to the Temple tenet.
-*Set Effect:* When Knowledge increases, Reputation also increases by 1. The opposite is also true.
+*Set Effect:* Your Company's Consecrated Temple building becomes the Desc
 **The Blood Augury Pact**
 Augments the Research Center.
 **The Faustian Pact**
 Your Company has penned a pact with Anodain Faust, the Umberwynd of Bleak Bargains:
 "Swear to strike Bleak Bargains; show the world your Mournful Regret."
 
-Your Company's Alchemitory becomes the Hemachemitory, 
-Augments the Alchemitory.
+Your Company's Alchemitory becomes the deal-struck, blood-fueled Hemachemitory, which gives you access to new Projects.
+
 **The Hephaestian Pact**
 Your Company has forged a pact with Hephaeston, the Umberwynd of the Conflagration Forge:
 "Swear to percuss the Blazing Anvil; show the world your Burning Hammer."
