@@ -2111,7 +2111,7 @@ Your Company's Grand Forge becomes the blood-and-lava fueled, ever-burning Confl
 Your Company has whispered a pact with the Ravensquall, the Umberwynd of Gilded Secrets:
 "Swear to sing the Hushed Whisper; show the world your Silver Wings."
 
-As a result of this pact, Project Influence costs are decreased by 1 (times Tier Value), but Materials Production costs are increased by the same amount.
+Your Company's Project Influence costs are decreased by 1 (times Tier Value), but Materials Production costs are increased by the same amount.
 ##### Oathbound Tenets
 *Set Requirements:* 1 Code, 1 Duty and 2 Oath tenets; Oath of the World Table
 *Set Effect:* Your Company's World Table building becomes the Round Table.
@@ -2130,10 +2130,17 @@ Your Company follows the Code of Ninshidō:
 2. Hold compassion for all living things; swear to never compromise on this. 
 3. Maintain your loyalty and duty to the Company, before all else.
 4. Respect those who are older than you, and especially those who are more wise.
-Augments the Garrison Barracks.
+
+Your Company's Garrison Barracks gains access to new Projects.
+
 **Duty to the Fellowship**
-Project Loyalty costs are decreased; increased Materials Production costs.
+Your Company puts community and fellowship above most else:
+"I swear to uphold the Company, first and foremost, alongside those who go merrily with me in good fellowship."
+
+Your Company's Project Loyalty costs are decreased by 1 (times Tier Value), but Materials Production costs are increased by the same amount.
+
 **Duty to the Temple**
+Your Company is highly religious, and
 Auxiliary Area: Consecrated Temple, or the Desecrated Temple if your creed also has three Pact tenets.
 **Oath of the World Table**
 Auxiliary Area: World Table, or the Round Table if your creed has 1 Oath, 1 Code, and 1 Duty tenets.
