@@ -2126,7 +2126,10 @@ Your Company's Commissions Office gains access to new Projects.
 
 **Code of Ninshidō**
 Your Company follows the Code of Ninshidō:
-1. 
+1. Be truly honest with all in your life, including yourself. Do not lie to Company or kinship.
+2. Hold compassion for all living things; swear to never compromise on this. 
+3. Maintain your loyalty and duty to the Company, before all else.
+4. Respect those who are older than you, and especially those who are more wise.
 Augments the Garrison Barracks.
 **Duty to the Fellowship**
 Project Loyalty costs are decreased; increased Materials Production costs.
