@@ -7,17 +7,17 @@ tags: list
 	- **Armor Potency** *Level Cap: 7* You gain an item bonus to Physical Resistance equal to your level in this Perk times two, and an item bonus to Elemental Resistance equal to your level In this Perk.
 	- **Attack Potency** *Level Cap: 4* Your weapon attacks gain a +1 bonus to damage die amount for each level in this Perk. Additionally, you gain a +1 bonus to damage die size for every 2 levels in this Perk.
 	- **Bloodletter** *Level Cap: 2* Any Stamina or Mana cost you pay is instead paid with Mana. Additionally, you gain the Regeneration X condition, where X is your Tier times your level in this Perk. 
+	- **Chain Blocker** *Level Cap: 1* Your *Block* actions gain the *Combo* trait.
+	- **Chain Dodger** *Level Cap: 1* Your *Dodge* actions gain the *Combo* trait.
 	- **Energy Restoration** *Level Cap: 3* For every level of this Perk, you gain a +2 bonus to Stamina Regeneration.
 	- **Evasion Potency** *Level Cap: 5* You gain a +1 bonus to your Base Dodge die size for each level of this Perk.
+	- **Fast Charger** *Level Cap: 3* You can spend a number of free actions equal to your level in this Perk when spending additional action points during *Charged* actions. For example, if you were to take a *Charged 3* when you have Faster Charger 2, you can spend 2 free actions and 1 AP on that action, instead of 3 AP, to get its full effect.
 	- **Guard Potency** *Level Cap: 5* You gain a +1 bonus to your Base Block die size for each level of this Perk.
 	- **Iron Wall** *Level Cap: 2* Whenever you *completely* **Block** an attack, you gain a status bonus to your Physical Resistance equal to 4 times your level in this Perk, and half that to Elemental Resistance, until the end of your next turn.
+	- **Knockout King** *Level Cap: 4* You gain an item bonus equal to your level in this Perk to Damage Die Amount, and half that to Damage Die Size, when dealing damage to a Stunned Behemoth. 
 	- **Mana Boost** *Level Cap: 3* You gain a bonus to your Base Mana equal to your level in this Perk. At level 3 of this Perk, you can still use *Concentrate* actions when drained.
+	- **Quaking Blows** *Level Cap: 3* Your *Stunning* actions deal (1.5x/2x/2.5x) Stun damage.
 	- **Sly Dodger** *Level Cap: 1* Whenever you *completely* **Dodge** an attack, your next attack gains a +1 *stacking* circumstance bonus to damage die amount.
 	- **Stamina Boost** *Level Cap: 3* You gain a bonus to your Base Stamina equal to your level in this Perk. At level 3 of this Perk, you can still use *Intensive* actions when winded.
-	- **Vitality Boost** *Level Cap: 3* You gain a bonus to your Base Health equal to your level in this Perk. At level 3 of this Perk, double all healing you receive when bloodied.
 	- **Unscathed** *Level Cap: 1* As long as your tHP is full, you gain a +1 circumstance bonus to both damage die amount and size. 
-	- **Quaking Blows** *Level Cap: 3* Your *Stunning* actions deal (1.5x/2x/2.5x) Stun damage.
-	- **Chain Dodger** *Level Cap: 1* Your *Dodge* actions gain the *Combo* trait.
-	- **Chain Blocker** *Level Cap: 1* Your *Block* actions gain the *Combo* trait.
-	- **Fast Charger** *Level Cap: 3* You can spend a number of free actions equal to your level in this Perk when spending additional action points during *Charged* actions. For example, if you were to take a *Charged 3* when you have Faster Charger 2, you can spend 2 free actions and 1 AP on that action, instead of 3 AP, to get its full effect.
-	- **Knockout King** *Level Cap: 4* You gain an item bonus to Weapon Die Size and equal to your level in this Perk 
+	- **Vitality Boost** *Level Cap: 3* You gain a bonus to your Base Health equal to your level in this Perk. At level 3 of this Perk, double all healing you receive when bloodied.
