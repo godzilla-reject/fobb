@@ -7,7 +7,7 @@ tags: list
 ---
 - Blatant Theft *7 pieces*
 	- *Thief's Luck* (3 pc): Whenever you critically succeed a Skill test, you become Invisible.
-	- *Thief's Patience* (5 pc):
+	- *Thief's Patience* (5 pc): 
 	- *Thief's Reward* (7 pc):
 - Bleak Sacraments *7 pieces*
 	- *Desecrator's Heresy* (3 pc):
