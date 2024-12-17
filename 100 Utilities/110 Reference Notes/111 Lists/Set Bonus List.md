@@ -6,14 +6,14 @@ tags: list
 - Knight's Chivalry
 ---
 - Blatant Theft *7 pieces*
-	- 3 pc: *Thief's Luck* Whenever you critically succeed a Skill test, you become Invisible.
-	- 5 pc:  *Thief's Patience* 
-	- 7 pc:
+	- *Thief's Luck* (3 pc): Whenever you critically succeed a Skill test, you become Invisible.
+	- *Thief's Patience* (5 pc):
+	- *Thief's Reward* (7 pc):
 - Bleak Sacraments *7 pieces*
-	- 3 pc:
-	- 5 pc:
-	- 7 pc:
+	- *Desecrator's Heresy* (3 pc):
+	- *Desecrator's Awakening* (5 pc):
+	- *Desecrator's Reward* (7 pc):
 - Knight's Chivalry *7 pieces*
-	- 3 pc:
-	- 5 pc:
-	- 7 pc: *Dedication's Reward*:
+	- *Dedication's Discipline* (3 pc):
+	- *Dedication's Valiance* (5 pc):
+	- *Dedication's Reward* (7 pc): 
