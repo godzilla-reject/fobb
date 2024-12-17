@@ -17,3 +17,6 @@ tags: list
 	- **Vitality Boost** *Level Cap: 3* You gain a bonus to your Base Health equal to your level in this Perk. At level 3 of this Perk, double all healing you receive when bloodied.
 	- **Unscathed** *Level Cap: 1* As long as your tHP is full, you gain a +1 circumstance bonus to both damage die amount and size. 
 	- **Quaking Blows** *Level Cap: 3*
+	- **Chain Dodger** *Level Cap: 1* Your *Dodge* actions gain the *Combo* trait.
+	- **Chain Blocker** *Level Cap: 1* Your *Block* actions gain the *Combo* trait.
+	- **Fast Charger** *Level Cap: 3* You can spend a number of free actions equal to your level in this Perk when spending additional action points during *Charged* actions  
