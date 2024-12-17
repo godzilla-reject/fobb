@@ -16,7 +16,8 @@ tags: list
 	- **Stamina Boost** *Level Cap: 3* You gain a bonus to your Base Stamina equal to your level in this Perk. At level 3 of this Perk, you can still use *Intensive* actions when winded.
 	- **Vitality Boost** *Level Cap: 3* You gain a bonus to your Base Health equal to your level in this Perk. At level 3 of this Perk, double all healing you receive when bloodied.
 	- **Unscathed** *Level Cap: 1* As long as your tHP is full, you gain a +1 circumstance bonus to both damage die amount and size. 
-	- **Quaking Blows** *Level Cap: 3*
+	- **Quaking Blows** *Level Cap: 3* Your *Stunning* actions deal (1.5x/2x/2.5x) Stun damage.
 	- **Chain Dodger** *Level Cap: 1* Your *Dodge* actions gain the *Combo* trait.
 	- **Chain Blocker** *Level Cap: 1* Your *Block* actions gain the *Combo* trait.
-	- **Fast Charger** *Level Cap: 3* You can spend a number of free actions equal to your level in this Perk when spending additional action points during *Charged* actions  
+	- **Fast Charger** *Level Cap: 3* You can spend a number of free actions equal to your level in this Perk when spending additional action points during *Charged* actions. For example, if you were to take a *Charged 3* when you have Faster Charger 2, you can spend 2 free actions and 1 AP on that action, instead of 3 AP, to get its full effect.
+	- **Knockout King** *Level Cap: 4* You gain an item bonus to Weapon Die Size and equal to your level in this Perk 
