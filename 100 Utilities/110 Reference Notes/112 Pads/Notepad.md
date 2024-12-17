@@ -455,4 +455,7 @@
 			- Provides starting Asset traits.
 		- Creed
 
-
+- Threat System
+	- Behemoths prioritize Breakers with high Threat.
+	- Attacking Behemoth heads or other sensitive parts generates Threat.
+	- Taunt action also generates Threat. 
