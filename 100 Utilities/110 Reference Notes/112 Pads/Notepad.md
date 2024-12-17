@@ -459,3 +459,4 @@
 	- Behemoths prioritize Breakers with high Threat.
 	- Attacking Behemoth heads or other sensitive parts generates Threat.
 	- Taunt action also generates Threat. 
+	- Getting hit lowers Threat.

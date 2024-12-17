@@ -15,3 +15,5 @@ tags: list
 	- **Sly Dodger** *Level Cap: 1* Whenever you *completely* **Dodge** an attack, your next attack deals another die of damage.
 	- **Stamina Boost** *Level Cap: 3* Increase your Base Stamina by your level in this Perk. At level 3 of this Perk, you can still use *Intensive* actions when winded.
 	- **Vitality Boost** *Level Cap: 3* Increase your Base Health by your level in this Perk. At level 3 of this Perk, double all healing you receive when bloodied.
+	- **Unscathed** 
+	- 
