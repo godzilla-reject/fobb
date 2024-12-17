@@ -6,8 +6,8 @@ tags: list
 - Knight's Chivalry
 ---
 - Blatant Theft *7 pieces*
-	- 3 pc: Whenever you score a critical hit, you become Invisible.
-	- 5 pc:
+	- 3 pc: Whenever you critically succeed a Skill test, you become Invisible.
+	- 5 pc: 
 	- 7 pc:
 - Bleak Sacraments *7 pieces*
 	- 3 pc:
