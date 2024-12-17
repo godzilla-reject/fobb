@@ -1,5 +1,19 @@
 ---
 tags: list
 ---
+- Blatant Theft
+- Bleak Sacraments
 - Knight's Chivalry
-- Bl
+---
+- Blatant Theft *7 pieces*
+	- 3 pc:
+	- 5 pc:
+	- 7 pc:
+- Bleak Sacraments *7 pieces*
+	- 3 pc:
+	- 5 pc:
+	- 7 pc:
+- Knight's Chivalry *7 pieces*
+	- 3 pc:
+	- 5 pc:
+	- 7 pc:
