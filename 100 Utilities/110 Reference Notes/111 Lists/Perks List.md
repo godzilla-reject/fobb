@@ -15,5 +15,5 @@ tags: list
 	- **Sly Dodger** *Level Cap: 1* Whenever you *completely* **Dodge** an attack, your next attack gains a +1 *stacking* circumstance bonus to damage die amount.
 	- **Stamina Boost** *Level Cap: 3* You gain a bonus to your Base Stamina equal to your level in this Perk. At level 3 of this Perk, you can still use *Intensive* actions when winded.
 	- **Vitality Boost** *Level Cap: 3* You gain a bonus to your Base Health equal to your level in this Perk. At level 3 of this Perk, double all healing you receive when bloodied.
-	- **Unscathed** *Level Cap: 1* As long as your tHP is full, you gain a +1 circumstancce bonus to both damage die amount and size. 
+	- **Unscathed** *Level Cap: 1* As long as your tHP is full, you gain a +1 circumstance bonus to both damage die amount and size. 
 	- **Quaking Blows** *Level Cap: 3*
