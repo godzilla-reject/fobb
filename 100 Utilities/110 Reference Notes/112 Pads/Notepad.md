@@ -104,6 +104,7 @@
 				- Damage Type: cutting
 				- Dodge: d6 
 				- Block: d4
+
 - Equipment
 	- Starter Arms and Armors: Two sets of each, the "bone" and "metal" equivalent.
 		- Armor
@@ -327,6 +328,7 @@
 				- Razorshot: cutting damage, 1/2 part-cutting effectiveness.
 			- Heavy Shot
 			- Arrowheads
+
 - Progression
 	- Breaker Tonics
 		- Unlocked at Journeyman-tier.
@@ -362,9 +364,11 @@
 	- Mythic Techniques
 		- You can select one for each of of your weapons, from two options each.
 		- Usable 1 time per engagement. 
+
 - Fable-Maker Section
 	- The Behemiary
 	- Time Keeping
+
 - Tenets 
 	- Pactbound Set
 		- Magic set.
@@ -460,3 +464,5 @@
 	- Attacking Behemoth heads or other sensitive parts generates Threat.
 	- Taunt action also generates Threat. 
 	- Getting hit lowers Threat.
+
+- Behemoths
