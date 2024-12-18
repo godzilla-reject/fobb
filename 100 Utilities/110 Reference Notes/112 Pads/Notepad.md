@@ -104,7 +104,14 @@
 				- Damage Type: cutting
 				- Dodge: d6 
 				- Block: d4
-
+- Threat System
+	- Behemoths prioritize Breakers with high Threat.
+	- Attacking Behemoth heads or other sensitive parts generates Threat.
+	- Taunt action also generates Threat. 
+	- Getting hit lowers Threat.
+- Runehearts
+	- Source of a Breaker's enhanced abilities. 
+	- Allows them to use the powers (Perks) in
 # Write-Outs
 
 - Equipment
@@ -460,12 +467,6 @@
 		- Patron
 			- Provides starting Asset traits.
 		- Creed
-
-- Threat System
-	- Behemoths prioritize Breakers with high Threat.
-	- Attacking Behemoth heads or other sensitive parts generates Threat.
-	- Taunt action also generates Threat. 
-	- Getting hit lowers Threat.
 
 - Behemoths
 	- Components 
