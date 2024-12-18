@@ -468,6 +468,7 @@
 - Behemoths
 	- Components 
 		- Behemoth Species: The family that the Behemoth belongs to. Think of the "Rath" family from Monster Hunter.
+			- Nekonsei Family: "Starter" family; literally means "Cat Blade Spirit."
 			- 
 		- Power Class: How powerful the Behemoth is.
 			- Lord-Class
