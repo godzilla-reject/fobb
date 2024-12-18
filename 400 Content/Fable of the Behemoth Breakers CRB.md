@@ -2011,13 +2011,11 @@ Once each player has contributed a tenet, the Company's Patron adds a tenet, whi
 
 With all of the tenets selected, denote any bonuses gained from it.
 ### Step 5.
-**Allocate Resources.** While your Company Patron determines starting Assets, the impetus to determine Resource traits is on the Company members. For 
-**Assign Manpower**
-With the charter created, its now time to fill each of the eight Jobs in the Company. Anyone who has a Company-Required Job automatically fills their their Job's slot, and then, the Fable-Maker creates NPCs to fill the roles of any remaining Jobs. Its common for Fable-Makers to involve the Breakers in this process, but depending on the campaign this might change. 
+**Allocate Resources.** While your Company Patron determines starting Assets, the impetus to determine Resource traits is on the Company members. 
 
-Once each role has been filled, its time to assign *Manpower*. Each Job has a respective team for its Company Building (more on those below), and the members of these teams are represented by *manpower*. Starting manpower must be fully allocated before continuing; each Building cannot exceed its maximum amount of manpower (which is given its in Company Area entry.)
+Each founding member rolls 2d4, then selects one result to contribute to Materials and one to contribute to Morale.  Total these results together; these are your Company's starting Resources.
 
-After manpower is allocated, your Company's Morale is 3 (barring any Patron or Creed adjustments.)
+Once this is done, its now time to fill each of the eight Jobs in the Company. Anyone who has a Company-Required Job automatically fills their their Job's slot, and then, the Fable-Maker creates NPCs to fill the roles of any remaining Jobs. Its common for Fable-Makers to involve the Breakers in this process, but depending on the campaign this might change. 
 ### Step 6. 
 **Finish Up**
 With all of your pieces in place, its time to fill out flavor: founding location, Jobber NPCs and anything else that might've been skipped or looked over. Once all of this is done, you have your Breakers and their Company, meaning its time to commission a license, scout a locale and begin the hunt! 
@@ -2076,7 +2074,7 @@ Your Company's Patron is a wealthy noble, royal or some other aristocrat that al
 #### Patron: Breakers-For-Hire
 **Means: 2**; **Wealth: 3**;
 **Influence: 2**; **Loyalty: 3**
-***Tenet:*** Sellwords' Decree
+***Tenet:*** Sellswords' Decree
 Your Company is a mercenary company; you make your crowns by traveling from city-state to city-state, offering your services to them. While you are largely independent, you are still bound to Breaking League regulations, as well as the Mercantile League.
 #### Patron: Anonymous Benefactor
 **Means: 0**; **Wealth: 6**;
