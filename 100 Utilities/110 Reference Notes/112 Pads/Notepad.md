@@ -105,6 +105,8 @@
 				- Dodge: d6 
 				- Block: d4
 
+# Write-Outs
+
 - Equipment
 	- Starter Arms and Armors: Two sets of each, the "bone" and "metal" equivalent.
 		- Armor
@@ -468,8 +470,8 @@
 - Behemoths
 	- Components 
 		- Behemoth Species: The family that the Behemoth belongs to. Think of the "Rath" family from Monster Hunter.
-			- Nekonsei Family: "Starter" family; literally means "Cat Blade Spirit."
-			- 
+			- Nekon Family: "Starter" family; literally means "Cat Blade" in Aphex. Features characteristic cat features, as well as blades.
+			- Levia Family: "Black Dragon" family; literally means "Chaos" in Aphex. Features widely differ across Classes. 
 		- Power Class: How powerful the Behemoth is.
 			- Lord-Class
 			- Duke-Class
@@ -485,3 +487,4 @@
 			- Serpentine
 			- Winged Serpentine
 		- Elemental Affinity:
+
