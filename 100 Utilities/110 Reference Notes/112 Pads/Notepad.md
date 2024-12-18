@@ -111,7 +111,8 @@
 	- Getting hit lowers Threat.
 - Runehearts
 	- Source of a Breaker's enhanced abilities. 
-	- Allows them to use the powers (Perks) in
+	- Allows them to use the powers (Perks) imbued in Breaker Armor, Weapons and Charms.
+	- Allows Breakers to enhance their very souls via Emergence mana collected from fallen Behemoths. 
 # Write-Outs
 
 - Equipment
@@ -370,7 +371,7 @@
 			- Defense 
 			- Support
 			- Utility
-	- Mythic Techniques
+	- Aphex Techniques
 		- You can select one for each of of your weapons, from two options each.
 		- Usable 1 time per engagement. 
 
