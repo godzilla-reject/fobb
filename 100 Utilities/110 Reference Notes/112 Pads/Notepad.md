@@ -467,6 +467,7 @@
 
 - Behemoths
 	- Components 
+		- Behemoth Species
 		- Power Class:
 		- Body Type:
 		- Elemental Affinity:
