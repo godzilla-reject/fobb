@@ -2008,8 +2008,10 @@ Once your Company selects its Patron, your Fable-Maker will inform you of some a
 **Pen the Creed.** Each Company has a *creed*, or an oath that all members take to promise loyalty to the ideals of the Company. In order to create the Company Creed, one of each of the founding members (the players) select a *Tenet* in secret. Once each player has chosen one, reveal them to one another. Now, one by one, each founder must argue their case to the table, which is then voted on (with the Fable-Maker breaking ties). Approved tenets are added to the creed, while ones that aren't are thrown out and the selecting player must select another tenet.
 
 Once each player has contributed a tenet, the Company's Patron adds a tenet, which is predetermined. Then, finally, the Fable-Maker adds a tenet, which can only be vetoed by unanimous vote. 
+
+With all of the tenets selected, denote any bonuses gained from it.
 ### Step 5.
-****
+**Allocate Resources.** While your Company Patron determines starting Assets, the impetus to determine Resource traits is on the Company members. For 
 **Assign Manpower**
 With the charter created, its now time to fill each of the eight Jobs in the Company. Anyone who has a Company-Required Job automatically fills their their Job's slot, and then, the Fable-Maker creates NPCs to fill the roles of any remaining Jobs. Its common for Fable-Makers to involve the Breakers in this process, but depending on the campaign this might change. 
 
