@@ -466,3 +466,8 @@
 	- Getting hit lowers Threat.
 
 - Behemoths
+	- Components 
+		- Power Class:
+		- Body Type:
+		- Elemental Affinity:
+		- 
