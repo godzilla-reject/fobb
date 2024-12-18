@@ -468,12 +468,13 @@
 - Behemoths
 	- Components 
 		- Behemoth Species:
+			- 
 		- Power Class:
-		- Body Type:
+		- Body Type: The layout of the Behemoth's body. Dictates the general amount of limbs the Behemoth has.
 			- Quadruped
 			- Winged Quadruped
-			- Wingless Biped
+			- Biped
 			- Winged Biped
 			- Serpentine
-			- 
+			- Winged Serpentine
 		- Elemental Affinity:
