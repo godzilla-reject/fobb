@@ -467,9 +467,15 @@
 
 - Behemoths
 	- Components 
-		- Behemoth Species:
+		- Behemoth Species: The family that the Behemoth belongs to. Think of the "Rath" family from Monster Hunter.
 			- 
-		- Power Class:
+		- Power Class: How powerful the Behemoth is.
+			- Lord-Class
+			- Duke-Class
+			- Monarch-Class
+			- Tyrant-Class
+			- Emperor-Class
+			- Usurper-Class 
 		- Body Type: The layout of the Behemoth's body. Dictates the general amount of limbs the Behemoth has.
 			- Quadruped
 			- Winged Quadruped
