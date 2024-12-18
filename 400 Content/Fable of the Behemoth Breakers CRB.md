@@ -2478,7 +2478,7 @@ Now that you've acted, you reach the end of your turn. Take the following steps 
 ##### Activities in Engagements
 Any activity that takes longer than 1 turn to perform cannot typically be used during an engagement. When you commit to an activity during your turn, you commit to all the required actions; if an action is interrupted, you lose any AP spent on it.
 ##### Reactions in Engagements
-Reactions allow you to respond immediately to what is currently happening. Typically, reactions are taken outside of your turn, but you can on
+Reactions allow you to respond immediately to what is currently happening. Typically, reactions are taken outside of your turn, but you can take one regardless of timing, as long as you meet the trigger and requirements.
 #### Exploration
 Exploration mainly focuses on movement throughout an environment and roleplay, unlike engagements. Most commonly, Breakers will be in Exploration mode when tracking a Behemoth through a hunting locale, but other times they might be exploring include traveling from one region to another with their Company, scouting out new hunting locales or venturing to a city-state or settlement to meet with other Companies or League officials. Rather than measuring movement in spaces, it is measured in *miles-per-hour*. This is *not* diegetic, but it is much easier to present the information in this manner than it is to teach you a new system of measurement. 
 
