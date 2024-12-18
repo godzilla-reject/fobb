@@ -471,4 +471,3 @@
 		- Power Class:
 		- Body Type:
 		- Elemental Affinity:
-		- 
