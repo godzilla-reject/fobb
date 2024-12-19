@@ -1,0 +1,4 @@
+- Traits Overhaul
+	- Tier Overhaul
+		- Tiers renamed to Runegrade.
+		- Each tier requires 1
