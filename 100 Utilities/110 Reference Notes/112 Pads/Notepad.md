@@ -502,7 +502,10 @@
 			- Manablight 
 	- Traits 
 		- Brutality: Physicality equivalent.
+			- Savagery
+			- Decisiveness
 		- Strategy: 
+			- 
 		- Instinct: A Behemoth's 
 	- Abilities
 		- Behaviors
