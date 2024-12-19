@@ -489,4 +489,10 @@
 			- Serpentine
 			- Winged Serpentine
 		- Elemental Affinity:
+			- Fire 
+			- Water 
+			- Earth 
+			- Air 
+			- Light 
+			- Dark
 
