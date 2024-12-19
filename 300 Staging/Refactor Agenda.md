@@ -1,4 +1,8 @@
 - Traits Overhaul
 	- Tier Overhaul
 		- Tiers renamed to Runegrade.
-		- Each tier requires 1
+		- Each tier requires 3 marks to complete.
+		- Marks are earned by breaking Behemoths 
+			- 1 for breaking a Behemoth of your Tier's Power Class.
+			- 2 for breaking a Behemoth of a Power Class higher than your Runegrade.
+		- Earning a mark grants Skill Points 

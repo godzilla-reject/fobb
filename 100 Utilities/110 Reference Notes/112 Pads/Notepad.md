@@ -112,7 +112,7 @@
 - Runehearts
 	- Source of a Breaker's enhanced abilities. 
 	- Allows them to use the powers (Perks) imbued in Breaker Armor, Weapons and Charms.
-	- Allows Breakers to enhance their very souls via Emergence mana collected from fallen Behemoths. 
+	- Allows Breakers to enhance their very souls via Emergence Mana collected from broken Behemoths. 
 # Write-Outs
 
 - Equipment
@@ -516,4 +516,7 @@
 		- Behaviors
 		- Biology
 	- Actions
+		- Offensive
+		- Defensive
+		- Special
 
