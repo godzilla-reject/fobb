@@ -153,11 +153,12 @@ Sometimes, the dice align in a manner where, even with a Perfect defense and all
 
 When an attack is Unconquerable, you might assume there is no use in defending, but there is a hope: if you achieve a Perfect defense against an Unconquerable attack, you negate *all* damage, regardless of circumstance.
 ## Traits 
-"*Trait*" is the catch-all term for any numerical component of a character or Company. They come in several different variations, which are specified in their respective sections. Generally, a trait's main function is to act as a modifier when calculating a **Target Number**. Other times, 
-
-Their main function is to act a modifier to a **Target Number** when making a test. *Derived* traits, which are described below, are an exception to this. 
+"*Trait*" is the catch-all term for any numerical component of a character or Company. They come in several different variations, which are specified in their respective sections. Generally, a trait's main function is to act as a modifier when calculating a **Target Number**. Other times, they are simply numeric representations of more complex things, abstracted down for ease of use. See each section for more details. 
 ## Progression Traits
+These traits represent a Breaker's experience and progression through their careers. 
+- 
 ## Attribute Traits
+Attribute traits are representative of a Breaker's personal metrics, like their bodily ability and cognitive prowess. 
 ### Primary Attribute Traits 
 These traits are the most broad, general overview of a character's abilities. Think of them as trunks of trees.
 
