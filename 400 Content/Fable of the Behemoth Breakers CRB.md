@@ -157,9 +157,19 @@ When an attack is Unconquerable, you might assume there is no use in defending, 
 ## Progression Traits
 These traits represent a Breaker's experience and progression through their careers. 
 - **Runegrade** is the distinction of a Breaker's caliber and experience.
-As Breakers grow across their career, runic words manifest on their Runehearts, declaring how 
+As Breakers grow across their career, runic words manifest on their Runehearts, declaring a measure of their experience. Below is a chart of each Runegrade. 
 
-- **Rune Marks** are mani
+|  Runegrade   | Value |
+|:------------:|:-----:|
+|    Novice    |   1   |
+|  Journeyman  |   2   |
+|    Adept     |   3   |
+| Professional |   4   |
+|    Master    |   5   |
+|   Mythical   |   6   |
+
+- **Rune Marks** are small runic marks that  manifest on a Breaker's Runeheart after they absorb Emergence Mana from a broken Behemoth. 
+You'll learn more about what all that means as you read further, but know this: **it takes 3 Marks to cause the emergence **
 ## Attribute Traits
 Attribute traits are representative of a Breaker's personal metrics, like their bodily ability and cognitive prowess. 
 ### Primary Attribute Traits 
