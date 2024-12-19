@@ -488,7 +488,7 @@
 			- Winged Biped
 			- Serpentine
 			- Winged Serpentine
-		- Elemental Affinity:
+		- Elemental Affinity: The elemental charge of the Behemoth's mana. Not all Behemoths have affinities.
 			- Fire 
 			- Water 
 			- Earth 
