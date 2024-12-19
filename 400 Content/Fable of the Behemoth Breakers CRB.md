@@ -152,8 +152,12 @@ Defenses work similarly; any defense that allows any damage through (before Resi
 Sometimes, the dice align in a manner where, even with a Perfect defense and all of a character's Resistances, they could not prevent all of the damage. Commonly, this signals a powerful attack! However, sometimes, this situation arises *and* the attack itself is a critical hit. When all of these circumstances align, that attack is what is known as *Unconquerable*. 
 
 When an attack is Unconquerable, you might assume there is no use in defending, but there is a hope: if you achieve a Perfect defense against an Unconquerable attack, you negate *all* damage, regardless of circumstance.
-## Attribute and Skill Traits 
-"*Trait*" is the catch-all term for any numerical component of a character. Their main function is to act a modifier to a **Target Number** when making a test. *Derived* traits, which are described below, are an exception to this. 
+## Traits 
+"*Trait*" is the catch-all term for any numerical component of a character or Company. They come in several different variations, which are specified in their respective sections. Generally, a trait's main function is to act as a modifier when calculating a **Target Number**. Other times, 
+
+Their main function is to act a modifier to a **Target Number** when making a test. *Derived* traits, which are described below, are an exception to this. 
+## Progression Traits
+## Attribute Traits
 ### Primary Attribute Traits 
 These traits are the most broad, general overview of a character's abilities. Think of them as trunks of trees.
 
