@@ -169,7 +169,7 @@ As Breakers grow across their career, runic words manifest on their Runehearts, 
 |   Mythical   |   6   |
 
 - **Rune Marks** are small runic marks that  manifest on a Breaker's Runeheart after they absorb Emergence Mana from a broken Behemoth. 
-You'll learn more about what all that means as you read further, but know this: **it takes 3 Marks to cause the emergence **
+You'll learn more about what all that means as you read further, but know this: **it takes 3 Marks to cause the emergence of a new Runegrade.** When you gain a Rune Mark, you also gain 6 Skill Points.
 ## Attribute Traits
 Attribute traits are representative of a Breaker's personal metrics, like their bodily ability and cognitive prowess. 
 ### Primary Attribute Traits 
