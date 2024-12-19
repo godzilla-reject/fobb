@@ -363,7 +363,7 @@
 		- When unlocked, you gain the stats of that weapon instead of your School for that Tier.
 	- Emergence Awakening
 		- Unlocked at Master-tier.
-		- Awakens powerful latent abilities in weapons using materials gathered from powerful Behemoths.
+		- Awakens powerful latent abilities in a Breaker using Emergence Mana gathered from powerful Behemoths.
 			- Gained from Usurper-Class Behemoths; each Behemoth gives 1. 
 		- A Breaker can have 2 Awakenings active at any given time.
 		- 4 Categories
