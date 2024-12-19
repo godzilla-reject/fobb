@@ -470,7 +470,7 @@
 		- Creed
 
 - Behemoths
-	- Components 
+	- Mechanical Components 
 		- Behemoth Species: The family that the Behemoth belongs to. Think of the "Rath" family from Monster Hunter.
 			- Nekon Family: "Starter" family; literally means "Cat Blade" in Aphex. Features characteristic cat features, as well as blades.
 			- Levia Family: "Black Dragon" family; literally means "Chaos" in Aphex. Features widely differ across Classes. 
@@ -501,17 +501,9 @@
 			- Drowsiness
 			- Manablight 
 	- Traits 
-		- Lethality: Physicality equivalent.
-			- Strength
-			- Agility
-			- Fortitude
-		- Strategy: 
-			- Patience
-			- Pursuit
-			- Persistence
-		- Instinct: A Behemoth's 
-			- Survival 
-			- 
+		- Lethality: A measure of a Behemoth's physical damage potential.
+		- Strategy: A measure of a Behemoth's ability to plan.
+		- Instinct: A measure of a Behemoth's natural urges.
 	- Abilities
 		- Behaviors
 		- Biology
