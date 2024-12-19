@@ -156,7 +156,10 @@ When an attack is Unconquerable, you might assume there is no use in defending, 
 "*Trait*" is the catch-all term for any numerical component of a character or Company. They come in several different variations, which are specified in their respective sections. Generally, a trait's main function is to act as a modifier when calculating a **Target Number**. Other times, they are simply numeric representations of more complex things, abstracted down for ease of use. See each section for more details. 
 ## Progression Traits
 These traits represent a Breaker's experience and progression through their careers. 
-- 
+- **Runegrade** is the distinction of a Breaker's caliber and experience.
+As Breakers grow across their career, runic words manifest on their Runehearts, declaring how 
+
+- **Rune Marks** are mani
 ## Attribute Traits
 Attribute traits are representative of a Breaker's personal metrics, like their bodily ability and cognitive prowess. 
 ### Primary Attribute Traits 
