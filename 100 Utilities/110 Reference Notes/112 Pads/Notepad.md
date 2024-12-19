@@ -501,12 +501,14 @@
 			- Drowsiness
 			- Manablight 
 	- Traits 
-		- Might: Physicality equivalent.
+		- Lethality: Physicality equivalent.
 			- Savagery
 			- Decisiveness
+			- 
 		- Strategy: 
 			- Patience
-			- 
+			- Pursuit
+			- Persistence
 		- Instinct: A Behemoth's 
 			- Survival 
 			- 
