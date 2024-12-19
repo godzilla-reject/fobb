@@ -502,9 +502,9 @@
 			- Manablight 
 	- Traits 
 		- Lethality: Physicality equivalent.
-			- Savagery
-			- Decisiveness
-			- 
+			- Strength
+			- Agility
+			- Fortitude
 		- Strategy: 
 			- Patience
 			- Pursuit
