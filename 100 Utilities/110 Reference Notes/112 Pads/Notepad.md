@@ -501,8 +501,11 @@
 			- Drowsiness
 			- Manablight 
 	- Traits 
+		- Brutality: Physicality equivalent.
+		- Strategy: 
+		- Instinct: A Behemoth's 
 	- Abilities
 		- Behaviors
-		- 
-	- 
+		- Biology
+	- Actions
 
