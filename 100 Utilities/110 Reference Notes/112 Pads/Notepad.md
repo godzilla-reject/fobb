@@ -495,4 +495,14 @@
 			- Air 
 			- Light 
 			- Dark
+		- Status Conditions: The statuses a Behemoth can inflict. Not all Behemoths have statuses.
+			- Paralysis
+			- Poison 
+			- Drowsiness
+			- Manablight 
+	- Traits 
+	- Abilities
+		- Behaviors
+		- 
+	- 
 
