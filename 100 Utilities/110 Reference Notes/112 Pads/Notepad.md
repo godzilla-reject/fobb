@@ -522,7 +522,9 @@
 				- Move
 			- Defenses
 				- Physical Resistance
+				- Physical Weaknesses
 				- Elemental Resistance
+				- Elemantal Weaknesses
 				- Dodge
 	- Abilities
 		- Behaviors
@@ -532,4 +534,9 @@
 		- Defensive
 		- Special
 	- Design Packages
-		- 
+		- Trait Packages 
+		- Affinity Packages
+			- Elemental Specialist
+				- 1 Affinity
+				- Immune to that affinity
+				- Dire Weakness to opposite element AND
