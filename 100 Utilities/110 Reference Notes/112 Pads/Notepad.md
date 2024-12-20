@@ -536,7 +536,8 @@
 	- Design Packages
 		- Trait Packages 
 		- Affinity Packages
-			- Elemental Specialist
+			- Single Affinity Specialist
 				- 1 Affinity
 				- Immune to that affinity
-				- Dire Weakness to opposite element AND
+				- Dire Weakness to opposite element AND Weakness to 1 Status. 
+			- Affinity Combination Specialist
