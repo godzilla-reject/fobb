@@ -501,18 +501,24 @@
 			- Drowsiness
 			- Manablight 
 	- Traits 
-		- Lethality: A measure of a Behemoth's physical damage potential.
-			- Savagery: A measure of how brutal a Behemoth is; their raw physical strength.
-			- Decisiveness: A measure of how ruthless a Behemoth is; their raw speed.
-			- Endurance: A measure of how persistent a Behemoth u
-		- Strategy: A measure of a Behemoth's ability to plan.
-			- Patience:
-			- Pursuit:
-			- Adaptation:
-		- Instinct: A measure of a Behemoth's natural urges.
-			- Destruction
-			- Creation
-			- Survival
+		- Attribute Traits
+			- Lethality: A measure of a Behemoth's physical damage potential.
+				- Savagery: A measure of how brutal a Behemoth is; their raw physical strength.
+				- Decisiveness: A measure of how ruthless a Behemoth is; their raw speed.
+				- Endurance: A measure of how persistent a Behemoth is; their raw fortitude.
+			- Strategy: A measure of a Behemoth's ability to plan.
+				- Patience: A measure of a Behemoth's observation and ambush ability.
+				- Pursuit: A measure of a Behemoth's mental persistence and hunting focus.
+				- Adaptation: A measure of how well a Behemoth can change to new threats.
+			- Instinct: A measure of a Behemoth's natural urges.
+				- Destruction: A measure of a Behemoth's drive to destroy things.
+				- Creation:  A measure of a Behemoth's drive to create.
+				- Survival: A measure of a Behemoth's drive to thwart death.
+			- Derived Traits 
+				- Health 
+				- Stamina 
+				- Mana 
+				- Move
 	- Abilities
 		- Behaviors
 		- Biology
