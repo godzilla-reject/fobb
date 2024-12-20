@@ -548,3 +548,7 @@
 				- 1 Status 
 				- immune to that status.
 				- Dire Weakness to 2 elements.
+			- Combo User 
+				- 1 Affinity, 1 Status.
+				- Resistance to both. 
+				- Weakness to opposite affinity and 1 status.
