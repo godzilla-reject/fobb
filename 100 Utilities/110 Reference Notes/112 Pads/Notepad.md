@@ -524,7 +524,7 @@
 				- Physical Resistance
 				- Physical Weaknesses
 				- Elemental Resistance
-				- Elemantal Weaknesses
+				- Elemental Weaknesses
 				- Dodge
 	- Abilities
 		- Behaviors
@@ -541,3 +541,10 @@
 				- Immune to that affinity
 				- Dire Weakness to opposite element AND Weakness to 1 Status. 
 			- Affinity Combination Specialist
+				- 3 affinities; 1 combination affinity and its components
+				- Immune to combo, resistance bonus to components.
+				- Dire Weakness to opposite combo, normal Weakness ITS components.
+			- Status Specialist
+				- 1 Status 
+				- immune to that status.
+				- Dire Weakness to 2 elements.
