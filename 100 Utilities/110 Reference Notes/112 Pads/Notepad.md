@@ -502,8 +502,17 @@
 			- Manablight 
 	- Traits 
 		- Lethality: A measure of a Behemoth's physical damage potential.
+			- Savagery: A measure of how brutal a Behemoth is; their raw physical strength.
+			- Decisiveness: A measure of how ruthless a Behemoth is; their raw speed.
+			- Endurance: A measure of how persistent a Behemoth u
 		- Strategy: A measure of a Behemoth's ability to plan.
+			- Patience:
+			- Pursuit:
+			- Adaptation:
 		- Instinct: A measure of a Behemoth's natural urges.
+			- Destruction
+			- Creation
+			- Survival
 	- Abilities
 		- Behaviors
 		- Biology
