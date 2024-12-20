@@ -474,7 +474,7 @@
 		- Behemoth Species: The family that the Behemoth belongs to. Think of the "Rath" family from Monster Hunter.
 			- Nekon Family: "Starter" family; literally means "Cat Blade" in Aphex. Features characteristic cat features, as well as blades.
 			- Levia Family: "Black Dragon" family; literally means "Chaos" in Aphex. Features widely differ across Classes. 
-		- Power Class: How powerful the Behemoth is. Determines Base Health,
+		- Power Class: How powerful the Behemoth is. Determines Base Health, Stamina and Mana.
 			- Lord-Class
 			- Duke-Class
 			- Monarch-Class
@@ -514,6 +514,7 @@
 				- Destruction: A measure of a Behemoth's drive to destroy things.
 				- Creation:  A measure of a Behemoth's drive to create.
 				- Survival: A measure of a Behemoth's drive to thwart death.
+			Size: How large the Behemoth is.
 			- Derived Traits 
 				- Health 
 				- Stamina 

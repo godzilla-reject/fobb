@@ -6,3 +6,4 @@
 			- 1 for breaking a Behemoth of your Tier's Power Class.
 			- 2 for breaking a Behemoth of a Power Class higher than your Runegrade.
 		- Earning a mark grants Skill Points 
+	- Size becomes an Attribute trait.
