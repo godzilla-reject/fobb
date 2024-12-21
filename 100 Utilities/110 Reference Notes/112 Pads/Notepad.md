@@ -551,9 +551,23 @@
 				- Defense Focus
 					- Base HSM:
 					- Base Move:
+					- Base Dodge Die: 
+					- Base Physical/Elemental Res: 
 				- Speed Focus
+					- Base HSM:
+					- Base Move:
+					- Base Dodge Die: 
+					- Base Physical/Elemental Res: 
 				- Offense Focus 
+					- Base HSM:
+					- Base Move:
+					- Base Dodge Die: 
+					- Base Physical/Elemental Res: 
 				- Special Focus
+					- Base HSM:
+					- Base Move:
+					- Base Dodge Die: 
+					- Base Physical/Elemental Res: 
 		- Affinity Packages
 			- Single Affinity Specialist
 				- 1 Affinity
@@ -571,3 +585,9 @@
 				- 1 Affinity, 1 Status.
 				- Resistance to both. 
 				- Weakness to opposite affinity and 1 status.
+		- Fighting Style
+			- Melee Fighter
+			- Ranged Fighter
+			- Construct Fighter
+			- Summoner
+			- Generalist Fighter
