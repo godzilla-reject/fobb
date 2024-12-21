@@ -537,9 +537,11 @@
 				- Health 
 					- ((Base Health+Endurance)\*(Class Value+Survival))
 				- Stamina 
-				- 
+					- ((Base Stamina+Endurance)\*(Class Value+Pursuit))
 				- Mana 
+					- ((Base Mana+Creation)\*(Class Value+Adaptation))
 				- Move
+					- (Base Move\*(Size+Decisiveness))
 			- Defenses
 				- Physical Resistance
 				- Physical Weaknesses
