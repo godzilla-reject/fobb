@@ -476,11 +476,23 @@
 			- Levia Family: "Black Dragon" family; literally means "Chaos" in Aphex. Features widely differ across Classes. 
 		- Power Class: How powerful the Behemoth is. Determines Class Value and Base Damage Die Size.
 			- Lord-Class
+				- Class Value: 1
+				- Base Damage Die Size: d4
 			- Duke-Class
+				- Class Value: 2
+				- Base Damage Die Size: d4
 			- Monarch-Class
+				- Class Value: 3
+				- Base Damage Die Size: 
 			- Tyrant-Class
+				- Class Value: 4
+				- Base Damage Die Size:
 			- Emperor-Class
+				- Class Value: 5
+				- Base Damage Die Size:
 			- Usurper-Class 
+				- Class Value: 6
+				- Base Damage Die Size: 
 		- Body Type: The layout of the Behemoth's body. Dictates the general amount of limbs the Behemoth has. Also provides a Dodge Die Size adjustment. 
 			- Quadruped
 				- Dodge: +1
