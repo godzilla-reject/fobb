@@ -559,7 +559,7 @@
 					- Base Dodge Die: d10
 					- Base Physical/Elemental Res: 4/4
 				- Offense Focus 
-					- Base HSM: 6/6/6 (multiplied by Class Value)
+					- Base HSM: 4/8/6 (multiplied by Class Value)
 					- Base Move: 6
 					- Base Dodge Die: d8
 					- Base Physical/Elemental Res: 8/8
