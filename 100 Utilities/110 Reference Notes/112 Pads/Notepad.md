@@ -536,9 +536,11 @@
 	- Design Packages
 		- Trait Packages 
 			- Lethality Specialist
+				- LSI: 9/3/6
 			- Strategy Specialist 
+				- LSI: 6/9/3
 			- Instinct Specialist 
-				- LSI: 4/4/10
+				- LSI: 3/6/9
 			- Generalist 
 				- LSI: 6/6/6
 		- Affinity Packages
