@@ -536,13 +536,18 @@
 	- Design Packages
 		- Trait Packages 
 			- Lethality Specialist
-				- LSI: 9/3/6
+				- LSI: 9/3/6 (multiplied by Class Value)
 			- Strategy Specialist 
-				- LSI: 6/9/3
+				- LSI: 6/9/3 (multiplied by Class Value)
 			- Instinct Specialist 
-				- LSI: 3/6/9
+				- LSI: 3/6/9 (multiplied by Class Value)
 			- Generalist 
-				- LSI: 6/6/6
+				- LSI: 6/6/6 (multiplied by Class Value)
+			- Trait Focuses
+				- Defense Focus
+				- Speed Focus
+				- Offense Focus 
+				- 
 		- Affinity Packages
 			- Single Affinity Specialist
 				- 1 Affinity
