@@ -550,8 +550,11 @@
 				- Dodge
 			- Offense 
 				- Ranged Damage Die
+					- Base DD Size+((Strategy/3)-1)
 				- Melee Damage Die 
+					- Base DD Size+((Lethality/3)-1)
 				- Special Damage Die
+					- Base DD Size+((Instinct/3)-1)
 	- Abilities
 		- Behaviors
 		- Biology
