@@ -526,6 +526,10 @@
 				- Elemental Resistance
 				- Elemental Weaknesses
 				- Dodge
+			- Offense 
+				- Ranged Damage Die
+				- Melee Damage Die 
+				- Special Damage Die
 	- Abilities
 		- Behaviors
 		- Biology
@@ -545,6 +549,8 @@
 				- LSI: 6/6/6 (multiplied by Class Value)
 			- Trait Focuses
 				- Defense Focus
+					- Base HSM:
+					- Base Move:
 				- Speed Focus
 				- Offense Focus 
 				- Special Focus
