@@ -1,0 +1,560 @@
+# Ideas
+- Weapon Ideas
+	- Heavy-Class Weaponry
+		- War Needle
+			- Mechanics
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
+		- Thunder Mallet 
+			- Mechanics
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
+		- Coffin Blade
+			- Mechanics
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
+	- Agile-Class Weaponry
+		- Yo-Yo Wheel: a massive wheel, bound to a cord and handle that allows the user to open up the wheel, exposing massive blades.
+			- Mechanic: 
+				- Yo-Yo Cord: You can choose to give any Yo-Yo Wheel attack Reach 1, 2 or 3. If you do, it also gains the Stamina X, where X is 2 times the qualifier for the given Reach tag (if the action already has Stamina, they are cumulative.) 
+				- Rotokinetic Engine: Successful *strike* actions with Reach 2 or 3 excite the magikinetic rotational engine within the wheel, generating Momentum.  Momentum can be expended for Yo-Yo Wheel actions. If you would gain Momentum while you already have it, the Rotokinetic Engine experiences overspin and temporarily locks up. While locked up, you cannot use the Yo-Yo Cord until you spend a single action to clear the jam.
+			- Stats 
+				- Damage Die: 1d8
+				- Damage Type: crushing
+				- Dodge:  1d8
+				- Block: -
+		- Bow-Blades: A pair of large, curved blades that can open up, then combine, into a powerful, yet short-ranged bow.
+			- Mechanic: 
+				- Manastring Threads: Successful attacks in blade form generate Manastring Threads. You can have up to 6 Threads at a time, and you gain certain benefits at 3 Threads and 6 Threads. You lose 1 Thread at the end of each of your turns that you do not make an attack. 
+					- 3 Threads
+						- Attacks against Manaweft Behemoths gain a +1 damage die amount bonus.
+					- 6 Threads 
+						- Attacks in Bow Form cost no Mana. 
+						- Attacks in Blade Form cost no Stamina.
+				- Bow Form 
+					- Mana-Weaving Arrows: Weapon *strike* actions in this form gain the "Mana 3" tag. Additionally, hitting a target with three successful weapon attacks (while in this form) in the same turn inflicts the Manaweft condition.
+					- Damage Type: Piercing
+					- Shot Types: Elemental
+				- Blade Form
+					- Mana-Threading Blades: Successful weapon attacks while in Blade Form generate a single Manastring Thread, or two Threads if the target is Manaweft.
+					- Damage Type: Cutting
+			- Stats 
+				- Damage Die: d6
+				- Range: 6 spaces 
+				- Dodge: d10
+				- Block: -
+		- Blade-Harp: A long, flat blade which acts as a sounding board for strings that run across the length of the blade. As the user swings, air rushes through the weapon, acting like an Aeolian harp. These tones are controlled by triggers on the hilt.
+			- Mechanics 
+				- Harp Notes: Any Blade-Harp attack plays one of three notes: high, mid, and low. When these tones are played in a certain order, the blade resonates with magical energy, producing a blade song.
+				- Bladesong-"Inner Fire": After playing the correct sequence of notes, the user bolsters their Dodge defense and increases their attack speed. Also increases Weapon Damage for each buff currently active on allies. 
+				- Bladesong-"Breaker's Aria": After playing the correct sequence of notes, the user grants a buff to their allies for a small duration. 
+			- Stats 
+				- Damage Die:
+				- Damage Type:
+				- Dodge: 
+				- Block:
+	- Balance-Class Weaponry
+		- Change-Revolver: a large revolver-style rifle that can be reconfigured between a long-range, high-powered sniper form and a short-range, high fire-rate form.
+			- Mechanics
+				- Chamber Heat: For every 2 attacks that deal damage in Riot Configuration, one of the weapon's 6 chambers heats up. When making attacks in Sniper Configuration, you can vent the heat in each chamber to increase the amount of damage dice for that attack by 1 for each chamber vented.
+				- Sniper Configuration:
+					- Overloader Kinetic Dampener: Attacks in Sniper Configuration can only have their dice amount increased by venting Chamber Heat.
+					- Magikinetic Hostility Averter: You cannot Dodge while in Sniper Configuration.
+					- Stats 
+						- Damage Die: d12
+						- Damage Type: impaling
+						- Dodge: -
+						- Block: d10
+				- Riot Configuration: 
+					- Rapid-Fire Kinetic Dampener: Attacks in Riot Configuration have a damage die size limit of d8.
+					- Magikinetic Hostility Attractor: Attacks in Riot Configuration generate additional Threat.
+					- Stats 
+						- Damage Die: d4
+						- Damage Type: piercing
+						- Dodge: d4
+						- Block: d8
+				- Shot Types: 
+					- Elemental 
+					- Support
+		- Roulette-Rang: A six-sided boomerang that randomizes its damage types and elemental affinities. The user can burn mana to "lock in" a damage type, increasing both weapon damage and blocking potency against that damage type.
+			- Mechanics
+				- Spin the Roulette: Whenever you attack, you roll 1d6, then consult the chart below. That attack splits its total damage between the weapon's base damage type and the result evenly. 
+				- Rig the Odds: When you use Spin the Roulette, you may spend 4 mana to fully imbue your weapon with the rolled element. If you do, all damage the weapon deals is that type, you deal an extra die of weapon damage, and if you would defend against an attack that deals that damage type, increase the die size of that defense by 1. This bonus lasts for 1d6 rounds.
+				- The House Always Wins: When you use Rig the Odds and roll a 1 for its duration, you can't Rig the Odds again for 1d6 rounds.
+			- Stats 
+				- Damage Die: d8
+				- Damage Type: shredding
+				- Dodge: d4
+				- Block: d8
+		- Dancer Fans: a pair of bladed fans that can assist dodging by moving massive amounts of air, while also interlocking to block damage. 
+			- Mechanics
+				- Dancing Gales: Avoiding damage and alternating defense types generates Gale charges. Gale charges can be consumed to guarantee perfect defenses, or activate certain abilities. Max Gale Charges: 3
+				- Galeforce: As long the user has 1 Gale Charge, any physical damage the Dancer Fans deal is instead air damage. As long as the user has max Gale charges, their defenses are increased by 1 step.
+			- Stats 
+				- Damage Die: 1d6
+				- Damage Type: cutting
+				- Dodge: d6 
+				- Block: d4
+- Threat System
+	- Behemoths prioritize Breakers with high Threat.
+	- Attacking Behemoth heads or other sensitive parts generates Threat.
+	- Taunt action also generates Threat. 
+	- Getting hit lowers Threat.
+- Runehearts
+	- Source of a Breaker's enhanced abilities. 
+	- Allows them to use the powers (Perks) imbued in Breaker Armor, Weapons and Charms.
+	- Allows Breakers to enhance their very souls via Emergence Mana collected from broken Behemoths. 
+# Write-Outs
+
+- Equipment
+	- Starter Arms and Armors: Two sets of each, the "bone" and "metal" equivalent.
+		- Armor
+			- Bone Set
+				- More Elemental Resistance, Dodge synergy.
+				- Total Set 
+					- Evasion Potency 3
+					- Arcane Restoration  2
+					- Sly Dodger
+			- Metal Set
+				- More Physical Resistance, Block synergy.
+				- Total Set 
+					- Armor Potency 2
+					- Guard Potency 2
+					- Iron Wall 2
+		- Weapons
+			- Bone Weaponry
+				- Weapon Perk: Arcane Restoration 1
+				- Bomba Pistol
+					- Dancing Pace: 3
+			- Metal Weaponry
+				- Weapon Perk: Armor Potency 1
+				- Bomba Pistol
+					- Dancing Pace: 4
+	- Breaking Gear 
+		- Restoration & Enhancement
+			- Restoration
+				- Poultices: Restores Surface Health
+					- Base Value: 100
+					- Novice:
+						- Herbal Poultice
+							- 3d6 Surface Healing.
+							- Carry Limit: 10
+							- Cost: 8
+						- Medical Poultice 
+							- 3d10 Surface Healing. 
+							- Carry 8
+							- Cost: 12
+					- Journeyman:
+					- Adept:
+					- Professional:
+				- Tinctures: Restores Mortal Health.
+					- Base Value: 60
+					- Novice:
+						- Herbal Tincture 
+							- 1d8 Mortal Healing.
+							- Carry 6
+							- Cost: 20
+						- Medical Tincture
+							- 1d12 Mortal Healing.
+							- Carry 4
+							- Cost: 30
+					- Journeyman:
+					- Adept:
+					- Professional
+				- Crystals: Restore Mana
+					- Base Value: 105
+					- Novice:
+						- Neophyte Crystal 
+							- Restores 3 mana.
+							- Carry 6
+							- Cost: 18
+					- Journeyman:
+					- Adept:
+					- Professional:
+				- Boosters: Restore Stamina
+					- Base Value: 95
+					- Novice:
+						- Herbal Booster 
+							- Restores 2d4 stamina.
+							- Carry 6
+							- Cost: 16
+					- Journeyman:
+					- Adept:
+					- Professional:
+				- Cures: Clears Status Effects
+					- Base Value: 140
+					- Novice:
+						- Firecure
+							- Clears Burning status effect
+							- Carry 4
+							- Cost: 35
+					- Journeyman:
+					- Adept:
+					- Professional:
+			- Enhancement
+				- Light Amps: Increases attack power.
+					- Base Value: 180
+					- Novice:
+						- White Ampseed 
+							- For the next minute, you deal an additional die of damage (this is a stacking item bonus.) This bonus ends early if you faint.
+							- Carry 4
+							- Cost: 45
+					- Journeyman:
+					- Adept:
+					- Professional:
+				- Dark Amps: Increases defense power.
+					- Base Value: 180
+					- Novice:
+						- Black Ampseed 
+							- For the next minute, your defenses are bolstered by an additional die (this is a stacking item bonus.) This bonus ends early if you faint. 
+					- Journeyman:
+					- Adept:
+					- Professional:
+				- Immunizers: Prevent status and environmental effects.
+					- Base Value: 160
+					- Novice:
+						- Lava Lager
+							- Provides resistance to hot environmental effects, as well as +5 **Elemental** **Resistance**.
+							- Carry 3
+							- Cost: 55
+						- Frosty Frappe
+							- Provides resistance to cold environmental effects, as well as +5 **Elemental Resistance**.
+							- Carry 3
+							- Cost: 55
+					- Journeyman:
+					- Adept:
+					- Professional:
+		- Breaking Tools and Traps
+			- Tools 
+				- Core Gear: Breaking Essentials.
+					- Novice:
+						- Camping Gear 
+							- A full set of personal sleeping gear, a tent that can be combined with other tents, and a small cooking range that can do the same.
+							- Carry 1
+							- Cost: 90
+						- Hunting Knife
+							- A large knife used to carve Behemoths for parts.
+							- Carry 1
+							- Cost: 80
+						- Weapon Maintenance Kit
+							- A set of whetstones, blade oil, barrel cleaners and other such things that allow a Breaker to ensure their arms are in peak shape.
+							- Carry 1 
+							- Cost: 60
+					- Journeyman:
+					- Adept:
+					- Professional: 
+				- Gathering Gear: Items that aid in field gathering.
+					- Novice:
+						- Fishing Tackle
+							- A set of fishing gear that can be used to gather food in the field.
+							- Carry 1
+							- Cost: 65
+						- Pickaxe
+							- A robust Myterran Alloy pickaxe.
+							- Carry 1
+							- Cost: 75
+					- Journeyman:
+					- Adept:
+					- Professional:
+				- Jobbing Gear: Items that let you perform job duties at camp.
+					- Base Value: 
+					- Novice:
+						- Research Gear 
+							- A set of various tomes, papers, writing equipment and other things that allow a researcher to perform their duties in the field.
+							- Carry 1
+							- Cost: 90
+						- Portable Forge
+							- A small anvil, pit forge, hammers and tongs that a smithy can use during camps to make weapon and armor modifications.
+							- Carry 1
+							- Cost: 90
+						- Entertainment Gear
+							- An instrument, puppet set or whatever a performer uses to perform and entertain while at camp.
+							- Carry 1
+							- Cost: 90
+					- Journeyman:
+					- Adept:
+					- Professional:
+			- Traps 
+				- Capture Traps: Materials to capture Behemoths live.
+					- Base Value: 
+					- Novice:
+						- Electromagic Behemoth Binding 
+							- A magical rune that, when placed, creates a large, energized glyph. This glyph, when a Behemoth enters its boundaries, surges with electric elementia. This binds the Behemoth in place, allowing them to be captured.
+							- Carry: 5
+							- Cost 45
+						- Chainmagic Behemoth Binding 
+							- A magical rune that, when placed, creates a large, ensteeled glyph. This glyph, when a Behemoth enters its boundaries, surges with metal elementia and creates binding chains. This binds the Behemoth in place, allowing them to be captured.
+							- Carry 5
+							- Cost: 45
+						- Subdual Glyph 
+							- A rune that can be placed on a Behemoth. After three glyphs have been placed on a Behemoth, it is rendered docile by the magic within.
+							- Carry 9
+							- Cost 10
+					- Journeyman:
+					- Adept:
+					- Professional:
+				- Status Traps: Materials to inflict Status effects on Behemoths. 
+					- Base Value: 
+					- Novice:
+						- Poison Throwing Knives 
+							- Small, sharp blades lathered in potent poison. 
+							- Carry 12
+							- Cost 8
+					- Journeyman:
+					- Adept:
+					- Professional:
+		- Ammunition
+			- Light Shot (6)
+				- Fireshot
+					- Ammo inscribed with magic that shrouds fired projectiles in a powerful blaze of flame. Delivery depends on weapon; for Bomba Pistols, the barrel is changed, while for something like the Change-Revolver, a different set of resonance shells are loaded. Mechanically, this is the same; this is strictly flavor. 
+					- Range Penalty: -2 spaces
+					- Carry 1
+					- Cost 150
+				- Airshot 
+					- Ammo inscribed with magic that shrouds fired projectiles in a powerful jet of air. Delivery depends on weapon; for Bomba Pistols, the barrel is changed, while for something like the Change-Revolver, a different set of resonance shells are loaded. Mechanically, this is the same; this is strictly flavor. 
+					- Range Bonus: +2 spaces
+					- Carry 1
+					- Cost 150
+				- Stoneshot: earthen damage
+					- Ammo inscribed with magic that shrouds fired projectiles in a powerful boulder. Delivery depends on weapon; for Bomba Pistols, the barrel is changed, while for something like the Change-Revolver, a different set of resonance shells are loaded. Mechanically, this is the same; this is strictly flavor. 
+					- Range Bonus: -3 spaces
+					- Carry 1
+					- Cost 150
+				- Watershot
+					- Ammo inscribed with magic that shrouds fired projectiles in a powerful boulder. Delivery depends on weapon; for Bomba Pistols, the barrel is changed, while for something like the Change-Revolver, a different set of resonance shells are loaded. Mechanically, this is the same; this is strictly flavor. 
+					- Range Bonus: +0 spaces
+					- Carry 1
+					- Cost 150
+				- Crushslugs: crushing damage, 1/2 KO effectiveness.
+				- Razorshot: cutting damage, 1/2 part-cutting effectiveness.
+			- Heavy Shot
+			- Arrowheads
+
+- Progression
+	- Breaker Tonics
+		- Unlocked at Journeyman-tier.
+		- Allows players to craft custom potions using Behemoth parts.
+		- Scales with Alchemitory projects. 
+		- Each tonic has an equal amount of positives and negatives.
+	- Charms
+		- Unlocked via Company progression.
+			- Joint project between Armory R&D, Research and Alchemitory.
+			- Unlocked at Adept-tier.
+		- Perks 
+			- Always 4-slot.
+				1. Slot: Set Bonus 
+				2. Slot: A set-in-stone Perk. 
+				3. Slot: Random Tiered Perk 
+				4. Slot: Random Behemoth-Specific Perk
+	- Secondary Weaponry 
+		- Unlocked via Company progression.
+			- Joint project between Armory R&D, Research and Garrison Barracks.
+			- Unlocked at Professional-tier.
+		- 1 from each Weight Class; cannot "double-up" on a weight class.
+		- When unlocked, you gain the stats of that weapon instead of your School for that Tier.
+	- Emergence Awakening
+		- Unlocked at Master-tier.
+		- Awakens powerful latent abilities in a Breaker using Emergence Mana gathered from powerful Behemoths.
+			- Gained from Usurper-Class Behemoths; each Behemoth gives 1. 
+		- A Breaker can have 2 Awakenings active at any given time.
+		- 4 Categories
+			- Attack 
+			- Defense 
+			- Support
+			- Utility
+	- Aphex Techniques
+		- You can select one for each of of your weapons, from two options each.
+		- Usable 1 time per engagement. 
+
+- Fable-Maker Section
+	- The Behemiary
+	- Time Keeping
+
+- Tenets 
+	- Pactbound Set
+		- Magic set.
+		- 3 Pacts
+		- Core Buildings
+			- Research Center
+			- Alchemitory
+			- Grand Forge
+		- Auxiliary Buildings
+			- Desecrated Temple
+				- Unique armor set and weapons. 
+					- Desecration Priest Vestments armor.
+						- Set Bonus: Bleak Sacraments
+							- 3 pc: 
+							- 5 pc:
+							- 7 pc:
+					- Ritual Implements weapons.
+						- Perks:
+							- 
+				- Unique options for: 
+					- Invoker 
+					- Shadow
+					- Berserker
+	- Oathbound Set 
+		- Martial set.
+		- 1 of each:
+			- 2 Oaths 
+			- 2 Codes
+			- 2 Duties 
+		- Core Buildings 
+			- Commissions Office
+			- Garrison Barracks.
+		- Auxiliary Buildings
+			- The Round Table 
+				- Unique armor set and weapons. 
+					- Round Table Knight armor
+						- Set Bonus: Knight's Chivalry
+							- 3 pc: 
+							- 5 pc:
+							- 7 pc:
+					- Caliburs of the Round Table weapons.
+						- Perks: 
+							- 
+				- Unique options for: 
+					- Crusader
+					- Vindicator
+					- Caller
+	- Thiefbound Set
+		- Adept set.
+		- 3 Vows
+		- Core Buildings
+		- Auxiliary Buildings
+			- The Smugglers' Den 
+				- Unique armor set and weapons.
+					- Smuggler's Garb armor.
+						- Set Bonus: Blatant Theft
+							- 3 pc: When you land a critical hit, you become Invisible.
+							- 5 pc: 
+							- 7 pc:
+						- Thieves' Tools weapons.
+							- Perks: 
+								- 
+				- Unique options for:
+					- Auspex
+					- Shinobi
+					- Warblade
+
+- Company 
+	- A Core Building generates Asset traits at the cost of Resource traits. 
+	- Building Projects generate Resource traits (and upgrades) at the cost of Asset traits.
+		- Asset Traits:
+			- Means: The people power, land and infrastructure the Company possesses.
+			- Wealth: The amount of money the Company has access to.
+			- Influence: This how much the Company knows, as well as how fast it learns. When world events occur, highly Influential Companies learn of it first. 
+			- Loyalty: The dedication of the members of the Company.
+		- Resource Traits: 
+			- Materials: Raw, unrefined materials.
+			- Morale: The general disposition of the Company.
+		- Auxiliary Traits:
+			- Favors: Generated by the Smuggler's Den; can be spent on Wealth and Materials costs.
+			- Sacrifices: Generated by the Desecrated Temple; can be spent on Influence and Morale costs.
+			- Reputation: Generated by the Round Table; can be spent on Loyalty and Morale costs.
+	- Auxiliary Buildings generate traits for free.
+	- Company Components
+		- Name
+		- Banner
+		- Patron
+			- Provides starting Asset traits.
+		- Creed
+
+- Behemoths
+	- Mechanical Components 
+		- Behemoth Species: The family that the Behemoth belongs to. Think of the "Rath" family from Monster Hunter.
+			- Nekon Family: "Starter" family; literally means "Cat Blade" in Aphex. Features characteristic cat features, as well as blades.
+			- Levia Family: "Black Dragon" family; literally means "Chaos" in Aphex. Features widely differ across Classes. 
+		- Power Class: How powerful the Behemoth is. Determines Base Health, Stamina and Mana, as well as Damage Die Amount and Base Damage Die Size.
+			- Lord-Class
+			- Duke-Class
+			- Monarch-Class
+			- Tyrant-Class
+			- Emperor-Class
+			- Usurper-Class 
+		- Body Type: The layout of the Behemoth's body. Dictates the general amount of limbs the Behemoth has. Also determines Base Dodge Die Size. 
+			- Quadruped
+			- Winged Quadruped
+			- Biped
+			- Winged Biped
+			- Serpentine
+			- Winged Serpentine
+		- Elemental Affinity: The elemental charge of the Behemoth's mana. Not all Behemoths have affinities.
+			- Fire 
+			- Water 
+			- Earth 
+			- Air 
+			- Light 
+			- Dark
+		- Status Conditions: The statuses a Behemoth can inflict. Not all Behemoths have statuses.
+			- Paralysis
+			- Poison 
+			- Drowsiness
+			- Manablight 
+	- Traits 
+		- Attribute Traits
+			- Lethality: A measure of a Behemoth's physical damage potential.
+				- Savagery: A measure of how brutal a Behemoth is; their raw physical strength.
+				- Decisiveness: A measure of how ruthless a Behemoth is; their raw speed.
+				- Endurance: A measure of how persistent a Behemoth is; their raw fortitude.
+			- Strategy: A measure of a Behemoth's ability to plan.
+				- Patience: A measure of a Behemoth's observation and ambush ability.
+				- Pursuit: A measure of a Behemoth's mental persistence and hunting focus.
+				- Adaptation: A measure of how well a Behemoth can change to new threats.
+			- Instinct: A measure of a Behemoth's natural urges.
+				- Destruction: A measure of a Behemoth's drive to destroy things.
+				- Creation:  A measure of a Behemoth's drive to create.
+				- Survival: A measure of a Behemoth's drive to thwart death.
+			- Size: How large the Behemoth is.
+			- Derived Traits 
+				- Health 
+				- Stamina 
+				- Mana 
+				- Move
+			- Defenses
+				- Physical Resistance
+				- Physical Weaknesses
+				- Elemental Resistance
+				- Elemental Weaknesses
+				- Dodge
+	- Abilities
+		- Behaviors
+		- Biology
+	- Actions
+		- Offensive
+		- Defensive
+		- Special
+	- Design Packages
+		- Trait Packages 
+			- Lethality Specialist
+			- Strategy Specialist 
+			- Instinct Specialist 
+				- LSI: 4/4/10
+			- Generalist 
+				- LSI: 6/6/6
+		- Affinity Packages
+			- Single Affinity Specialist
+				- 1 Affinity
+				- Immune to that affinity
+				- Dire Weakness to opposite element AND Weakness to 1 Status. 
+			- Affinity Combination Specialist
+				- 3 affinities; 1 combination affinity and its components
+				- Immune to combo, resistance bonus to components.
+				- Dire Weakness to opposite combo, normal Weakness ITS components.
+			- Status Specialist
+				- 1 Status 
+				- immune to that status.
+				- Dire Weakness to 2 elements.
+			- Combo User 
+				- 1 Affinity, 1 Status.
+				- Resistance to both. 
+				- Weakness to opposite affinity and 1 status.
