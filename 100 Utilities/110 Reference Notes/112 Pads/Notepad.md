@@ -547,7 +547,7 @@
 				- Defense Focus
 				- Speed Focus
 				- Offense Focus 
-				- 
+				- Special Focus
 		- Affinity Packages
 			- Single Affinity Specialist
 				- 1 Affinity
