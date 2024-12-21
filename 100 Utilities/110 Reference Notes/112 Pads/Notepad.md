@@ -477,22 +477,22 @@
 		- Power Class: How powerful the Behemoth is. Determines Class Value and Base Damage Die Size.
 			- Lord-Class
 				- Class Value: 1
-				- Base Damage Die Size: d4
+				- Base Damage Die Size: d6
 			- Duke-Class
 				- Class Value: 2
-				- Base Damage Die Size: d4
+				- Base Damage Die Size: d6
 			- Monarch-Class
 				- Class Value: 3
-				- Base Damage Die Size: 
+				- Base Damage Die Size: d8
 			- Tyrant-Class
 				- Class Value: 4
-				- Base Damage Die Size:
+				- Base Damage Die Size: d10
 			- Emperor-Class
 				- Class Value: 5
-				- Base Damage Die Size:
+				- Base Damage Die Size: d10
 			- Usurper-Class 
 				- Class Value: 6
-				- Base Damage Die Size: 
+				- Base Damage Die Size: d12
 		- Body Type: The layout of the Behemoth's body. Dictates the general amount of limbs the Behemoth has. Also provides a Dodge Die Size adjustment. 
 			- Quadruped
 				- Dodge: +1
@@ -535,7 +535,9 @@
 			- Size: How large the Behemoth is.
 			- Derived Traits 
 				- Health 
+					- ((Base Health+Endurance)\*(Class Value+Survival))
 				- Stamina 
+				- 
 				- Mana 
 				- Move
 			- Defenses
