@@ -481,13 +481,19 @@
 			- Tyrant-Class
 			- Emperor-Class
 			- Usurper-Class 
-		- Body Type: The layout of the Behemoth's body. Dictates the general amount of limbs the Behemoth has. Also determines Base Dodge Die Size. 
+		- Body Type: The layout of the Behemoth's body. Dictates the general amount of limbs the Behemoth has. Also provides a Dodge Die Size adjustment. 
 			- Quadruped
+				- Dodge: +1
 			- Winged Quadruped
+				- Dodge: +2
 			- Biped
+				- Dodge: -1
 			- Winged Biped
+				- Dodge: +0
 			- Serpentine
+				- Dodge: +2
 			- Winged Serpentine
+				- Dodge: +3
 		- Elemental Affinity: The elemental charge of the Behemoth's mana. Not all Behemoths have affinities.
 			- Fire 
 			- Water 
