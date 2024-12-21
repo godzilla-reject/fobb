@@ -514,7 +514,7 @@
 				- Destruction: A measure of a Behemoth's drive to destroy things.
 				- Creation:  A measure of a Behemoth's drive to create.
 				- Survival: A measure of a Behemoth's drive to thwart death.
-			Size: How large the Behemoth is.
+			- Size: How large the Behemoth is.
 			- Derived Traits 
 				- Health 
 				- Stamina 
