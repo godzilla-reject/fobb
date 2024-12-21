@@ -549,23 +549,23 @@
 				- LSI: 6/6/6 (multiplied by Class Value)
 			- Trait Focuses
 				- Defense Focus
-					- Base HSM:   (multiplied by Class Value)
+					- Base HSM:  12/3/3 (multiplied by Class Value)
 					- Base Move: 2
 					- Base Dodge Die: d4
 					- Base Physical/Elemental Res: 10/10
 				- Speed Focus
-					- Base HSM: (multiplied by Class Value)
+					- Base HSM: 3/12/3 (multiplied by Class Value)
 					- Base Move: 8
 					- Base Dodge Die: d10
 					- Base Physical/Elemental Res: 4/4
 				- Offense Focus 
-					- Base HSM: (multiplied by Class Value)
+					- Base HSM: 6/6/6 (multiplied by Class Value)
 					- Base Move: 6
 					- Base Dodge Die: d8
-					- Base Physical/Elemental Res: 
+					- Base Physical/Elemental Res: 8/8
 				- Special Focus
-					- Base HSM: (multiplied by Class Value)
-					- Base Move: 6
+					- Base HSM: 3/3/12 (multiplied by Class Value)
+					- Base Move: 4
 					- Base Dodge Die: d6
 					- Base Physical/Elemental Res: 6/6
 		- Affinity Packages
