@@ -496,6 +496,8 @@
 		- Body Type: The layout of the Behemoth's body. Dictates the general amount of limbs the Behemoth has. Also provides a Dodge Die Size adjustment. 
 			- Quadruped
 				- Dodge: +1
+				- Limbs: 
+					- 
 			- Winged Quadruped
 				- Dodge: +2
 			- Biped
