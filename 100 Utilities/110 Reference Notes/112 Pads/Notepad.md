@@ -497,9 +497,20 @@
 			- Quadruped
 				- Dodge: +1
 				- Limbs: 
-					- 
+					- Head 
+					- Forelegs
+					- Body
+					- Hindlegs
+					- Tail
 			- Winged Quadruped
 				- Dodge: +2
+				- Limbs: 
+					- Head 
+					- Forelegs
+					- Body
+					- Wings
+					- Hindlegs
+					- Tail
 			- Biped
 				- Dodge: -1
 			- Winged Biped
