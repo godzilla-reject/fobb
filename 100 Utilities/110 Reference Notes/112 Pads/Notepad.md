@@ -513,10 +513,25 @@
 					- Tail
 			- Biped
 				- Dodge: -1
+				- Limbs: 
+					- Head 
+					- Arms
+					- Body
+					- Hindlegs
 			- Winged Biped
 				- Dodge: +0
+				- Limbs: 
+					- Head 
+					- Arms
+					- Body
+					- Wings
+					- Hindlegs
 			- Serpentine
 				- Dodge: +2
+				- Limbs: 
+					- Head 
+					- Body
+					- Tail
 			- Winged Serpentine
 				- Dodge: +3
 		- Elemental Affinity: The elemental charge of the Behemoth's mana. Not all Behemoths have affinities.
