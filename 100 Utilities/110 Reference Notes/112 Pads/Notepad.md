@@ -534,6 +534,11 @@
 					- Tail
 			- Winged Serpentine
 				- Dodge: +3
+				- Limbs: 
+					- Head 
+					- Body
+					- Wings
+					- Tail
 		- Elemental Affinity: The elemental charge of the Behemoth's mana. Not all Behemoths have affinities.
 			- Fire 
 			- Water 
