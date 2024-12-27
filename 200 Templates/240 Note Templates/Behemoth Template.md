@@ -3,14 +3,14 @@ name: Test
 power-class: Lord
 size: 2
 attribute_lethality: 10
-attribute_secondary_lethality: [6,4,0]
-attribute_strategy: 12
-attribute_secondary_strategy: []
-attribute_instinct: 11
-attribute_secondary_instinct: []
+attribute_secondary_lethality: [0,0,0]
+attribute_strategy: 10
+attribute_secondary_strategy: [0,0,0]
+attribute_instinct: 10
+attribute_secondary_instinct: [0,0,0]
 abilities_behavior:
-  - name: 
-    desc:
+  - name:"Test"
+    desc:"testing"
 health:
   - name: 
     desc:
