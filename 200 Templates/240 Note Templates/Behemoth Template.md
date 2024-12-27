@@ -23,4 +23,11 @@ health:
 stamina:
   - name: 
     desc:
+mana:
+  - name: 
+    desc:
+resistance_physical:
+  - name: 
+    desc:
+
 ```
