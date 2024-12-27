@@ -9,14 +9,18 @@ A family of quadrupedal feline Behemoths that boast powerful blade-like appendag
 > **Power-Class Behemoth**
 > *Behemoth Title*
 > > *literally; "Name Meaning"*; Description.
-
-
+> ---
+> > *Traits*
+>
+| Health | Stamina | Mana    |
+|:------:|:-------:|:---:|
+|        |         |     |
+> 
 |              | Lethality |            | Strategy |             | Instinct |
 |:------------:|:---------:|:----------:|:--------:|:-----------:|:--------:|
-|              |           |            |          |             |          |
+|              |    10       |            |  10        |             |    10      |
 |   Savagery   |           |  Patience  |          | Destruction |          |
-| Decisiveness |           |  Pursuit   |          | Creation            |          |
-|  Endurance   |           | Adaptation |          |         Survival    |          |
+| Decisiveness |           |  Pursuit   |          |  Creation   |          |
+|  Endurance   |           | Adaptation |          |  Survival   |          |
+> 
 
-
->
