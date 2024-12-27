@@ -29,5 +29,49 @@ mana:
 resistance_physical:
   - name: 
     desc:
-
+resistance_elemental:
+  - name: 
+    desc:
+immunities:
+  - name: 
+    desc:
+weaknesses_dire:
+  - name: 
+    desc:
+weaknesses:
+  - name: 
+    desc:
+dodge:
+  - name: 
+    desc:
+abilities_defensive:
+  - name: 
+    desc:
+melee_damage:
+  - name: 
+    desc:
+ranged_damage:
+  - name: 
+    desc:
+special_damage:
+  - name: 
+    desc:
+attacks_melee:
+  - name: 
+    desc:
+attacks_ranged:
+  - name: 
+    desc:
+attacks_special:
+  - name: 
+    desc:
+move: 
+move_fly: 
+move_climb: 
+move_burrow: 
+parts:
+  - name: 
+    desc:
+token: 
+sourcebook: 
 ```
