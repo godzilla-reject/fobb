@@ -11,11 +11,11 @@ attribute_secondary_instinct: [0,0,0]
 abilities_behavior:
   - name: Erratic
     desc: The Behemoth is immune to Stunned.
-health:
-stamina:
-mana:
-resistance_physical:
-resistance_elemental:
+health: 100
+stamina: 50
+mana: 50
+resistance_physical: 20
+resistance_elemental: 20
 immunities:
   - name: 
     desc:
