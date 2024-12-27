@@ -4,40 +4,52 @@ A family of quadrupedal feline Behemoths that boast powerful blade-like appendag
 **Lord Class**
 *literally; "Cat-Blade Vassal"*
 
->[!statblocks]
-> ## Name
-> **Power-Class Behemoth**
-> *Behemoth Title*
-> > *literally; "Name Meaning"*; Description.
-> ---
-> > ### *Traits*
+>[!statblocks|columns 3]
+>%%
+>Column 1
+>%%
 >
+>> ## Name
+>> **Power-Class Behemoth**
+>> *Behemoth Title*
+>> > *literally; "Name Meaning"*; Description.
+>> ---
+>> > ### *Traits*
+>>
 | Health | Stamina | Mana    |
 |:------:|:-------:|:---:|
 |        |         |     |
-> 
+>> 
 |              | Lethality |            | Strategy |             | Instinct |
 |:------------:|:---------:|:----------:|:--------:|:-----------:|:--------:|
 |              |    10       |            |  10        |             |    10      |
 |   Savagery   |           |  Patience  |          | Destruction |          |
 | Decisiveness |           |  Pursuit   |          |  Creation   |          |
 |  Endurance   |           | Adaptation |          |  Survival   |          |
-> 
+>> 
 |      |     |
 | ----:|:--- |
 | Size |     |
 | Move     |     |
+>>
+>> --- 
 >
-> --- 
-> > ### Defenses
->
+>%%
+>Column 2
+>%%
+>> > ### Defenses
+>>
 |Physical Resistance | Dodge | Elemental Resistance    |
 |:------:|:-------:|:---:|
 |        |         |     |
->
+>>
 | Dire Weaknesses | Immunities | Weaknesses    |
 |:------:|:-------:|:---:|
 |        |         |     |
->
-> --- 
-> 
+>>
+>> --- 
+>> > ### Offenses
+>%%
+>Column 3
+>%%
+>> > ### Behemoth Parts
