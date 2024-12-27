@@ -1,18 +1,12 @@
 ```statblock
-name: 
-power-class: 
-size: 
-attribute_lethality:
-  - name: 
-    desc:
-attribute_secondary_lethality: []
-attribute_strategy:
-  - name: 
-    desc:
+name: Test
+power-class: Lord
+size: 2
+attribute_lethality: 10
+attribute_secondary_lethality: [6,4,0]
+attribute_strategy: 12
 attribute_secondary_strategy: []
-attribute_instinct:
-  - name: 
-    desc:
+attribute_instinct: 11
 attribute_secondary_instinct: []
 abilities_behavior:
   - name: 
