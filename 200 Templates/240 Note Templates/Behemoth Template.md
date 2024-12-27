@@ -9,11 +9,11 @@ attribute_secondary_strategy: [0,0,0]
 attribute_instinct: 10
 attribute_secondary_instinct: [0,0,0]
 abilities_behavior:
-  - name:"Test"
-    desc:"testing"
+  - name: Erratic
+    desc: The Behemoth is immune to Stunned.
 health:
-  - name: 
-    desc:
+  - name: 100
+    desc: 100
 stamina:
   - name: 
     desc:
