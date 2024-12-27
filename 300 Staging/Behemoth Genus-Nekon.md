@@ -23,4 +23,9 @@ A family of quadrupedal feline Behemoths that boast powerful blade-like appendag
 | Decisiveness |           |  Pursuit   |          |  Creation   |          |
 |  Endurance   |           | Adaptation |          |  Survival   |          |
 > 
+|      |     |
+| ----:|:--- |
+| Size |     |
+| Move     |     |
+>
 
