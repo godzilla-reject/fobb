@@ -3,3 +3,9 @@ A family of quadrupedal feline Behemoths that boast powerful blade-like appendag
 ## Nekonshin
 **Lord Class**
 *literally; "Cat-Blade Vassal"*
+
+>[!statblocks]
+> ## Name
+> **Power-Class Behemoth**
+> *literally; "Name Meaning"*
+> > *literally; "Name Me"*; Description 
