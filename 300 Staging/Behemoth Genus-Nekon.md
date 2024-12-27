@@ -10,7 +10,7 @@ A family of quadrupedal feline Behemoths that boast powerful blade-like appendag
 > *Behemoth Title*
 > > *literally; "Name Meaning"*; Description.
 > ---
-> > *Traits*
+> > ### *Traits*
 >
 | Health | Stamina | Mana    |
 |:------:|:-------:|:---:|
@@ -28,4 +28,16 @@ A family of quadrupedal feline Behemoths that boast powerful blade-like appendag
 | Size |     |
 | Move     |     |
 >
-
+> --- 
+> > ### Defenses
+>
+|Physical Resistance | Dodge | Elemental Resistance    |
+|:------:|:-------:|:---:|
+|        |         |     |
+>
+| Dire Weaknesses | Immunities | Weaknesses    |
+|:------:|:-------:|:---:|
+|        |         |     |
+>
+> --- 
+> 
