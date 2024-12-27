@@ -12,20 +12,10 @@ abilities_behavior:
   - name: Erratic
     desc: The Behemoth is immune to Stunned.
 health:
-  - name: 100
-    desc: 100
 stamina:
-  - name: 
-    desc:
 mana:
-  - name: 
-    desc:
 resistance_physical:
-  - name: 
-    desc:
 resistance_elemental:
-  - name: 
-    desc:
 immunities:
   - name: 
     desc:
