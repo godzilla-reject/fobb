@@ -590,7 +590,10 @@
 					- Base DD Size+((Instinct/3)-1)
 	- Abilities
 		- Behaviors
-		- Biology
+			- The Behemoth's "Personality."
+			- Each Behemoth has 3
+				- 1 from its Specialist, 1 from its Focus, and one at-random.
+				- 
 	- Actions
 		- Offensive
 		- Defensive
