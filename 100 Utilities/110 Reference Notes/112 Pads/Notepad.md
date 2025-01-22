@@ -591,16 +591,16 @@
 	- Abilities
 		- Behaviors
 			- The Behemoth's "Personality."
-			- Each Behemoth has 3
+			- Each Behemoth has 3-6
 				- 1 from its Specialist, 1 from its Focus, and one chosen from any list.
 				- Each Behavior has a bonus and a negative.
-				- 
+				- Behaviors inform on how to both portray and roleplay the Behemoth as well as conduct it 
 	- Actions
 		- Offensive
 		- Defensive
 		- Special
 	- Design Packages
-		- Trait Packages 
+		- Trait Specialties 
 			- Lethality Specialist
 				- LSI: 9/3/6
 			- Strategy Specialist 
@@ -609,27 +609,27 @@
 				- LSI: 3/6/9
 			- Generalist 
 				- LSI: 6/6/6
-			- Trait Focuses
-				- Defense Focus
-					- Base HSM:  12/3/3
-					- Base Move: 2
-					- Base Dodge Die: d4
-					- Base Physical/Elemental Res: 10/10
-				- Speed Focus
-					- Base HSM: 3/12/3
-					- Base Move: 8
-					- Base Dodge Die: d10
-					- Base Physical/Elemental Res: 4/4
-				- Offense Focus 
-					- Base HSM: 4/8/6
-					- Base Move: 6
-					- Base Dodge Die: d8
-					- Base Physical/Elemental Res: 8/8
-				- Special Focus
-					- Base HSM: 3/3/12
-					- Base Move: 4
-					- Base Dodge Die: d6
-					- Base Physical/Elemental Res: 6/6
+		- Trait Focuses
+			- Defense Focus
+				- Base HSM:  12/3/3
+				- Base Move: 2
+				- Base Dodge Die: d4
+				- Base Physical/Elemental Res: 10/10
+			- Speed Focus
+				- Base HSM: 3/12/3
+				- Base Move: 8
+				- Base Dodge Die: d10
+				- Base Physical/Elemental Res: 4/4
+			- Offense Focus 
+				- Base HSM: 4/8/6
+				- Base Move: 6
+				- Base Dodge Die: d8
+				- Base Physical/Elemental Res: 8/8
+			- Special Focus
+				- Base HSM: 3/3/12
+				- Base Move: 4
+				- Base Dodge Die: d6
+				- Base Physical/Elemental Res: 6/6
 		- Affinity Packages
 			- Single Affinity Specialist
 				- 1 Affinity
