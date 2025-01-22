@@ -620,7 +620,8 @@
 				- Bruiser
 					- Requires Defense Focus.
 					- Melee Style. 
-					- The user relies on their powerful defenses to keep them in the fight while they provide sustained damage, typically while waiting on a key opportunity to deliver a potent special ability.  
+					- The user relies on their powerful defenses to keep them in the fight while they provide sustained damage, typically while waiting on a key opportunity to deliver a potent special ability.  Behemoths with this Behavior gain an extra Action Point at the start of each of their turns to spend on their *Combo* *Strike* actions as long they have been hit at least once during the current round, but *lose* 2 AP (at the start of their turns) if they have **not** been hit at least once.
+				- 
 				- Melee Fighter
 				- Ranged Fighter
 				- Construct Fighter
