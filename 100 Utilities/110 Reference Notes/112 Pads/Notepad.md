@@ -609,11 +609,13 @@
 				- Nekon
 				- Levia 
 			- Fighting Styles
-				- Hit-and-Run
+				- Hit-and-Runner
 					- Requires Speed Focus.
 					- Melee Style.
-					- The user frequently inflicts damage by way of single potent attacks followed by using their high speed to run away
+					- The user frequently inflicts damage by way of single potent attacks followed by using their high speed to keep distance between themselves and their prey. Behemoths with this Behavior deal an extra die of damage on any *Strike* action that follows a *Move* action, but they also deal one less die of damage on any *Strike* action that **does not** follow a *Move* action.
 				- Haymaker
+					- Melee Style. 
+					- The user relies on single, slow-but-devastating attacks to demolish their foes. Behemoths with this Behavior deal two extra dice of damage on their *Strike* actions, but can only take **
 				- 
 				- Melee Fighter
 				- Ranged Fighter
