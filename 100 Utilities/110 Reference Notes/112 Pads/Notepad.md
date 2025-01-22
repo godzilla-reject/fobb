@@ -619,6 +619,9 @@
 		- Offensive
 			- Otherwise known as attacks.
 			- Uses ranged or melee damage dice.
+			- Each action does a certain number of *x* dice; i.e. Nekonshin's Devastation Swipe does 3 dice of Melee damage, while Blade Shot does 1 die of Ranged damage. 
+			- Behemoth attacks generally never have damage die *size* bonuses.
+			- Each attack is connected to a part, called the *keyed* part
 		- Defensive
 		- Special
 	- Design Packages
