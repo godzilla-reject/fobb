@@ -625,10 +625,14 @@
 					- **Recommended For:** Offense Focus.
 					- Ranged Style. 
 					- The user relies on lining up a single shot that could threaten to kill their prey outright. Behemoths with this Behavior deal three extra dice of damage on their *Strike* actions (this adjustment has already been made), but cannot take *any other actions* on a turn in which they make an attack. 
-				- Blaster
+				- Point-Blanker
 					- **Recommended For:** Defense Focus.
 					- Ranged Style.
-					- The user dives into the fray, using short-range burst damage to take on prey at point-blank ranges. When Behemoths with this Behavior make a *Ranged Strike* action within 3 spaces or less of their target, that attack is harder to 
+					- The user dives into the fray, using short-range burst damage to take on prey at point-blank ranges. When Behemoths with this Behavior make a *Ranged Strike* action within 3 spaces or less of their target, that attack is harder to Dodge by 1 step and deals an additional die of damage, but the Behemoth *cannot* make such attacks outside of this range. 
+				- Rapid-Fire 
+					- **Recommended For:** Speed Focus.
+					- Ranged Style. 
+					- The user remains at a medium range, using overwhelming amounts of suppression 
 				- Ranged Fighter
 				- Construct Fighter
 				- Summoner
