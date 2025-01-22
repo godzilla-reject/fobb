@@ -620,10 +620,15 @@
 				- Bruiser
 					- **Recommended For:** Defense Focus.
 					- Melee Style. 
-					- The user relies on their powerful defenses to keep them in the fight while they provide sustained damage, typically while waiting on a key opportunity to deliver a potent special ability.  Behemoths with this Behavior gain an extra Action Point at the start of each of their turns to spend on their *Combo* *Strike* actions as long they have been hit at least once during the current round, but *lose* 2 AP (at the start of their turns) if they have **not** been hit at least once.
+					- The user relies on their powerful defenses (or potent speed) to keep them in the fight while they provide sustained damage, typically while waiting on a key opportunity to deliver a potent special ability.  Behemoths with this Behavior gain an extra Action Point at the start of each of their turns to spend on their *Combo* *Strike* actions as long they have been hit at least once during the current round, but *lose* 2 AP (at the start of their turns) if they have **not** been hit at least once.
 				- Sniper 
-					- 
+					- **Recommended For:** Offense Focus.
+					- Ranged Style. 
+					- The user relies on lining up a single shot that could threaten to kill their prey outright. Behemoths with this Behavior deal three extra dice of damage on their *Strike* actions (this adjustment has already been made), but cannot take *any other actions* on a turn in which they make an attack. 
 				- Blaster
+					- **Recommended For:** Defense Focus.
+					- Ranged Style.
+					- The user dives into the fray, using short-range burst damage to take on prey at point-blank ranges. When Behemoths with this Behavior make a *Ranged Strike* action within 3 spaces or less of their target, that attack is harder to 
 				- Ranged Fighter
 				- Construct Fighter
 				- Summoner
