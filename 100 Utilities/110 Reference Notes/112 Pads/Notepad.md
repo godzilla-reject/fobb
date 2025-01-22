@@ -591,10 +591,20 @@
 	- Abilities
 		- Behaviors
 			- The Behemoth's "Personality."
-			- Each Behemoth has 3-6
-				- 1 from its Specialist, 1 from its Focus, and one chosen from any list.
+			- Each Behemoth has 6
+				- 1 from Specialty, 1 from Focus, 1 from Affinity Package, 1 from Genus, 1 chosen Fighting Style and 1 selected by design. 
 				- Each Behavior has a bonus and a negative.
-				- Behaviors inform on how to both portray and roleplay the Behemoth as well as conduct it 
+				- Behaviors inform on how to both portray and roleplay the Behemoth as well as conduct it mechanically.
+			- Specialty Behaviors 
+			- Focus Behaviors 
+			- Genus Behaviors 
+			- Fighting Styles
+				- Melee Fighter
+				- Ranged Fighter
+				- Construct Fighter
+				- Summoner
+				- Generalist Fighter
+			- Beh
 	- Actions
 		- Offensive
 		- Defensive
@@ -647,9 +657,3 @@
 				- 1 Affinity, 1 Status.
 				- Resistance to both. 
 				- Weakness to opposite affinity and 1 status.
-		- Fighting Style
-			- Melee Fighter
-			- Ranged Fighter
-			- Construct Fighter
-			- Summoner
-			- Generalist Fighter

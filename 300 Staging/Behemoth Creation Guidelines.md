@@ -6,7 +6,7 @@
 # Step 5: Pick a Trait Specialty
 # Step 6: Pick a Trait Focus
 # Step 7: Pick an Affinity Package
-# Step 8: Pick a Fighting Style.
+# Step 8: Determine Behaviors.
 # Step 9: Calculate Statistics.
 # Step 10: Adjust Holistically
 # Step 11: Finish Up.
