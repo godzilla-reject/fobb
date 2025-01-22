@@ -617,6 +617,8 @@
 			- Other Behaviors
 	- Actions
 		- Offensive
+			- Otherwise known as attacks.
+			- Uses ranged or melee damage dice.
 		- Defensive
 		- Special
 	- Design Packages
@@ -651,6 +653,8 @@
 				- Base Dodge Die: d6
 				- Base Physical/Elemental Res: 6/6
 		- Elementia Capability
+			- Non-Capable 
+				- No affinities.
 			- Single Affinity User
 				- 1 Affinity, single. 
 				- Weak-to-mid tier user.
@@ -669,5 +673,5 @@
 			- Combination Affinity Specialist
 				- 3 affinities; 1 combination affinity and its components
 				- Strong-to-masterful user.
-				- Immune to combo AND components.
-				- Dire weakness to opposite
+				- Immune to combo AND its components.
+				- Dire Weakness to opposite combo AND its components.
