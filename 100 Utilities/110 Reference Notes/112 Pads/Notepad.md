@@ -610,6 +610,11 @@
 				- Levia 
 			- Fighting Styles
 				- Hit-and-Run
+					- Requires Speed Focus.
+					- Melee Style.
+					- The user frequently inflicts damage by way of single potent attacks followed by using their high speed to run away
+				- Haymaker
+				- 
 				- Melee Fighter
 				- Ranged Fighter
 				- Construct Fighter
