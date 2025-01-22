@@ -633,7 +633,7 @@
 					- **Recommended For:** Speed Focus.
 					- Ranged Style. 
 					- The user remains at a medium range, using overwhelming amounts of suppression fire to whittle down prey via attrition. Behemoths with this Behavior gain 2 AP at the start of each of their turns that can only be used for *Ranged Strike* actions **and** such actions cost 1 less AP to use, ***but***, such actions can only ever do 1 die of damage. 
-				- Construct Fighter
+				- Builder
 				- Summoner
 				- Generalist Fighter
 			- Other Behaviors
