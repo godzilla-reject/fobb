@@ -596,15 +596,25 @@
 				- Each Behavior has a bonus and a negative.
 				- Behaviors inform on how to both portray and roleplay the Behemoth as well as conduct it mechanically.
 			- Specialty Behaviors 
+				- Lethality 
+				- Strategy
+				- Instinct
+				- Generalist
 			- Focus Behaviors 
+				- Defense 
+				- Offense
+				- Speed 
+				- Special 
 			- Genus Behaviors 
+				- Nekon
+				- Levia 
 			- Fighting Styles
 				- Melee Fighter
 				- Ranged Fighter
 				- Construct Fighter
 				- Summoner
 				- Generalist Fighter
-			- Beh
+			- Other Behaviors
 	- Actions
 		- Offensive
 		- Defensive
