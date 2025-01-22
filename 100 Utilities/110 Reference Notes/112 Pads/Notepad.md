@@ -653,13 +653,21 @@
 		- Elementia Capability
 			- Single Affinity User
 				- 1 Affinity, single. 
-				- 
+				- Weak-to-mid tier user.
+				- Resistant to that element.
+				- Weakness to opposite element.
 			- Single Affinity Specialist
-				- 1 Affinity, single or combo.
-				- Immune to that affinity
+				- 1 Affinity, single.
+				- Strong-to-masterful user.
+				- Immune to that element.
 				- Dire Weakness to opposite element. 
-			- Affinity Combination Specialist
+			- Combination Affinity User 
+				- 1 Affinity, combo.
+				- Weak-to-mid tier user.
+				- Immune to combo, resistant to components.
+				- Dire Weakness to opposite combo, Weakness to opposite combo components.
+			- Combination Affinity Specialist
 				- 3 affinities; 1 combination affinity and its components
-				- Immune to combo, resistance bonus to components.
-				- Dire Weakness to opposite combo, normal Weakness to ITS components.
-
+				- Strong-to-masterful user.
+				- Immune to combo AND components.
+				- Dire weakness to opposite
