@@ -546,11 +546,6 @@
 			- Air 
 			- Light 
 			- Dark
-		- Status Conditions: The statuses a Behemoth can inflict. Not all Behemoths have statuses.
-			- Paralysis
-			- Poison 
-			- Drowsiness
-			- Manablight 
 	- Traits 
 		- Attribute Traits
 			- Lethality: A measure of a Behemoth's physical damage potential.
@@ -634,7 +629,12 @@
 					- Ranged Style. 
 					- The user remains at a medium range, using overwhelming amounts of suppression fire to whittle down prey via attrition. Behemoths with this Behavior gain 2 AP at the start of each of their turns that can only be used for *Ranged Strike* actions **and** such actions cost 1 less AP to use, ***but***, such actions can only ever do 1 die of damage. 
 				- Builder
+					- **Recommended For:** Special Focus
+					- Special Style.
+					- The user 
 				- Summoner
+					- **Recommended For:** Special Focus 
+					- Special Style.
 				- Generalist Fighter
 			- Other Behaviors
 	- Actions
