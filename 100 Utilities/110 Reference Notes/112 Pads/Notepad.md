@@ -650,20 +650,16 @@
 				- Base Move: 4
 				- Base Dodge Die: d6
 				- Base Physical/Elemental Res: 6/6
-		- Affinity Packages
+		- Elementia Capability
+			- Single Affinity User
+				- 1 Affinity, single. 
+				- 
 			- Single Affinity Specialist
-				- 1 Affinity
+				- 1 Affinity, single or combo.
 				- Immune to that affinity
-				- Dire Weakness to opposite element AND Weakness to 1 Status. 
+				- Dire Weakness to opposite element. 
 			- Affinity Combination Specialist
 				- 3 affinities; 1 combination affinity and its components
 				- Immune to combo, resistance bonus to components.
-				- Dire Weakness to opposite combo, normal Weakness ITS components.
-			- Status Specialist
-				- 1 Status 
-				- immune to that status.
-				- Dire Weakness to 2 elements.
-			- Combo User 
-				- 1 Affinity, 1 Status.
-				- Resistance to both. 
-				- Weakness to opposite affinity and 1 status.
+				- Dire Weakness to opposite combo, normal Weakness to ITS components.
+
