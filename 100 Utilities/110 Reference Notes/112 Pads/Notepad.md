@@ -609,6 +609,7 @@
 				- Nekon
 				- Levia 
 			- Fighting Styles
+				- Hit-and-Run
 				- Melee Fighter
 				- Ranged Fighter
 				- Construct Fighter
