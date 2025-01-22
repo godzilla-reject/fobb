@@ -610,19 +610,20 @@
 				- Levia 
 			- Fighting Styles
 				- Hit-and-Runner
-					- Requires Speed Focus.
+					- **Recommended For:** Speed Focus.
 					- Melee Style.
 					- The user frequently inflicts damage by way of single potent attacks followed by using their high speed to keep distance between themselves and their prey. Behemoths with this Behavior deal an extra die of damage on any *Strike* action that follows a *Move* action, but they also deal one less die of damage on any *Strike* action that **does not** follow a *Move* action.
 				- Haymaker
-					- Requires Offense Focus.
+					- **Recommended For:** Offense Focus.
 					- Melee Style. 
 					- The user relies on single, slow-but-devastating attacks to demolish their foes. Behemoths with this Behavior deal two extra dice of damage on their *Strike* actions (this adjustment has already been made), but can only take **one** per round. 
 				- Bruiser
-					- Requires Defense Focus.
+					- **Recommended For:** Defense Focus.
 					- Melee Style. 
 					- The user relies on their powerful defenses to keep them in the fight while they provide sustained damage, typically while waiting on a key opportunity to deliver a potent special ability.  Behemoths with this Behavior gain an extra Action Point at the start of each of their turns to spend on their *Combo* *Strike* actions as long they have been hit at least once during the current round, but *lose* 2 AP (at the start of their turns) if they have **not** been hit at least once.
-				- 
-				- Melee Fighter
+				- Sniper 
+					- 
+				- Blaster
 				- Ranged Fighter
 				- Construct Fighter
 				- Summoner
