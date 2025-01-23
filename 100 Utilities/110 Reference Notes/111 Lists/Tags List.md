@@ -29,8 +29,21 @@ tags: List
 	- **Stunning** *Strike* actions with this tag increase their Weapon Die size by 1 step when dealing damage to a Behemoth's Head (or equivalent.)
 	- **Teleport** Actions with this tag displace the user across local space, altering their location via mana. Actions with this tag do not trigger reactions.
 - Behemoth Action Tags 
-	- Strike 
-	- 
+	- **Armor-Piercing** *Strike* actions with this tag ignore half of a Behemoth's applicable Resistances.
+	- **Charged** This tag always has a qualifier. Actions with this tag can have a number of *additional* actions spent on them in order to gain bonus effects, which are listed in the actions *Charged* section.  
+	- **Combo** Actions with this tag are typically done in sequence. After performing a *Combo* action, your *Combo Count* increases by 1. It further increments by 1 for each *Combo* action you take, and resets to 0 when you take an action without this tag.
+	- **Combo-Breaker** This tag always has a qualifier. Actions with this tag cannot be used unless you have a *Combo Count* equal to or higher than the qualifier. 
+	- **Concentrate** Actions with this tag cannot be used if you have the drained condition.
+	- **Dodge** This tag always has a qualifier. This tag shows up on every single action that involves Dodging, and provides how that action changes the Dodge Die size of the weapon in its qualifier. For example, an action with "Dodge -2" is an action that lowers (-) Dodge Die size by two (2) steps, meanwhile "Dodge +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered an *Active Defense*. *This is a type tag.*
+	- **Flourish** Actions with this tag can only be performed once per turn. 
+	- **Intensive** Actions with this tag cannot be used if you are winded.
+	- **Limited** This tag always has a qualifier. Actions with this tag can only be used a number of times per engagement. The number of uses is given in the qualifier.
+	- **Mana** This tag always has a qualifier. Actions with this tag cost mana to use, and that cost is given in the qualifier for this tag. 
+	- **Move** This tag always has a qualifier. Actions with this trait allow the user to move as part of the action, up to a number of spaces given in the qualifier. *This is a type tag.*
+	- **Open** An action with this tag can only be used if its the first action of that type you take on your turn. 
+	- **Strike** This tag always has a qualifier. This tag shows up on every single action that involves making an attack, and provides how that action changes the Damage Die size of the weapon in its qualifier. For example, an action with "Strike -2" is an attack that lowers (-) Damage Die size by two (2) steps, meanwhile "Strike +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered *attacks*. *This is a type tag.* 
+	- **Stunning** *Strike* actions with this tag cause the
+	- **Teleport** Actions with this tag displace the Behemoth across local space, altering their location via mana. Actions with this tag do not trigger reactions.
 - Equipment Tags 
 	- **Armor** Equipment with this tag provides protection to the wearer in the form of damage resistance. *This is a type tag.*
 	- **Carry** This tag always has a qualifier. A Breaker can carry up to X of any piece of equipment with this tag, where X is the qualifier. 
