@@ -31,6 +31,7 @@ tags: List
 - Behemoth Action Tags 
 	- **Dodge** This tag always has a qualifier. This tag shows up on every single action that involves Dodging, and provides how many of the Behemoth's Dodge dice are rolled when the action is taken. Actions with this tag are considered an *Active Defense*. *This is a type tag.*
 	- **(Melee or Ranged) Strike** This tag always has a qualifier. This tag shows up on every single action that involves making an attack, and provides how many dice of damage, as well as what kind, that action deals. That amount is the number given in the qualifier. For example, an action with "Melee Strike 2" would deal two dice of Melee damage. Actions with this tag are considered *attacks*. *This is a type tag.* 
+	- **Telegraphed** This 
 - Equipment Tags 
 	- **Armor** Equipment with this tag provides protection to the wearer in the form of damage resistance. *This is a type tag.*
 	- **Carry** This tag always has a qualifier. A Breaker can carry up to X of any piece of equipment with this tag, where X is the qualifier. 
