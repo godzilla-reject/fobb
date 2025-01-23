@@ -637,6 +637,7 @@
 					- Special Style.
 				- Generalist Fighter
 			- Other Behaviors
+				- Erratic
 	- Actions
 		- Offensive
 			- Otherwise known as attacks.
