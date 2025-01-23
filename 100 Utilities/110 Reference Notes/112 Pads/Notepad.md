@@ -645,9 +645,9 @@
 			- Behemoth attacks generally never have damage die *size* bonuses.
 			- Each attack is connected to a part, called the *keyed* part. Breaking a *keyed* part forces any given attack to use numbers given in (parentheses.)
 			- Attack Layout: 
-				- Name (AP Cost) *tag 1, tag 2, etc*; **Keyed Part**, Effect.
+				- Name (AP Cost) *type tag(s), cost tag(s), etc*; **Keyed Part**, Effect.
 			- Example Attack:
-				- Devastation Swipe (●●●) **
+				- Devastation Swipe (●●●) *Strike *
 		- Defensive
 			- Behemoths cannot *block*, but in return, they have much more aggressive Resistances and higher Health. 
 		- Special
