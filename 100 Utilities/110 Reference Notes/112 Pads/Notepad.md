@@ -647,7 +647,7 @@
 			- Attack Layout: 
 				- Name (AP Cost) *type tag(s), cost tag(s), etc*; **Keyed Part**; Effect.
 			- Example Attack:
-				- Devastation Swipe (●●●) *Strike, Move 2, Stamina 6*; **Armblade**; Nekonshin lunges forward, up to the given Move, then makes a powerful swing, reinforced by metal elementia, which deals 3 dice of Melee damage. 
+				- Devastation Swipe (●●●) *Melee Strike 3, Move 2, Stamina 6*; **Armblade**; Nekonshin lunges forward, up to the given Move, then makes a powerful swing, reinforced by metal elementia.
 		- Defensive
 			- Behemoths cannot *block*, but in return, they have much more aggressive Resistances and higher Health. 
 		- Special
