@@ -650,7 +650,10 @@
 				- Devastation Swipe (●●●) *Melee Strike 3 (1), Move 2, Stamina 6 (8)*; **Armblade**; Nekonshin lunges forward, up to the given Move, then makes a powerful swing, reinforced by metal elementia.
 		- Defensive
 			- Behemoths cannot *block*, but in return, they have much more aggressive Resistances and higher Health. 
+			- A Behemoth's Dodge is *keyed*, much like their attacks, to whatever the Behemoth uses to move.
 		- Special
+			- Uses special damage dice.
+			- *Can*
 	- Design Packages
 		- Trait Specialties 
 			- Lethality Specialist
