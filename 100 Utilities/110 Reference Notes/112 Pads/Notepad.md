@@ -654,7 +654,8 @@
 		- Special
 			- Uses special damage dice.
 			- *Can* be keyed to a part, and if it is, that part is (commonly) unique to that Behemoth (or a vital part, like the head.)
-			- Always have the *Recharge* trait,
+			- Always have the *Recharge* trait, and begin any engagement "uncharged."
+			- "DPS check" and other gimmicks go here.
 	- Design Packages
 		- Trait Specialties 
 			- Lethality Specialist
