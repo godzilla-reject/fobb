@@ -653,7 +653,8 @@
 			- A Behemoth's Dodge is *keyed*, much like their attacks, to whatever the Behemoth uses to move.
 		- Special
 			- Uses special damage dice.
-			- *Can*
+			- *Can* be keyed to a part, and if it is, that part is (commonly) unique to that Behemoth (or a vital part, like the head.)
+			- Always have the *Recharge* trait,
 	- Design Packages
 		- Trait Specialties 
 			- Lethality Specialist
