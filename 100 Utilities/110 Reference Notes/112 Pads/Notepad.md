@@ -637,7 +637,7 @@
 					- Special Style.
 				- Generalist Fighter
 			- Other Behaviors
-				- **Erratic** The Behemoth is truly unpredictable
+				- **Erratic** The Behemoth is truly unpredictable; when 
 	- Actions
 		- Offensive
 			- Otherwise known as attacks.
