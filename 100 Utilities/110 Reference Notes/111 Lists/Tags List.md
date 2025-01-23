@@ -3,13 +3,13 @@ tags: List
 ---
 
 - Breaker Action Tags ^3d23d5
-	- **Armor-Piercing** *Strike* actions with this tag ignore half of a Behemoth's applicable Resistances.
+	- **Armor-Piercing** *Strike* actions with this tag ignore half of the target's applicable Resistances.
 	- **Block** This tag always has a qualifier. This tag shows up on every single action that involves Blocking, and provides how that action changes the Block Die size of the weapon in its qualifier. For example, an action with "Block -2" is an action that lowers (-) Block Die size by two (2) steps, meanwhile "Block +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered an *Active Defense*. *This is a type tag.*
 	- **Camp** Actions with this tag can only be used while **At Camp**.
 	- **Charged** This tag always has a qualifier. Actions with this tag can have a number of *additional* actions spent on them in order to gain bonus effects, which are listed in the actions *Charged* section.  
-	- **Combo** Actions with this tag are typically done in sequence. After performing a *Combo* action, your *Combo Count* increases by 1. It further increments by 1 for each *Combo* action you take, and resets to 0 when you take an action without this tag.
-	- **Combo-Breaker** This tag always has a qualifier. Actions with this tag cannot be used unless you have a *Combo Count* equal to or higher than the qualifier. 
-	- **Concentrate** Actions with this tag cannot be used if you have the drained condition.
+	- **Combo** Actions with this tag are typically done in sequence. After performing a *Combo* action, the user's *Combo Count* increases by 1. It further increments by 1 for each *Combo* action taken, and resets to 0 when the user take an action without this tag.
+	- **Combo-Breaker** This tag always has a qualifier. Actions with this tag cannot be used unless the user has a *Combo Count* equal to or higher than the qualifier. 
+	- **Concentrate** Actions with this tag cannot be used if the user is drained.
 	- **Dodge** This tag always has a qualifier. This tag shows up on every single action that involves Dodging, and provides how that action changes the Dodge Die size of the weapon in its qualifier. For example, an action with "Dodge -2" is an action that lowers (-) Dodge Die size by two (2) steps, meanwhile "Dodge +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered an *Active Defense*. *This is a type tag.*
 	- **Downtime** Actions with this tag can only be used while you are **In Downtime.**
 	- **Drawing** Actions with this tag allow the user to draw the weapon they plan on using the action with as part of it, forgoing the need to **Sheathe**.
@@ -19,7 +19,7 @@ tags: List
 	- **Limited** This tag always has a qualifier. Actions with this tag can only be used a number of times per engagement. The number of uses is given in the qualifier.
 	- **Mana** This tag always has a qualifier. Actions with this tag cost mana to use, and that cost is given in the qualifier for this tag. 
 	- **Move** This tag always has a qualifier. Actions with this trait allow the user to move as part of the action, up to a number of spaces given in the qualifier. *This is a type tag.*
-	- **Open** An action with this tag can only be used if its the first action of that type you take on your turn. 
+	- **Open** An action with this tag can only be used if its the first action of that type the user takes on their turn. 
 	- **Plan** *Explore* actions with this tag directly affect an engagement. Any given engagement can only be affected by 1 *Plan* action per player.
 	- **Reach** This tag always has a qualifier. *Strike* actions with this tag have their effective targeting area (or reach) increased by the qualifier.
 	- **Riposte** This tag always has a qualifier, and always is accompanied by the *Block* tag. Actions with this tag allow a counterattack after successfully blocking an attack. This counterattack can be any *Strike* action that requires a number of actions given in the qualifier (that you could otherwise perform.)
@@ -32,16 +32,15 @@ tags: List
 	- **Armor-Piercing** *Strike* actions with this tag ignore half of a Behemoth's applicable Resistances.
 	- **Charged** This tag always has a qualifier. Actions with this tag can have a number of *additional* actions spent on them in order to gain bonus effects, which are listed in the actions *Charged* section.  
 	- **Combo** Actions with this tag are typically done in sequence. After performing a *Combo* action, your *Combo Count* increases by 1. It further increments by 1 for each *Combo* action you take, and resets to 0 when you take an action without this tag.
-	- **Combo-Breaker** This tag always has a qualifier. Actions with this tag cannot be used unless you have a *Combo Count* equal to or higher than the qualifier. 
-	- **Concentrate** Actions with this tag cannot be used if you have the drained condition.
+	- **Concentrate** Actions with this tag cannot be used if the Behemoth is drained.
 	- **Dodge** This tag always has a qualifier. This tag shows up on every single action that involves Dodging, and provides how that action changes the Dodge Die size of the weapon in its qualifier. For example, an action with "Dodge -2" is an action that lowers (-) Dodge Die size by two (2) steps, meanwhile "Dodge +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered an *Active Defense*. *This is a type tag.*
 	- **Flourish** Actions with this tag can only be performed once per turn. 
-	- **Intensive** Actions with this tag cannot be used if you are winded.
+	- **Intensive** Actions with this tag cannot be used if the Behemoth is winded.
 	- **Limited** This tag always has a qualifier. Actions with this tag can only be used a number of times per engagement. The number of uses is given in the qualifier.
 	- **Mana** This tag always has a qualifier. Actions with this tag cost mana to use, and that cost is given in the qualifier for this tag. 
 	- **Move** This tag always has a qualifier. Actions with this trait allow the user to move as part of the action, up to a number of spaces given in the qualifier. *This is a type tag.*
-	- **Open** An action with this tag can only be used if its the first action of that type you take on your turn. 
-	- **(Melee or Ranged) Strike** This tag always has a qualifier. This tag shows up on every single action that involves making an attack, and provides how many dice of damage, as well as what kind, that action deals. That amount is the number given in the qualifier. For example, an action with "Strike -2" is an attack that lowers (-) Damage Die size by two (2) steps, meanwhile "Strike +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered *attacks*. *This is a type tag.* 
+	- **Open** An action with this tag can only be used if its the first action of that type a Behemoth  takes on its turn. 
+	- **(Melee or Ranged) Strike** This tag always has a qualifier. This tag shows up on every single action that involves making an attack, and provides how many dice of damage, as well as what kind, that action deals. That amount is the number given in the qualifier. For example, an action with "Melee Strike 2" would deal two dice of Melee damage. Actions with this tag are considered *attacks*. *This is a type tag.* 
 	- **Teleport** Actions with this tag displace the Behemoth across local space, altering their location via mana. Actions with this tag do not trigger reactions.
 - Equipment Tags 
 	- **Armor** Equipment with this tag provides protection to the wearer in the form of damage resistance. *This is a type tag.*
