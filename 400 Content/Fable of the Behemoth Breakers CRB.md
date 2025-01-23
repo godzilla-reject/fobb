@@ -2563,7 +2563,7 @@ The scout ventures out ahead or behind their hunting party. This could be to wat
 ***Exploration Activities***
 ###### Scouting
 *Exploration*
-You travel at twice your normal rate. At the beginning of the next engagement, your hunting party gains a +2 circumstance bonus to initiative, unless the target Behemoth has the **Erratic** ability. **Special** You can use this action alongside another Scout exploration activities.
+You travel at twice your normal rate. At the beginning of the next engagement, your hunting party gains a +2 circumstance bonus to initiative, unless the target Behemoth has the **Erratic** Behavior. **Special** You can use this action alongside another Scout exploration activities.
 ###### Lay A Trap
 *Exploration, Plan*
 **Requirement** You have a Trap item in your inventory;  You spend 10 minutes setting up and hiding a trap for an ambush. Select an item that meets the requirement, then explain how you hide it in the environment and a condition for it to trigger. Then, make an *average* *Creativity* test.
