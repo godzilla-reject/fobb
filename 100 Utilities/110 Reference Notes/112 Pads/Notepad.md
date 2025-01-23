@@ -645,9 +645,9 @@
 			- Behemoth attacks generally never have damage die *size* bonuses.
 			- Each attack is connected to a part, called the *keyed* part. Breaking a *keyed* part forces any given attack to use numbers given in (parentheses.)
 			- Attack Layout: 
-				- Name (AP Cost) *type tag(s), cost tag(s), etc*; **Keyed Part**, Effect.
+				- Name (AP Cost) *type tag(s), cost tag(s), etc*; **Keyed Part**; Effect.
 			- Example Attack:
-				- Devastation Swipe (●●●) *Strike *
+				- Devastation Swipe (●●●) *Strike, Move 2, Stamina 6*; **Armblade**; Nekonshin lunges forward, up to the given Move, then makes a powerful swing, reinforced by metal elementia, which deals 3 dice of Melee damage. 
 		- Defensive
 			- Behemoths cannot *block*, but in return, they have much more aggressive Resistances and higher Health. 
 		- Special
