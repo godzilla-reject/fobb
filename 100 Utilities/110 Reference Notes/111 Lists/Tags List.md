@@ -41,8 +41,7 @@ tags: List
 	- **Mana** This tag always has a qualifier. Actions with this tag cost mana to use, and that cost is given in the qualifier for this tag. 
 	- **Move** This tag always has a qualifier. Actions with this trait allow the user to move as part of the action, up to a number of spaces given in the qualifier. *This is a type tag.*
 	- **Open** An action with this tag can only be used if its the first action of that type you take on your turn. 
-	- **Strike** This tag always has a qualifier. This tag shows up on every single action that involves making an attack, and provides how that action changes the Damage Die size of the weapon in its qualifier. For example, an action with "Strike -2" is an attack that lowers (-) Damage Die size by two (2) steps, meanwhile "Strike +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered *attacks*. *This is a type tag.* 
-	- **Stunning** *Strike* actions with this tag cause the
+	- **(Melee or Ranged) Strike** This tag always has a qualifier. This tag shows up on every single action that involves making an attack, and provides how many dice of damage, as well as what kind, that action deals. That amount is the number given in the qualifier. For example, an action with "Strike -2" is an attack that lowers (-) Damage Die size by two (2) steps, meanwhile "Strike +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered *attacks*. *This is a type tag.* 
 	- **Teleport** Actions with this tag displace the Behemoth across local space, altering their location via mana. Actions with this tag do not trigger reactions.
 - Equipment Tags 
 	- **Armor** Equipment with this tag provides protection to the wearer in the form of damage resistance. *This is a type tag.*
